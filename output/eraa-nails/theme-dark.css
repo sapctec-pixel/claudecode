@@ -1,0 +1,101 @@
+/* Eraa Nails - Dark Theme */
+/* Deep burgundy-charcoal with muted rose highlights */
+
+[data-theme="dark"] {
+  --color-background: #1A1216;
+  --color-background-alt: #211A1E;
+  --color-surface: #2A2025;
+  --color-surface-hover: #352A30;
+  --color-primary: #D4919A;
+  --color-primary-hover: #E0A5AD;
+  --color-primary-light: #3D2A30;
+  --color-secondary: #D4A574;
+  --color-secondary-light: #3A2E24;
+  --color-accent: #C9956B;
+  --color-accent-gold: #C4A265;
+  --color-text: #F5EDE7;
+  --color-text-secondary: #BDB0A8;
+  --color-text-muted: #7D726A;
+  --color-border: #3D3035;
+  --color-border-light: #302528;
+  --color-divider: #352A30;
+
+  /* Shadows */
+  --shadow-soft: 0 2px 20px rgba(0, 0, 0, 0.25);
+  --shadow-medium: 0 4px 30px rgba(0, 0, 0, 0.35);
+  --shadow-elevated: 0 8px 40px rgba(0, 0, 0, 0.45);
+
+  /* Gradients */
+  --gradient-hero: linear-gradient(135deg, #1A1216 0%, #2A2025 50%, #211A1E 100%);
+  --gradient-card: linear-gradient(180deg, #2A2025 0%, #211A1E 100%);
+  --gradient-cta: linear-gradient(135deg, #D4919A 0%, #C9956B 100%);
+  --gradient-accent: linear-gradient(135deg, #3D2A30 0%, #3A2E24 100%);
+
+  /* Header */
+  --header-bg: rgba(26, 18, 22, 0.9);
+  --header-border: rgba(61, 48, 53, 0.6);
+
+  /* Gallery overlay */
+  --gallery-overlay: rgba(212, 145, 154, 0.1);
+  --gallery-overlay-hover: rgba(212, 145, 154, 0.25);
+
+  /* WhatsApp */
+  --whatsapp-bg: #25D366;
+  --whatsapp-hover: #1DA851;
+
+  /* Decorative */
+  --decorative-line: #D4A574;
+  --decorative-dot: #D4919A;
+  --quote-mark: rgba(212, 145, 154, 0.15);
+
+  /* Scrollbar */
+  --scrollbar-track: #211A1E;
+  --scrollbar-thumb: #3D3035;
+  --scrollbar-thumb-hover: #D4919A;
+}
+
+/* Typography overrides for dark theme */
+[data-theme="dark"] .heading-accent {
+  background: linear-gradient(135deg, #D4919A, #D4A574);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+[data-theme="dark"] .decorative-border {
+  border-color: #3D3035;
+}
+
+[data-theme="dark"] .card-service {
+  background: var(--gradient-card);
+  border: 1px solid var(--color-border);
+}
+
+[data-theme="dark"] .card-testimonial {
+  background: #2A2025;
+  border: 1px solid var(--color-border);
+}
+
+/* Scrollbar styling */
+[data-theme="dark"] ::-webkit-scrollbar {
+  width: 8px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover);
+}
+
+/* Selection color */
+[data-theme="dark"] ::selection {
+  background: rgba(212, 145, 154, 0.3);
+  color: #F5EDE7;
+}
