@@ -1,0 +1,58 @@
+/* Nola Restaurant - Dark Theme (Evening Trattoria) */
+/* Tailwind CSS v4 compatible custom theme overrides */
+
+/* Dark mode semantic color overrides */
+.theme-dark {
+  --color-nola-bg: #1A1614;
+  --color-nola-bg-alt: #211E1B;
+  --color-nola-surface: #252220;
+  --color-nola-surface-elevated: #302C28;
+  --color-nola-border: #3D3834;
+  --color-nola-border-subtle: #332E2A;
+  --color-nola-text: #F0E6D6;
+  --color-nola-text-secondary: #C4BAB0;
+  --color-nola-text-muted: #8A7F76;
+  --color-nola-primary: #D4564A;
+  --color-nola-primary-hover: #E8847B;
+  --color-nola-accent: #A8B87C;
+  --color-nola-accent-soft: rgba(168, 184, 124, 0.12);
+  --color-nola-highlight: #D4B07A;
+  --color-nola-section-dark: #141210;
+  --color-nola-section-dark-text: #F0E6D6;
+  --color-nola-cta-bg: #C4362A;
+  --color-nola-cta-text: #FFFFFF;
+  --color-nola-card-shadow: rgba(0, 0, 0, 0.25);
+  --color-nola-warm-shadow: rgba(196, 54, 42, 0.12);
+
+  /* Dark mode shadow overrides */
+  --shadow-subtle: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.25);
+  --shadow-elevated: 0 8px 40px rgba(0, 0, 0, 0.35);
+  --shadow-warm: 0 4px 24px rgba(196, 54, 42, 0.12);
+
+  background-color: var(--color-nola-bg);
+  color: var(--color-nola-text);
+}
+
+.theme-dark ::selection {
+  background-color: rgba(212, 86, 74, 0.25);
+  color: #F0E6D6;
+}
+
+/* Dark mode scrollbar styling */
+.theme-dark::-webkit-scrollbar {
+  width: 8px;
+}
+
+.theme-dark::-webkit-scrollbar-track {
+  background: #1A1614;
+}
+
+.theme-dark::-webkit-scrollbar-thumb {
+  background: #3D3834;
+  border-radius: 4px;
+}
+
+.theme-dark::-webkit-scrollbar-thumb:hover {
+  background: #4D4844;
+}
