@@ -1,0 +1,144 @@
+/*
+ * Biryani House -- Light Theme
+ * Warm, appetizing, welcoming
+ * Saffron/turmeric gold + deep chili red + cream + warm brown
+ */
+
+:root[data-theme="light"] {
+  /* Core palette */
+  --color-saffron-50: #FFF8E1;
+  --color-saffron-100: #FFECB3;
+  --color-saffron-200: #FFE082;
+  --color-saffron-300: #FFD54F;
+  --color-saffron-400: #FFCA28;
+  --color-saffron-500: #D4A017;
+  --color-saffron-600: #B8860B;
+  --color-saffron-700: #9E7209;
+
+  --color-chili-50: #FBE9E7;
+  --color-chili-100: #F5C5BF;
+  --color-chili-300: #D4645A;
+  --color-chili-400: #C0392B;
+  --color-chili-500: #A93226;
+  --color-chili-600: #8B1A1A;
+
+  --color-cream-50: #FFFDF5;
+  --color-cream-100: #FFF8E7;
+  --color-cream-200: #FFF3D6;
+  --color-cream-300: #FFEDC0;
+
+  --color-brown-50: #F5EDE8;
+  --color-brown-100: #E0CFC4;
+  --color-brown-200: #C4A68F;
+  --color-brown-400: #8B6341;
+  --color-brown-500: #5C3D2E;
+  --color-brown-700: #38261C;
+  --color-brown-800: #261A13;
+  --color-brown-900: #1A110D;
+
+  /* Semantic tokens */
+  --bg-primary: #FFFDF5;
+  --bg-secondary: #FFF8E7;
+  --bg-elevated: #FFFFFF;
+  --bg-warm: #FFF3D6;
+  --bg-accent: #FFF8E1;
+  --bg-hero-gradient-start: #FFFDF5;
+  --bg-hero-gradient-end: #FFF8E1;
+
+  --text-primary: #2E2820;
+  --text-secondary: #5C3D2E;
+  --text-tertiary: #6B5E4A;
+  --text-muted: #8A7A64;
+  --text-on-accent: #FFFFFF;
+  --text-on-dark: #FAF7F2;
+
+  --accent-primary: #D4A017;
+  --accent-primary-hover: #B8860B;
+  --accent-primary-light: #FFF8E1;
+  --accent-secondary: #C0392B;
+  --accent-secondary-hover: #A93226;
+  --accent-secondary-light: #FBE9E7;
+
+  --border-default: #E0D8CC;
+  --border-subtle: #F0EBE3;
+  --border-accent: #D4A017;
+
+  --shadow-subtle: 0 1px 3px rgba(92, 61, 46, 0.06);
+  --shadow-card: 0 4px 12px rgba(92, 61, 46, 0.08);
+  --shadow-elevated: 0 8px 24px rgba(92, 61, 46, 0.1);
+  --shadow-warm-glow: 0 4px 20px rgba(212, 160, 23, 0.12);
+
+  /* Spice level colors */
+  --spice-mild: #4CAF50;
+  --spice-medium: #FF9800;
+  --spice-hot: #F44336;
+  --spice-extra-hot: #B71C1C;
+
+  /* Star rating */
+  --star-filled: #D4A017;
+  --star-empty: #E0D8CC;
+
+  /* Status */
+  --status-open: #2E7D32;
+  --status-open-bg: #E8F5E9;
+
+  /* Badge */
+  --badge-popular-bg: #FFF8E1;
+  --badge-popular-text: #B8860B;
+  --badge-popular-border: #FFE082;
+
+  /* Footer */
+  --footer-bg: #2E2820;
+  --footer-text: #C8BBAB;
+  --footer-text-bright: #FAF7F2;
+  --footer-border: #4D4335;
+
+  /* Header */
+  --header-bg: rgba(255, 253, 245, 0.9);
+  --header-border: rgba(224, 216, 204, 0.5);
+
+  /* Typography */
+  --font-ar: 'Noto Kufi Arabic', 'Tajawal', sans-serif;
+  --font-en: 'Inter', 'Segoe UI', sans-serif;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.2s ease;
+  --transition-slow: 0.3s ease;
+  --transition-entrance: 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Spacing */
+  --section-gap: 5rem;
+  --content-max-width: 72rem;
+
+  /* Radii */
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-full: 9999px;
+}
+
+/* Scrollbar styling for light theme */
+:root[data-theme="light"] ::-webkit-scrollbar {
+  width: 8px;
+}
+
+:root[data-theme="light"] ::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+:root[data-theme="light"] ::-webkit-scrollbar-thumb {
+  background: var(--border-default);
+  border-radius: var(--radius-full);
+}
+
+:root[data-theme="light"] ::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Selection color */
+:root[data-theme="light"] ::selection {
+  background: rgba(212, 160, 23, 0.2);
+  color: var(--text-primary);
+}

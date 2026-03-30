@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "language": "en",
+    "direction": "ltr",
+    "title": "Fares' Steakhouse | Tabuk",
+    "description": "Tabuk's premier destination for exceptional steak. Hand-selected cuts, masterful preparation, and an unforgettable VIP dining experience."
+  },
+  "header": {
+    "brandName": "Fares' Steakhouse",
+    "navigation": {
+      "home": "Home",
+      "cuts": "Our Cuts",
+      "experience": "Experience",
+      "vip": "VIP Dining",
+      "beverages": "Beverages",
+      "reviews": "Reviews",
+      "reservation": "Reserve",
+      "contact": "Contact"
+    },
+    "languageToggle": "العربية",
+    "themeToggle": {
+      "light": "Light Mode",
+      "dark": "Dark Mode"
+    }
+  },
+  "hero": {
+    "preTitle": "Tabuk, Al-Salam District",
+    "title": "Where Meat Becomes Art",
+    "subtitle": "Exceptional cuts, perfect doneness, and an unparalleled dining experience. Welcome to Fares' Steakhouse.",
+    "cta": "Reserve Your Private Table",
+    "secondaryCta": "Explore Our Cuts",
+    "badge": "Open Now"
+  },
+  "cuts": {
+    "sectionLabel": "Premium Cuts",
+    "title": "Mastery of the Cut",
+    "subtitle": "We source the finest cuts from the world's best producers and prepare them with uncompromising expertise.",
+    "items": [
+      {
+        "name": "Ribeye",
+        "nameAr": "ريب آي",
+        "description": "The richest cut. Exceptional marbling that melts on the tongue with every bite.",
+        "weight": "300 - 450g",
+        "recommendedDoneness": "Medium Rare",
+        "signature": true
+      },
+      {
+        "name": "Filet Mignon",
+        "nameAr": "فيليه مينيون",
+        "description": "The most tender cut. Butter-soft in every slice, crafted for those who appreciate refinement.",
+        "weight": "200 - 300g",
+        "recommendedDoneness": "Medium Rare",
+        "signature": false
+      },
+      {
+        "name": "New York Strip",
+        "nameAr": "نيويورك ستريب",
+        "description": "The perfect balance of flavor and tenderness. A firm bite with unforgettable taste.",
+        "weight": "300 - 400g",
+        "recommendedDoneness": "Medium",
+        "signature": false
+      },
+      {
+        "name": "T-Bone",
+        "nameAr": "تي بون",
+        "description": "The best of both worlds: strip and filet united in one remarkable cut.",
+        "weight": "450 - 600g",
+        "recommendedDoneness": "Medium Rare",
+        "signature": false
+      },
+      {
+        "name": "Tomahawk",
+        "nameAr": "توماهوك",
+        "description": "The showpiece. A bone-in ribeye with theatrical presentation worthy of grand occasions.",
+        "weight": "800 - 1200g",
+        "recommendedDoneness": "Medium Rare",
+        "signature": true
+      }
+    ]
+  },
+  "doneness": {
+    "title": "Doneness Guide",
+    "subtitle": "Every level of doneness tells a different story. Choose what suits your palate.",
+    "levels": [
+      {
+        "name": "Blue Rare",
+        "nameAr": "بلو رير",
+        "description": "Cool red center, barely seared surface",
+        "temperature": "46 - 49 C",
+        "chefNote": "For purists"
+      },
+      {
+        "name": "Rare",
+        "nameAr": "رير",
+        "description": "Warm red center, very soft",
+        "temperature": "50 - 52 C",
+        "chefNote": "Meat flavor at its purest"
+      },
+      {
+        "name": "Medium Rare",
+        "nameAr": "ميديوم رير",
+        "description": "Warm pink center, ideal for most premium cuts",
+        "temperature": "53 - 57 C",
+        "chefNote": "Chef's choice"
+      },
+      {
+        "name": "Medium",
+        "nameAr": "ميديوم",
+        "description": "Light pink center, balanced texture",
+        "temperature": "58 - 62 C",
+        "chefNote": "Perfect balance"
+      },
+      {
+        "name": "Medium Well",
+        "nameAr": "ميديوم ويل",
+        "description": "Slight hint of pink, mostly cooked through",
+        "temperature": "63 - 67 C",
+        "chefNote": ""
+      },
+      {
+        "name": "Well Done",
+        "nameAr": "ويل دن",
+        "description": "Fully cooked, no pink remaining",
+        "temperature": "68+ C",
+        "chefNote": ""
+      }
+    ]
+  },
+  "experience": {
+    "sectionLabel": "The Experience",
+    "title": "The Fares Experience",
+    "subtitle": "Not just a meal, but a sensory journey that begins the moment you walk through our doors.",
+    "features": [
+      {
+        "title": "Global Sourcing",
+        "description": "We import the finest meats from Australia, Argentina, and Japan. Every cut is hand-selected with extraordinary care."
+      },
+      {
+        "title": "Charcoal Grilling",
+        "description": "We employ precision grilling techniques at carefully calibrated temperatures to ensure the perfect crust and complete juiciness."
+      },
+      {
+        "title": "Expert Aging",
+        "description": "Our dry-aging program extends up to 45 days, concentrating flavors and achieving exceptional tenderness."
+      },
+      {
+        "title": "Personal Service",
+        "description": "A service team trained to the highest standards, understanding your preferences and anticipating your needs."
+      }
+    ]
+  },
+  "vip": {
+    "sectionLabel": "VIP Dining",
+    "title": "Your Private Table Awaits",
+    "subtitle": "Private dining rooms designed for absolute privacy. Perfect for business meetings, special occasions, or a quiet evening away from the world.",
+    "features": [
+      "Fully private dining rooms",
+      "Custom menus tailored to your preferences",
+      "Dedicated personal server",
+      "Ambiance designed for the occasion",
+      "Guaranteed priority reservations"
+    ],
+    "cta": "Reserve Your Private Room"
+  },
+  "beverages": {
+    "sectionLabel": "Beverages",
+    "title": "The Perfect Pairing",
+    "subtitle": "Premium beverages crafted to enhance the flavor of every cut.",
+    "items": [
+      {
+        "name": "Smoked Cherry Mocktail",
+        "description": "A smoked black cherry creation, designed specifically to complement Ribeye cuts.",
+        "pairsWith": "Ribeye, Tomahawk"
+      },
+      {
+        "name": "Concentrated Pomegranate Juice",
+        "description": "Fresh pomegranate with a touch of rosemary. Balanced acidity that cuts through the richness of the meat.",
+        "pairsWith": "Filet Mignon, New York Strip"
+      },
+      {
+        "name": "Premium Arabic Coffee",
+        "description": "Carefully roasted beans with premium cardamom and saffron. The perfect conclusion to every meal.",
+        "pairsWith": "All cuts"
+      },
+      {
+        "name": "Imported Sparkling Water",
+        "description": "A selection of the finest mineral sparkling waters from around the world.",
+        "pairsWith": "All cuts"
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Guest Reviews",
+    "title": "What Our Guests Say",
+    "rating": "4.2",
+    "reviewCount": "791",
+    "reviewLabel": "reviews",
+    "items": [
+      {
+        "name": "Khalid M.",
+        "role": "Businessman",
+        "text": "The best steak I have tasted in the Kingdom. The cuts are exceptional and the service is world-class. My preferred venue for important meetings.",
+        "rating": 5
+      },
+      {
+        "name": "Abdullah R.",
+        "role": "Food Connoisseur",
+        "text": "The Tomahawk here is a work of art. Perfect doneness, theatrical presentation, and indescribable flavor. Fares has raised the bar in Tabuk.",
+        "rating": 5
+      },
+      {
+        "name": "Mohammed F.",
+        "role": "Regular Guest",
+        "text": "The private room is perfect for occasions. I have been celebrating every important milestone here for years. The service team knows my preferences exactly.",
+        "rating": 5
+      }
+    ]
+  },
+  "reservation": {
+    "title": "Ready for an Extraordinary Experience?",
+    "subtitle": "Reserve your table now via WhatsApp and enjoy the VIP service you deserve.",
+    "cta": "Reserve via WhatsApp",
+    "phone": "0558997100",
+    "whatsappMessage": "Hello, I would like to reserve a table at Fares' Steakhouse.",
+    "note": "We welcome advance reservations to ensure the finest experience. Private rooms require 24-hour advance booking."
+  },
+  "contact": {
+    "sectionLabel": "Contact Us",
+    "title": "Visit Us",
+    "address": "Al-Salam District, Tabuk, Saudi Arabia",
+    "phone": "0558997100",
+    "phoneLink": "tel:+966558997100",
+    "whatsapp": "Chat on WhatsApp",
+    "workingHours": {
+      "label": "Working Hours",
+      "hours": "Daily from 1:00 PM to 12:00 AM"
+    }
+  },
+  "footer": {
+    "brandName": "Fares' Steakhouse",
+    "tagline": "Where Meat Becomes Art",
+    "copyright": "All rights reserved",
+    "year": "2026",
+    "location": "Tabuk, Saudi Arabia"
+  }
+}

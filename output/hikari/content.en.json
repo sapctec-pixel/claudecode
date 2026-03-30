@@ -1,0 +1,193 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Hikari - Premium Japanese Dining in Tabuk",
+    "description": "An exceptional Japanese dining experience in the heart of Al-Masif, Tabuk. Fresh sushi, omakase, and an atmosphere inspired by authentic Japanese beauty."
+  },
+  "header": {
+    "brand": "Hikari",
+    "brand_japanese": "ヒカリ",
+    "nav": {
+      "experience": "Experience",
+      "menu": "Menu",
+      "ambiance": "Ambiance",
+      "reserve": "Reserve",
+      "contact": "Contact"
+    },
+    "language_toggle": "العربية",
+    "theme_toggle_light": "Light Mode",
+    "theme_toggle_dark": "Dark Mode"
+  },
+  "hero": {
+    "pretitle": "ヒカリ",
+    "title": "Hikari",
+    "subtitle": "Where Light Meets Flavor",
+    "description": "An authentic Japanese dining experience in the heart of Tabuk, where the ancient art of Japanese cuisine is revealed in every dish we craft with meticulous care and attention to the finest details.",
+    "cta_primary": "Reserve Your Table",
+    "cta_secondary": "Explore the Menu",
+    "scroll_hint": "Discover More"
+  },
+  "omakase_experience": {
+    "pretitle": "The Experience",
+    "title": "The Art of Omakase",
+    "subtitle": "Let the Chef Guide Your Journey",
+    "description": "Omakase is not merely a meal -- it is a silent dialogue between chef and guest. Entrust yourself to our chef's expertise and savor a carefully curated selection of the finest seasonal ingredients, prepared before you with precision and mastery.",
+    "features": [
+      {
+        "title": "Seasonal Ingredients",
+        "description": "We select the finest fresh ingredients according to the seasons, ensuring the highest quality and flavor in every dish."
+      },
+      {
+        "title": "Japanese Craftsmanship",
+        "description": "Every piece of sushi tells a story from Japan's rich culinary heritage of preparation and presentation."
+      },
+      {
+        "title": "An Exclusive Experience",
+        "description": "Limited seating ensures every guest receives a personal experience with exceptional attention to detail."
+      }
+    ]
+  },
+  "sushi_menu": {
+    "pretitle": "The Menu",
+    "title": "Chef's Creations",
+    "subtitle": "A Carefully Curated Selection",
+    "categories": [
+      {
+        "name": "Nigiri & Sashimi",
+        "description": "Fresh slices of the finest fish, presented in a traditional style that honors the essence of each ingredient.",
+        "items": [
+          { "name": "Salmon Nigiri", "description": "Fresh salmon over pressed rice with a touch of wasabi" },
+          { "name": "Otoro Tuna", "description": "The richest cut of tuna, melting on the palate" },
+          { "name": "Seasonal Sashimi Selection", "description": "Five pieces selected from the day's catch" }
+        ]
+      },
+      {
+        "name": "Signature Maki",
+        "description": "Inventive sushi rolls that unite Japanese authenticity with contemporary creativity.",
+        "items": [
+          { "name": "Hikari Roll", "description": "Our signature roll with torched salmon and truffle sauce" },
+          { "name": "Dragon Roll", "description": "Shrimp tempura with avocado and spicy unagi sauce" },
+          { "name": "Black Pearl Roll", "description": "Spicy tuna with caviar and toasted sesame oil" }
+        ]
+      },
+      {
+        "name": "Hot Dishes",
+        "description": "Classic Japanese dishes prepared with a modern sensibility.",
+        "items": [
+          { "name": "Hikari Ramen", "description": "Rich broth simmered for twenty hours with fresh noodles" },
+          { "name": "Assorted Tempura", "description": "Crispy vegetables and shrimp with tentsuyu dipping sauce" },
+          { "name": "Wagyu Steak", "description": "Charcoal-grilled wagyu with sea salt on Japanese binchotan" }
+        ]
+      }
+    ]
+  },
+  "sake_selection": {
+    "pretitle": "Beverages",
+    "title": "Curated Drinks",
+    "subtitle": "A Journey of Japanese Flavors",
+    "description": "A curated selection of traditional and contemporary Japanese beverages, from carefully prepared ceremonial matcha to seasonal fruit juices, each drink complements your experience.",
+    "items": [
+      {
+        "name": "Ceremonial Matcha",
+        "description": "Authentic Japanese matcha tea prepared in the traditional manner"
+      },
+      {
+        "name": "Yuzu Spritz",
+        "description": "Fresh yuzu juice with mint and sparkling soda"
+      },
+      {
+        "name": "Sakura Cooler",
+        "description": "Japanese cherry blossom drink with rose water and lemon"
+      },
+      {
+        "name": "Hojicha Latte",
+        "description": "Roasted hojicha tea with steamed milk and a hint of vanilla"
+      }
+    ]
+  },
+  "ambiance": {
+    "pretitle": "Ambiance",
+    "title": "A World of Tranquility",
+    "subtitle": "Design Inspired by Zen Philosophy",
+    "description": "Every corner of Hikari is designed as an extension of Japanese aesthetic philosophy. From carefully considered ambient lighting to natural wood and stone, each element contributes to creating an atmosphere of serenity and refinement that transforms your meal into a complete sensory experience.",
+    "features": [
+      {
+        "title": "Authentic Japanese Interior",
+        "description": "Natural materials and clean lines reflecting the essence of Japanese architecture"
+      },
+      {
+        "title": "Considered Lighting",
+        "description": "Precisely calibrated warm lighting providing an intimate and comfortable atmosphere"
+      },
+      {
+        "title": "Private Seating",
+        "description": "Separate sections offering privacy for families and special occasions"
+      }
+    ]
+  },
+  "reservation": {
+    "pretitle": "Reservation",
+    "title": "Reserve Your Experience",
+    "subtitle": "Your Table Awaits",
+    "description": "To reserve and ensure the finest experience, reach out to us via WhatsApp. Our team is ready to accommodate your special requirements and arrange your occasions.",
+    "cta": "Reserve via WhatsApp",
+    "phone": "0548803124",
+    "note": "We recommend advance booking, especially on weekends and special occasions.",
+    "hours": {
+      "title": "Opening Hours",
+      "weekdays": "Sunday - Thursday: 1:00 PM - 11:30 PM",
+      "weekends": "Friday - Saturday: 1:00 PM - 12:00 AM"
+    }
+  },
+  "testimonials": {
+    "pretitle": "Guest Reviews",
+    "title": "Words from Our Guests",
+    "subtitle": "354 Reviews with a 4.5 out of 5 Rating",
+    "items": [
+      {
+        "text": "The finest Japanese restaurant I have visited in the entire region. The quality and attention to detail rivals the premium restaurants of Riyadh and Jeddah.",
+        "author": "Ahmed M.",
+        "rating": 5
+      },
+      {
+        "text": "The omakase experience was exceptional. The chef presents each piece with remarkable skill and visible passion. The space is elegant and the service impeccable.",
+        "author": "Noura A.",
+        "rating": 5
+      },
+      {
+        "text": "Our third visit and we never tire of it. Each time we discover new flavors. A perfect venue for special occasions and refined evenings.",
+        "author": "Faisal K.",
+        "rating": 4
+      }
+    ]
+  },
+  "contact": {
+    "pretitle": "Get in Touch",
+    "title": "Our Location",
+    "address": {
+      "line1": "Al-Masif District",
+      "line2": "Tabuk, Kingdom of Saudi Arabia"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "0548803124"
+    },
+    "directions_cta": "Get Directions",
+    "whatsapp_cta": "Message on WhatsApp"
+  },
+  "footer": {
+    "brand": "Hikari",
+    "brand_japanese": "ヒカリ",
+    "tagline": "The Art of Japanese Cuisine in Tabuk",
+    "copyright": "All rights reserved",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    },
+    "social": {
+      "instagram": "Follow us on Instagram",
+      "snapchat": "Follow us on Snapchat"
+    }
+  }
+}
