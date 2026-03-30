@@ -1,0 +1,59 @@
+/* BEAUTIQUE SALON - Dark Theme */
+/* Monochrome dark base with warm accent (#C4A07C) */
+
+[data-theme="dark"] {
+  /* Accent (stays consistent across themes) */
+  --accent: #C4A07C;
+  --accent-hover: #D4B08C;
+  --accent-light: #4A3E32;
+  --accent-muted: rgba(196, 160, 124, 0.12);
+  --accent-glow: 0 4px 20px rgba(196, 160, 124, 0.2);
+
+  /* Backgrounds */
+  --bg-primary: #0A0A09;
+  --bg-secondary: #1A1918;
+  --bg-tertiary: #2A2826;
+  --bg-inverse: #FAFAF8;
+
+  /* Text */
+  --text-primary: #F0EFED;
+  --text-secondary: #C8C6C2;
+  --text-tertiary: #8A8885;
+  --text-inverse: #1A1918;
+  --text-accent: #C4A07C;
+
+  /* Borders */
+  --border: #2A2826;
+  --border-strong: #4A4845;
+  --border-accent: #C4A07C;
+
+  /* Surfaces */
+  --surface-card: #1A1918;
+  --surface-card-hover: #2A2826;
+  --surface-overlay: rgba(0, 0, 0, 0.7);
+  --surface-glass: rgba(10, 10, 9, 0.8);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.4);
+
+  /* Gradients */
+  --gradient-hero: linear-gradient(180deg, #1A1918 0%, #0A0A09 50%, #1A1918 100%);
+  --gradient-accent: linear-gradient(135deg, #C4A07C 0%, #8A6D4A 100%);
+  --gradient-card: linear-gradient(180deg, #1A1918 0%, #141312 100%);
+
+  /* Scrollbar */
+  --scrollbar-track: #1A1918;
+  --scrollbar-thumb: #4A4845;
+  --scrollbar-thumb-hover: #8A8885;
+
+  /* Placeholder images */
+  --placeholder-1: linear-gradient(135deg, #2A2826 0%, #1A1918 100%);
+  --placeholder-2: linear-gradient(135deg, #3A3836 0%, #2A2826 100%);
+  --placeholder-3: linear-gradient(135deg, #4A4845 0%, #2A2826 100%);
+
+  /* Header */
+  --header-bg: rgba(10, 10, 9, 0.85);
+  --header-blur: saturate(180%) blur(20px);
+}
