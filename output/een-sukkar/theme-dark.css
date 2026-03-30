@@ -1,0 +1,90 @@
+/* Een Sukkar - Dark Theme */
+/* Warm dark palette - deep charcoal with terracotta and sand accents */
+
+[data-theme="dark"] {
+  /* Brand Colors */
+  --color-primary: #D98A5E;
+  --color-primary-hover: #EDAA83;
+  --color-primary-light: #302A20;
+  --color-primary-100: #3A3228;
+  --color-primary-200: #4A3E32;
+  --color-primary-300: #C4704B;
+  --color-primary-400: #D98A5E;
+
+  /* Sand */
+  --color-sand: #5C4C2E;
+  --color-sand-light: #302A20;
+  --color-sand-dark: #7D663D;
+
+  /* Olive */
+  --color-olive: #8DA272;
+  --color-olive-light: #222918;
+  --color-olive-dark: #ACBC97;
+
+  /* Cream */
+  --color-cream: #1A1612;
+  --color-cream-light: #252118;
+
+  /* Semantic */
+  --color-bg: #1A1612;
+  --color-bg-alt: #1E1A15;
+  --color-surface: #252118;
+  --color-surface-elevated: #302A20;
+  --color-surface-warm: #2A2318;
+  --color-surface-sand: #252118;
+
+  --color-text-primary: #FAF6F0;
+  --color-text-secondary: #C5C0B9;
+  --color-text-muted: #827B72;
+  --color-text-inverse: #1F1C19;
+  --color-text-accent: #D98A5E;
+
+  --color-border: #35312C;
+  --color-border-subtle: #2A2520;
+  --color-border-warm: #4A3E32;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.4);
+  --shadow-warm: 0 4px 20px rgba(217, 138, 94, 0.2);
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.35);
+
+  /* Header */
+  --color-header-bg: rgba(26, 22, 18, 0.9);
+  --color-header-border: rgba(53, 49, 44, 0.6);
+
+  /* Gradient */
+  --gradient-hero: linear-gradient(135deg, #1A1612 0%, #1E1A15 50%, #252118 100%);
+  --gradient-warm: linear-gradient(135deg, #252118 0%, #302A20 100%);
+  --gradient-card: linear-gradient(180deg, rgba(217, 138, 94, 0.06) 0%, rgba(217, 138, 94, 0.02) 100%);
+
+  /* Footer */
+  --color-footer-bg: #141210;
+  --color-footer-text: #827B72;
+  --color-footer-text-bright: #C5C0B9;
+  --color-footer-border: #252118;
+
+  /* Transition */
+  --transition-colors: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+
+  /* Rating star */
+  --color-star: #D98A5E;
+
+  /* Tag colors */
+  --color-tag-bg: #222918;
+  --color-tag-text: #8DA272;
+
+  /* Step number */
+  --color-step-bg: #302A20;
+  --color-step-text: #D98A5E;
+  --color-step-line: #35312C;
+
+  /* Testimonial */
+  --color-quote: #4A3E32;
+
+  /* WhatsApp */
+  --color-whatsapp: #25D366;
+  --color-whatsapp-hover: #2EE070;
+}

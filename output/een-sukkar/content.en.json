@@ -1,0 +1,171 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Een Sukkar Restaurant | Tabuk - Modern Saudi Cuisine",
+    "description": "Een Sukkar in Al-Olaya, Tabuk. Authentic Saudi dishes with a creative twist. Order now for easy pickup."
+  },
+  "nav": {
+    "home": "Home",
+    "story": "Our Story",
+    "menu": "Dishes",
+    "order": "Order Now",
+    "contact": "Contact",
+    "theme_toggle": "Toggle Theme",
+    "lang_toggle": "العربية"
+  },
+  "hero": {
+    "badge": "Tabuk, Al-Olaya District",
+    "headline": "Authentic Saudi Flavors, Crafted for You",
+    "subheadline": "At Een Sukkar, we reimagine Saudi cuisine with passion and creativity. From our grandparents' recipes to your table, every dish tells a story.",
+    "cta_primary": "Explore the Menu",
+    "cta_secondary": "Order for Pickup",
+    "rating_text": "4.6 out of 5",
+    "reviews_text": "731 reviews"
+  },
+  "story": {
+    "section_label": "Our Story",
+    "headline": "From the Heart of Tabuk, to Yours",
+    "paragraph_1": "Een Sukkar was born from a genuine love for Saudi cuisine. We believe our heritage dishes deserve to be presented in a way that honors their legacy, without losing the soul that makes them special.",
+    "paragraph_2": "We source our ingredients with care, cook with patience, and serve every plate as if it were for a cherished guest. This is not just a restaurant. It is a home where we gather around one table.",
+    "values": [
+      {
+        "title": "Fresh Ingredients",
+        "description": "We select the finest local ingredients, sourced fresh daily"
+      },
+      {
+        "title": "Heritage Recipes",
+        "description": "Traditional recipes preserved with thoughtful modern touches"
+      },
+      {
+        "title": "Saudi Hospitality",
+        "description": "Every visit, you are welcomed as an honored guest"
+      }
+    ]
+  },
+  "popular_dishes": {
+    "section_label": "Most Popular",
+    "headline": "Dishes Our Guests Love",
+    "subtitle": "A selection of signature plates that keep our guests coming back, time after time",
+    "dishes": [
+      {
+        "name": "Een Sukkar Kabsa",
+        "description": "Hasawi rice slow-cooked with select lamb, seasoned with our secret spice blend",
+        "tag": "Best Seller"
+      },
+      {
+        "name": "Smoked Chicken Mandi",
+        "description": "Whole chicken smoked in the Tabuki tradition, served with aromatic mandi rice and spicy sauce",
+        "tag": "Guest Favorite"
+      },
+      {
+        "name": "Saleeg with Lamb",
+        "description": "Creamy rice cooked in fresh milk, topped with tender charcoal-grilled lamb",
+        "tag": "Heritage"
+      },
+      {
+        "name": "Een Sukkar Mixed Grill",
+        "description": "Premium cuts of marinated lamb and chicken, grilled over charcoal, served with fresh bread",
+        "tag": "For Groups"
+      },
+      {
+        "name": "Fatteh with Lamb",
+        "description": "Layers of toasted bread and tender lamb with tomato sauce and traditional ghee",
+        "tag": "Hearty Meal"
+      },
+      {
+        "name": "Een Sukkar Masoub",
+        "description": "Fresh masoub with banana, natural honey, and cream. A sweet masterpiece to finish your meal",
+        "tag": "Dessert"
+      }
+    ],
+    "view_full_menu": "View Full Menu"
+  },
+  "ordering": {
+    "section_label": "Easy Ordering",
+    "headline": "Your Order, Ready in Minutes",
+    "subtitle": "Save time and order directly. Three simple steps and your meal is ready for pickup",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Browse the Menu",
+        "description": "Explore our dishes and pick your favorites"
+      },
+      {
+        "number": "2",
+        "title": "Confirm Your Order",
+        "description": "Review your selection and send it via WhatsApp"
+      },
+      {
+        "number": "3",
+        "title": "Pick Up Your Meal",
+        "description": "Swing by and grab your order, fresh and ready"
+      }
+    ],
+    "cta": "Order via WhatsApp"
+  },
+  "why_us": {
+    "section_label": "Why Een Sukkar",
+    "headline": "Why Guests Keep Coming Back",
+    "reasons": [
+      {
+        "title": "Unforgettable Taste",
+        "description": "Exclusive spice blends and signature recipes that set us apart from the rest"
+      },
+      {
+        "title": "Consistent Quality",
+        "description": "The same great taste and quality with every single order. That is our promise"
+      },
+      {
+        "title": "Fast Service",
+        "description": "We respect your time. Pickup orders are prepared as quickly as possible"
+      },
+      {
+        "title": "Fair Prices",
+        "description": "High quality at prices that work for everyone, without compromise"
+      }
+    ]
+  },
+  "testimonials": {
+    "section_label": "Guest Reviews",
+    "headline": "Words from the Heart",
+    "items": [
+      {
+        "text": "One of the best restaurants in Tabuk, hands down. Their kabsa is on another level entirely. I have become a regular.",
+        "author": "Abu Abdullah",
+        "role": "Regular Guest"
+      },
+      {
+        "text": "The smoked mandi is incredible and the service is fast and respectful. Every time I host guests, I bring them here. Never disappointed.",
+        "author": "Sarah M.",
+        "role": "From Tabuk"
+      },
+      {
+        "text": "The best part is the food feels homemade yet has this creative touch. Do not miss their masoub.",
+        "author": "Fahad Al-Harbi",
+        "role": "Saudi Food Enthusiast"
+      }
+    ]
+  },
+  "contact": {
+    "section_label": "Get in Touch",
+    "headline": "We Would Love to See You",
+    "address_label": "Address",
+    "address": "Al-Olaya District, Tabuk, Saudi Arabia",
+    "phone_label": "Phone",
+    "phone": "0500106820",
+    "hours_label": "Hours",
+    "hours": "Daily from 12 PM to 12 AM",
+    "whatsapp_cta": "Message Us on WhatsApp",
+    "directions_cta": "Get Directions"
+  },
+  "footer": {
+    "brand": "Een Sukkar",
+    "tagline": "Authentic Saudi flavors, modern style",
+    "copyright": "All rights reserved",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  }
+}

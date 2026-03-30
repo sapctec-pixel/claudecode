@@ -1,0 +1,96 @@
+{
+  "brand": "Top Grill Restaurant and Lounge",
+  "archetype": "modern_retail",
+  "tokens": {
+    "colors": {
+      "dark": {
+        "background": "#0D0D0D",
+        "surface": "#1A1A1A",
+        "surface_elevated": "#2A2A2A",
+        "surface_hover": "#333333",
+        "border": "#3A3A3A",
+        "border_subtle": "#2A2A2A",
+        "text_primary": "#FFF8E7",
+        "text_secondary": "#BFB9A8",
+        "text_muted": "#8A8478",
+        "accent": "#F59E0B",
+        "accent_hover": "#FBBF24",
+        "accent_intense": "#EA580C",
+        "accent_gradient_from": "#F59E0B",
+        "accent_gradient_to": "#EA580C",
+        "accent_glow": "rgba(245, 158, 11, 0.25)",
+        "success": "#22C55E",
+        "badge_bg": "rgba(245, 158, 11, 0.15)",
+        "badge_text": "#FBBF24",
+        "overlay": "rgba(0, 0, 0, 0.7)"
+      },
+      "light": {
+        "background": "#FFFBF0",
+        "surface": "#FFFFFF",
+        "surface_elevated": "#FFF8E7",
+        "surface_hover": "#FEF3CD",
+        "border": "#E5DFD0",
+        "border_subtle": "#F0EBE0",
+        "text_primary": "#1A1A1A",
+        "text_secondary": "#4A4A4A",
+        "text_muted": "#7A7A7A",
+        "accent": "#EA580C",
+        "accent_hover": "#DC2626",
+        "accent_intense": "#B45309",
+        "accent_gradient_from": "#EA580C",
+        "accent_gradient_to": "#F59E0B",
+        "accent_glow": "rgba(234, 88, 12, 0.15)",
+        "success": "#16A34A",
+        "badge_bg": "rgba(234, 88, 12, 0.1)",
+        "badge_text": "#EA580C",
+        "overlay": "rgba(255, 251, 240, 0.8)"
+      }
+    },
+    "typography": {
+      "font_heading": "'Inter', 'Noto Kufi Arabic', system-ui, sans-serif",
+      "font_body": "'Inter', 'Noto Sans Arabic', system-ui, sans-serif",
+      "weight_bold": 800,
+      "weight_semibold": 600,
+      "weight_normal": 400,
+      "size_hero": "clamp(3.5rem, 10vw, 8rem)",
+      "size_h1": "clamp(2.5rem, 5vw, 4rem)",
+      "size_h2": "clamp(2rem, 4vw, 3rem)",
+      "size_h3": "clamp(1.25rem, 2.5vw, 1.75rem)",
+      "size_body": "1rem",
+      "size_small": "0.875rem",
+      "size_label": "0.75rem",
+      "line_height_tight": 1.1,
+      "line_height_normal": 1.6,
+      "letter_spacing_tight": "-0.03em",
+      "letter_spacing_wide": "0.15em"
+    },
+    "spacing": {
+      "section_y": "clamp(4rem, 8vw, 8rem)",
+      "container_x": "clamp(1.25rem, 5vw, 6rem)",
+      "gap_sm": "0.5rem",
+      "gap_md": "1rem",
+      "gap_lg": "2rem",
+      "gap_xl": "3rem"
+    },
+    "borders": {
+      "radius_sm": "0.375rem",
+      "radius_md": "0.75rem",
+      "radius_lg": "1rem",
+      "radius_full": "9999px"
+    },
+    "effects": {
+      "shadow_card": "0 4px 24px rgba(0, 0, 0, 0.15)",
+      "shadow_elevated": "0 8px 40px rgba(0, 0, 0, 0.25)",
+      "blur_backdrop": "12px",
+      "transition_fast": "150ms ease",
+      "transition_normal": "300ms ease",
+      "transition_slow": "600ms ease"
+    },
+    "animation": {
+      "entrance_duration": "800ms",
+      "entrance_stagger": "120ms",
+      "entrance_ease": "cubic-bezier(0.16, 1, 0.3, 1)",
+      "parallax_intensity": "0.15"
+    }
+  }
+}

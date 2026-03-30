@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "language": "en",
+    "direction": "ltr",
+    "restaurant": "Nola",
+    "tagline": "Authentic Italian in the Heart of Tabuk"
+  },
+  "nav": {
+    "home": "Home",
+    "story": "Our Story",
+    "menu": "Menu",
+    "ingredients": "Ingredients",
+    "wines": "Drinks",
+    "ambiance": "Ambiance",
+    "reviews": "Reviews",
+    "reserve": "Reserve a Table",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Authentic Italian Restaurant",
+    "title": "The Warmth of Italian Flavors",
+    "description": "From freshly made pasta to slow-simmered tomato sauce, we bring you an unforgettable Italian dining experience in the Murooj Al-Amir district of Tabuk.",
+    "cta": "Explore Our Menu",
+    "reserveCta": "Reserve Now"
+  },
+  "story": {
+    "sectionLabel": "La Cucina",
+    "title": "Our Kitchen, Our Story",
+    "paragraph1": "At Nola, we believe authentic Italian cooking begins from the heart. Our kitchen is inspired by the time-honored traditions of southern Italy, where every recipe carries generations of passion and mastery.",
+    "paragraph2": "Our chefs craft each dish with meticulous care, from hand-kneaded dough to sauces simmered gently for hours. This is the secret behind the flavors that define Nola.",
+    "highlight": "Every dish tells a story from the heart of Italy"
+  },
+  "dishes": {
+    "sectionLabel": "Signature Dishes",
+    "title": "Pasta & Pizza, the Nola Way",
+    "subtitle": "Dishes crafted with passion from carefully selected ingredients",
+    "items": [
+      {
+        "name": "Tagliatelle Bolognese",
+        "description": "Fresh pasta with a rich meat sauce slow-cooked for six hours",
+        "tag": "Most Popular"
+      },
+      {
+        "name": "Margherita Nola",
+        "description": "Hand-stretched dough with fresh mozzarella and basil from our garden",
+        "tag": "Classic"
+      },
+      {
+        "name": "Wild Mushroom Risotto",
+        "description": "Arborio rice slow-cooked with porcini mushrooms and aged Parmigiano",
+        "tag": "Seasonal"
+      },
+      {
+        "name": "Pizza Tartufo",
+        "description": "Black truffle cream with buffalo mozzarella and fresh arugula",
+        "tag": "Premium"
+      },
+      {
+        "name": "Ricotta Ravioli",
+        "description": "Ravioli filled with ricotta and spinach in sage brown butter sauce",
+        "tag": "Homestyle"
+      },
+      {
+        "name": "Stuffed Calzone",
+        "description": "Baked dough stuffed with mozzarella, prosciutto, and roasted vegetables",
+        "tag": "Signature"
+      }
+    ]
+  },
+  "ingredients": {
+    "sectionLabel": "Our Philosophy",
+    "title": "Fresh Ingredients, Authentic Flavors",
+    "description": "We select our ingredients with extraordinary care. From extra virgin olive oil imported from Tuscany to San Marzano tomatoes and fresh herbs from our own garden.",
+    "items": [
+      {
+        "name": "Extra Virgin Olive Oil",
+        "origin": "Tuscany, Italy"
+      },
+      {
+        "name": "San Marzano Tomatoes",
+        "origin": "Campania, Italy"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "origin": "Emilia-Romagna, Italy"
+      },
+      {
+        "name": "Fresh Herbs",
+        "origin": "Nola's Own Garden"
+      }
+    ]
+  },
+  "wines": {
+    "sectionLabel": "Drinks Menu",
+    "title": "Carefully Curated Beverages",
+    "description": "A curated selection of Italian and international beverages to complement your tasting experience.",
+    "items": [
+      {
+        "name": "Italian Limonata",
+        "description": "Fresh Amalfi lemon juice with mint"
+      },
+      {
+        "name": "Bellini Mocktail",
+        "description": "Fresh peach with sparkling rose water"
+      },
+      {
+        "name": "Espresso Nola",
+        "description": "Italian coffee roasted exclusively for Nola"
+      },
+      {
+        "name": "Mediterranean Herbal Tea",
+        "description": "A blend of fresh Italian herbs"
+      }
+    ]
+  },
+  "ambiance": {
+    "sectionLabel": "The Ambiance",
+    "title": "Warm Italian Atmosphere",
+    "description": "Interior design inspired by traditional Italian restaurants with an elegant modern touch. Warm lighting, rustic decor, and an atmosphere that transports you to the heart of Italy.",
+    "features": [
+      "Warm candlelight dining",
+      "Authentic Italian rustic decor",
+      "Live Italian music",
+      "Distinguished outdoor terrace"
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Guest Reviews",
+    "title": "What Our Guests Say",
+    "rating": "4.3",
+    "totalReviews": "718 reviews",
+    "items": [
+      {
+        "name": "Sarah Al-Harbi",
+        "text": "The best Italian restaurant in Tabuk, hands down. The pasta is fresh and the flavors are authentic. An unforgettable experience.",
+        "rating": 5
+      },
+      {
+        "name": "Abdullah Al-Mutairi",
+        "text": "Beautiful place and excellent food. The pizza reminds me of my visit to Naples. I recommend it to everyone.",
+        "rating": 5
+      },
+      {
+        "name": "Noura Al-Anazi",
+        "text": "Wonderful atmosphere and outstanding service. The risotto was exceptional and the tiramisu was the best I have ever tasted.",
+        "rating": 4
+      }
+    ]
+  },
+  "reservation": {
+    "sectionLabel": "Reservations",
+    "title": "Reserve Your Table",
+    "description": "Let us host you for an unforgettable Italian evening. Reserve your table via WhatsApp and enjoy an exceptional dining experience.",
+    "cta": "Reserve via WhatsApp",
+    "note": "For special occasions and large groups, please contact us in advance"
+  },
+  "contact": {
+    "sectionLabel": "Contact Us",
+    "title": "Visit Nola",
+    "address": "Murooj Al-Amir District, Tabuk",
+    "hours": "Daily from 12:00 PM to 12:00 AM",
+    "phone": "Call Us",
+    "locationLabel": "Location",
+    "hoursLabel": "Working Hours",
+    "phoneLabel": "Phone"
+  },
+  "footer": {
+    "copyright": "All Rights Reserved",
+    "tagline": "Authentic Italian in the Heart of Tabuk",
+    "year": "2026"
+  }
+}

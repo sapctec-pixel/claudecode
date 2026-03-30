@@ -1,0 +1,209 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Top Grill - Restaurant & Lounge | Tabuk",
+    "description": "Top Grill Restaurant and Lounge in Murooj Al-Amir, Tabuk. Premium grills, catering trays for events, and a refined lounge experience."
+  },
+  "header": {
+    "brand": "TOP GRILL",
+    "nav": {
+      "menu": "Our Menu",
+      "catering": "Catering & Events",
+      "lounge": "The Lounge",
+      "reviews": "Reviews",
+      "contact": "Contact"
+    },
+    "cta": "Order Now",
+    "theme_toggle": "Toggle Theme",
+    "lang_toggle": "العربية"
+  },
+  "hero": {
+    "title_line1": "Fire.",
+    "title_line2": "Flavor.",
+    "title_line3": "Experience.",
+    "subtitle": "Charcoal-grilled perfection meets refined lounge ambiance in the heart of Tabuk",
+    "cta_primary": "Order via WhatsApp",
+    "cta_secondary": "Browse Menu",
+    "badge": {
+      "rating": "4.4",
+      "reviews": "1,248 reviews"
+    }
+  },
+  "menu": {
+    "section_label": "THE MENU",
+    "title": "From Our Grill to Your Table",
+    "subtitle": "Every dish is prepared over natural charcoal with meticulous care",
+    "tabs": {
+      "grills": "Grills",
+      "appetizers": "Appetizers",
+      "drinks": "Drinks"
+    },
+    "items": {
+      "grills": [
+        {
+          "name": "Top Grill Mixed Platter",
+          "description": "Premium selection of lamb, chicken, and kofta grilled over charcoal",
+          "price": "189 SAR"
+        },
+        {
+          "name": "Grilled Lamb Chops",
+          "description": "Lamb chops marinated in our signature blend, slow-grilled to perfection",
+          "price": "159 SAR"
+        },
+        {
+          "name": "Angus Beef Steak",
+          "description": "Angus steak grilled to your preference with house special sauce",
+          "price": "179 SAR"
+        },
+        {
+          "name": "Whole Grilled Chicken",
+          "description": "Full marinated chicken, charcoal-grilled and served with rice",
+          "price": "89 SAR"
+        },
+        {
+          "name": "Signature Lamb Kebab",
+          "description": "Fresh lamb kebab with Top Grill's distinctive seasoning",
+          "price": "69 SAR"
+        },
+        {
+          "name": "Smoky Hot Wings",
+          "description": "Charcoal-grilled wings tossed in our smoky hot sauce",
+          "price": "49 SAR"
+        }
+      ],
+      "appetizers": [
+        {
+          "name": "Classic Hummus",
+          "description": "Creamy hummus with premium olive oil and tahini",
+          "price": "25 SAR"
+        },
+        {
+          "name": "Smoky Mutabbal",
+          "description": "Charcoal-roasted eggplant with tahini and pomegranate",
+          "price": "25 SAR"
+        },
+        {
+          "name": "Top Grill Fattoush",
+          "description": "Fresh fattoush salad with pomegranate molasses and toasted bread",
+          "price": "29 SAR"
+        },
+        {
+          "name": "Meat Sambousa",
+          "description": "Crispy pastry filled with seasoned ground meat and spices",
+          "price": "35 SAR"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Top Grill Mojito",
+          "description": "Fresh mint with lime and sparkling soda",
+          "price": "29 SAR"
+        },
+        {
+          "name": "Fresh Pomegranate Juice",
+          "description": "Natural pomegranate, freshly squeezed",
+          "price": "25 SAR"
+        },
+        {
+          "name": "Moroccan Tea",
+          "description": "Green tea with fresh mint and pine nuts",
+          "price": "19 SAR"
+        },
+        {
+          "name": "Mango Smoothie",
+          "description": "Fresh mango blended with milk and natural honey",
+          "price": "29 SAR"
+        }
+      ]
+    }
+  },
+  "catering": {
+    "section_label": "CATERING & EVENTS",
+    "title": "Trays for Every Occasion",
+    "subtitle": "From family gatherings to grand celebrations, our trays deliver premium quality every time",
+    "packages": [
+      {
+        "name": "Family Tray",
+        "serves": "4-6 people",
+        "description": "Assorted grilled meats with rice, appetizers, and fresh bread",
+        "price": "349 SAR",
+        "tag": ""
+      },
+      {
+        "name": "Majlis Tray",
+        "serves": "8-12 people",
+        "description": "Large platter with premium grills, bukhari rice, salads, and assorted appetizers",
+        "price": "649 SAR",
+        "tag": "Most Popular"
+      },
+      {
+        "name": "Grand Event Tray",
+        "serves": "15-20 people",
+        "description": "Full-scale tray for large events with complete selection of grills and side dishes",
+        "price": "1,199 SAR",
+        "tag": ""
+      }
+    ],
+    "events_title": "We Handle Your Events",
+    "events_description": "Full catering service for private events, corporate functions, and weddings. Our team manages setup and service from start to finish.",
+    "cta": "Book Your Event via WhatsApp"
+  },
+  "lounge": {
+    "section_label": "THE LOUNGE",
+    "title": "An Atmosphere Beyond the Ordinary",
+    "description": "Top Grill Lounge is more than a restaurant. It is a space designed for savoring every moment. Warm lighting, comfortable seating, and an ambiance that balances energy with privacy. Whether you are with friends or family, the experience here is different.",
+    "features": [
+      "Indoor and outdoor seating",
+      "Ambient background music",
+      "Complete family privacy",
+      "Contemporary modern design"
+    ]
+  },
+  "testimonials": {
+    "section_label": "REVIEWS",
+    "title": "What Our Guests Say",
+    "items": [
+      {
+        "name": "Ahmed Al-Shammari",
+        "text": "The best grills in Tabuk, hands down. The large tray for gatherings is excellent and the taste is always consistent.",
+        "rating": 5
+      },
+      {
+        "name": "Sara Al-Anazi",
+        "text": "The lounge is beautiful and the atmosphere is premium. We ordered the Majlis Tray and it was more than amazing. We always come back.",
+        "rating": 5
+      },
+      {
+        "name": "Fahad Al-Mutairi",
+        "text": "I have tried many grill restaurants but Top Grill is something else. High quality and excellent service.",
+        "rating": 4
+      },
+      {
+        "name": "Noura Al-Rashidi",
+        "text": "We ordered catering for our corporate event and the organization was excellent. Food arrived on time and fresh. Thank you Top Grill.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "section_label": "CONTACT",
+    "title": "Visit Us in Tabuk",
+    "address": "Murooj Al-Amir District, Tabuk, Saudi Arabia",
+    "phone": "+966 XX XXX XXXX",
+    "hours_title": "Working Hours",
+    "hours": "Daily from 1:00 PM to 1:00 AM",
+    "whatsapp_cta": "Message on WhatsApp",
+    "map_placeholder": "Location Map"
+  },
+  "footer": {
+    "brand": "TOP GRILL",
+    "tagline": "Restaurant & Lounge | Tabuk",
+    "copyright": "All Rights Reserved 2026",
+    "social": {
+      "instagram": "Instagram",
+      "snapchat": "Snapchat",
+      "tiktok": "TikTok"
+    }
+  }
+}

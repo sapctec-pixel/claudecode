@@ -1,0 +1,53 @@
+{
+  "shopId": "taj-mahal-tabuk",
+  "shopName": "Taj Mahal Restaurant",
+  "shopNameAr": "مطعم تاج محل",
+  "category": "restaurant",
+  "subcategory": "indian",
+  "city": "Tabuk",
+  "district": "Murooj Al-Amir",
+  "districtAr": "مروج الأمير",
+  "rating": 4.0,
+  "reviewCount": 2957,
+  "status": "open",
+  "businessQuality": "high",
+  "designArchetype": "local-friendly-grand-indian",
+  "visualStyle": "rich-indian-grandeur",
+  "templateDecision": "custom",
+  "templateReason": "One of the largest Indian restaurants in Tabuk requires a grand, premium landing page that reflects the scale and heritage of Indian culinary tradition. The high review count (2,957) and strong rating (4.0) justify a premium custom build.",
+  "primaryGoals": [
+    "Automate orders via WhatsApp to reduce waiter dependency",
+    "Clarify Indian dish ingredients and spice levels for unfamiliar diners",
+    "Showcase the grand scale and heritage of the restaurant",
+    "Drive group and family dining reservations"
+  ],
+  "keyFeatures": [
+    "Full bilingual Arabic/English support",
+    "Detailed menu with spice level indicators",
+    "Ingredient transparency for each dish category",
+    "WhatsApp ordering integration",
+    "Group dining packages section",
+    "Dark/light mode with rich Indian color palette"
+  ],
+  "colorPalette": {
+    "primary": "deep-royal-purple",
+    "secondary": "saffron-gold",
+    "accent": "ruby-red",
+    "neutral": "warm-cream",
+    "style": "jewel-tones-ornate-modern"
+  },
+  "sections": [
+    "header",
+    "hero",
+    "menu_categories",
+    "spice_guide",
+    "about_tradition",
+    "group_dining",
+    "testimonials",
+    "whatsapp_cta",
+    "contact",
+    "footer"
+  ],
+  "differentiator": "Grander and more formal than Biryani House. Ornamental CSS borders, generous layout, rich jewel-tone palette. Emphasizes heritage, tradition, and scale.",
+  "createdAt": "2026-03-30"
+}

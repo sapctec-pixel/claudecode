@@ -1,0 +1,16 @@
+{
+  "shop_name": "Hayat Trove Flowers",
+  "shop_name_ar": "حياة تروف",
+  "shop_slug": "hayat-trove-flowers",
+  "status": "build_new",
+  "reason": "No website. Flower shop depends entirely on visual appeal, needs digital catalog",
+  "confidence": "high",
+  "category": "Flower shop",
+  "district": "Al-Wurood",
+  "district_ar": "الورود",
+  "city": "Tabuk",
+  "city_ar": "تبوك",
+  "phone": "0548498465",
+  "design_archetype": "luxury",
+  "visual_direction": "Soft pastels, botanical elegance, floral luxury"
+}

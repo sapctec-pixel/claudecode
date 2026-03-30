@@ -1,0 +1,150 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Eraa Nails | Premium Nail Salon in Tabuk",
+    "description": "Eraa Nails -- luxury nail care and nail art studio in Al-Masif, Tabuk. An exquisite experience with an artistic touch. Book your appointment today."
+  },
+  "header": {
+    "brandName": "Eraa Nails",
+    "tagline": "Nail Art, Elevated",
+    "nav": {
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "about": "About",
+      "testimonials": "Reviews",
+      "contact": "Contact",
+      "book": "Book Now"
+    }
+  },
+  "hero": {
+    "headline": "Where Art Meets Elegance",
+    "subheadline": "A luxurious nail care experience that reflects your femininity and refined taste",
+    "cta": "Book Your Appointment",
+    "ctaSecondary": "View Our Work",
+    "badge": "Rated 4.9 out of 5 -- Over 970 Reviews"
+  },
+  "services": {
+    "sectionTitle": "Our Services",
+    "sectionSubtitle": "A complete collection of nail care services delivered with the highest standards of quality and luxury",
+    "items": [
+      {
+        "id": "manicure",
+        "title": "Manicure",
+        "description": "Complete nail and hand care for a flawless look and silky-smooth skin",
+        "tiers": [
+          { "name": "Classic", "price": "From 80 SAR" },
+          { "name": "Gel", "price": "From 120 SAR" },
+          { "name": "Luxury Spa", "price": "From 180 SAR" }
+        ]
+      },
+      {
+        "id": "pedicure",
+        "title": "Pedicure",
+        "description": "A relaxing and indulgent foot care experience with touches of pure luxury",
+        "tiers": [
+          { "name": "Classic", "price": "From 90 SAR" },
+          { "name": "Gel", "price": "From 140 SAR" },
+          { "name": "Luxury Spa", "price": "From 200 SAR" }
+        ]
+      },
+      {
+        "id": "nail-art",
+        "title": "Nail Art",
+        "description": "Innovative artistic designs and intricate details that transform your nails into unique masterpieces",
+        "tiers": [
+          { "name": "Simple Design", "price": "From 50 SAR" },
+          { "name": "Advanced Design", "price": "From 100 SAR" },
+          { "name": "Exclusive Design", "price": "From 180 SAR" }
+        ]
+      },
+      {
+        "id": "extensions",
+        "title": "Nail Extensions",
+        "description": "Natural-looking, long-lasting nail extensions with unmatched elegance",
+        "tiers": [
+          { "name": "Acrylic", "price": "From 200 SAR" },
+          { "name": "Gel Builder", "price": "From 250 SAR" },
+          { "name": "Custom Press-On", "price": "From 150 SAR" }
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "sectionTitle": "Our Portfolio",
+    "sectionSubtitle": "A glimpse of our creations -- every design tells a unique story of elegance and beauty",
+    "categories": ["All", "Manicure", "Nail Art", "Extensions", "Special Occasions"],
+    "viewMore": "View More"
+  },
+  "booking": {
+    "sectionTitle": "Book Your Appointment",
+    "sectionSubtitle": "One step away from an unforgettable luxury experience",
+    "description": "Reach out to us directly via WhatsApp to book your appointment and choose the perfect service for you. Our team is ready to welcome you warmly.",
+    "cta": "Book via WhatsApp",
+    "note": "Accepting bookings daily -- we respond within minutes"
+  },
+  "about": {
+    "sectionTitle": "About Us",
+    "sectionSubtitle": "Our Story",
+    "description": "Eraa Nails is more than a nail salon -- it is a destination for beauty and art. We believe every woman deserves to feel distinguished and elegant. Our team of professional artists combines international expertise with a personal touch to deliver an unparalleled experience.",
+    "values": [
+      {
+        "title": "Precision",
+        "description": "We pay meticulous attention to the finest details in every service we provide"
+      },
+      {
+        "title": "Hygiene",
+        "description": "The highest standards of sterilization and cleanliness for your safety and comfort"
+      },
+      {
+        "title": "Creativity",
+        "description": "Unique designs inspired by the latest international fashion trends"
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Client Reviews",
+    "sectionSubtitle": "What our clients say about their experience with us",
+    "rating": "4.9",
+    "totalReviews": "970+ Reviews",
+    "items": [
+      {
+        "name": "Noura",
+        "text": "The best nail salon in Tabuk, hands down. The work is clean, precise, and the service is exceptionally refined. I never go anywhere else.",
+        "rating": 5
+      },
+      {
+        "name": "Reem",
+        "text": "Every time I leave, I am amazed by the results. Their nail art is on another level -- true artistry.",
+        "rating": 5
+      },
+      {
+        "name": "Sarah",
+        "text": "A luxurious experience from reception to finish. The space is immaculate, the products are premium quality, and the results speak for themselves.",
+        "rating": 5
+      },
+      {
+        "name": "Lama",
+        "text": "I booked with them for my wedding and the result exceeded my expectations. My nails were a true work of art.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "sectionTitle": "Get in Touch",
+    "phone": "0594472444",
+    "phoneFormatted": "059 447 2444",
+    "location": "Al-Masif District, Tabuk",
+    "locationLabel": "Location",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "hoursLabel": "Working Hours",
+    "hours": "Daily"
+  },
+  "footer": {
+    "brandName": "Eraa Nails",
+    "tagline": "Nail Art, Elevated",
+    "copyright": "All Rights Reserved",
+    "madeWith": "Crafted with care in Tabuk"
+  }
+}

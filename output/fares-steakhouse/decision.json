@@ -1,0 +1,51 @@
+{
+  "shopName": "Fares' Steakhouse",
+  "shopNameAr": "ستيك هاوس فارس",
+  "category": "Independent Restaurant (Premium Steakhouse)",
+  "city": "Tabuk",
+  "district": "Al-Salam",
+  "districtAr": "السلام",
+  "phone": "0558997100",
+  "rating": 4.2,
+  "reviewCount": 791,
+  "status": "open",
+  "businessQuality": "high",
+  "designArchetype": "luxury",
+  "visualStyle": "Dark, sophisticated, masculine luxury - intimate VIP steakhouse",
+  "colorPalette": {
+    "primary": "Obsidian Black (#0A0A0A)",
+    "secondary": "Deep Burgundy (#4A0E1B)",
+    "accent": "Brushed Gold (#C5A55A)",
+    "surface": "Charcoal (#1A1A1A)",
+    "text": "Warm Ivory (#F5F0E8)",
+    "muted": "Smoke (#6B6B6B)"
+  },
+  "typography": {
+    "headingFont": "Playfair Display (serif, luxurious)",
+    "bodyFont": "Inter (clean, modern)",
+    "arabicFont": "Noto Naskh Arabic / Tajawal"
+  },
+  "sections": [
+    "Premium Header with language/theme toggle",
+    "Cinematic Hero (dark, dramatic, full-bleed)",
+    "Our Cuts (steak showcase with doneness guide)",
+    "The Fares Experience",
+    "VIP Dining & Private Events",
+    "Wine & Beverage Pairing Suggestions",
+    "Testimonials from VIP clientele",
+    "Reservation CTA (WhatsApp integration)",
+    "Contact & Location",
+    "Footer"
+  ],
+  "keyFeatures": [
+    "Bilingual Arabic/English with RTL support",
+    "Light/Dark mode (dark default)",
+    "VIP reservation WhatsApp CTA",
+    "Visual steak doneness guide (Rare to Well-Done)",
+    "Sophisticated slow animations",
+    "Mobile-first responsive design"
+  ],
+  "differentiationFromWesternRoad": "More intimate, darker, VIP-focused. Western Road is casual western; Fares is premium fine-dining steakhouse with exclusive atmosphere.",
+  "targetAudience": "High purchasing power VIP clientele in Tabuk seeking premium dining experiences",
+  "notes": "High prices, high purchasing power clientele. Dark obsidian palette with burgundy and brushed gold accents. No emoji. No template look."
+}

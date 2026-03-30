@@ -1,0 +1,15 @@
+{
+  "shop_name": "Shahad Sweet",
+  "shop_name_ar": "حلويات شهد",
+  "shop_slug": "shahad-sweet",
+  "status": "build_new",
+  "reason": "No website despite being a large multi-branch chain. Strong social media presence but no web storefront",
+  "confidence": "high",
+  "category": "premium_bakery_sweets",
+  "district": "Tabuk Al-Jadidah",
+  "district_ar": "تبوك الجديدة",
+  "city": "Tabuk",
+  "city_ar": "تبوك",
+  "design_archetype": "local_friendly",
+  "visual_style": "sweet_warm_inviting"
+}

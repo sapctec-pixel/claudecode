@@ -1,0 +1,190 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Awaar - Restaurant in Tabuk | Order Now",
+    "description": "Awaar restaurant in Al-Olaya district, Tabuk. Order directly from our menu and enjoy a premium dining experience."
+  },
+  "header": {
+    "logo": "Awaar",
+    "nav": {
+      "menu": "Menu",
+      "about": "About",
+      "reviews": "Reviews",
+      "contact": "Contact"
+    },
+    "orderNow": "Order Now",
+    "languageToggle": "AR",
+    "themeToggle": {
+      "light": "Light",
+      "dark": "Dark"
+    }
+  },
+  "hero": {
+    "badge": "Open Now",
+    "headline": "Your Favorite Food, One Tap Away",
+    "subheadline": "Order directly from our menu and get your meal in no time. A seamless ordering experience from Awaar restaurant in Al-Olaya, Tabuk.",
+    "cta_primary": "Order via WhatsApp",
+    "cta_secondary": "Browse Menu",
+    "stats": {
+      "rating": "4.4",
+      "ratingLabel": "Rating",
+      "reviews": "1,176",
+      "reviewsLabel": "Customer Reviews",
+      "experience": "5+",
+      "experienceLabel": "Years of Service"
+    }
+  },
+  "menu_categories": {
+    "sectionLabel": "Menu",
+    "headline": "Explore Our Dishes",
+    "subheadline": "Choose from our diverse selection and order directly",
+    "categories": [
+      {
+        "id": "grills",
+        "name": "Grills",
+        "description": "Premium meats charcoal-grilled to perfection",
+        "itemCount": "12 items"
+      },
+      {
+        "id": "rice",
+        "name": "Rice & Mandi",
+        "description": "Traditional rice dishes with authentic flavors",
+        "itemCount": "8 items"
+      },
+      {
+        "id": "appetizers",
+        "name": "Appetizers",
+        "description": "Fresh starters for the perfect beginning",
+        "itemCount": "10 items"
+      },
+      {
+        "id": "salads",
+        "name": "Salads",
+        "description": "Fresh salads prepared daily",
+        "itemCount": "6 items"
+      },
+      {
+        "id": "beverages",
+        "name": "Beverages",
+        "description": "A variety of hot and cold drinks",
+        "itemCount": "15 items"
+      },
+      {
+        "id": "desserts",
+        "name": "Desserts",
+        "description": "A selection of Eastern and Western sweets",
+        "itemCount": "7 items"
+      }
+    ],
+    "viewFullMenu": "View Full Menu"
+  },
+  "quick_order": {
+    "sectionLabel": "How to Order",
+    "headline": "Order in 3 Steps",
+    "subheadline": "A simple and fast ordering process",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Browse the Menu",
+        "description": "Choose your favorite dishes from our diverse menu"
+      },
+      {
+        "number": "2",
+        "title": "Send Your Order",
+        "description": "Send your order directly via WhatsApp with one tap"
+      },
+      {
+        "number": "3",
+        "title": "Receive & Enjoy",
+        "description": "Your order is ready in no time for pickup or delivery"
+      }
+    ],
+    "cta": "Start Your Order Now"
+  },
+  "about": {
+    "sectionLabel": "About Us",
+    "headline": "Awaar - The Authentic Taste of Tabuk",
+    "description": "At Awaar, we deliver a dining experience that blends authenticity with quality. We select the finest ingredients and prepare each dish with care to serve you a meal worth remembering. Located in Al-Olaya district, we are at the heart of Tabuk, ready to serve you anytime.",
+    "highlights": [
+      "Fresh ingredients daily",
+      "Specialized chefs with extensive experience",
+      "Fast service during peak hours",
+      "Clean and comfortable dining environment"
+    ]
+  },
+  "why_us": {
+    "sectionLabel": "Why Awaar",
+    "reasons": [
+      {
+        "title": "Quality Ingredients",
+        "description": "We use only the finest fresh ingredients daily"
+      },
+      {
+        "title": "Fast Preparation",
+        "description": "Efficient ordering system ensures quick turnaround"
+      },
+      {
+        "title": "Direct Ordering",
+        "description": "Order directly with no middleman or extra fees"
+      },
+      {
+        "title": "Prime Location",
+        "description": "In the heart of Al-Olaya, Tabuk, easy to reach"
+      }
+    ]
+  },
+  "reviews": {
+    "sectionLabel": "Customer Reviews",
+    "headline": "What Our Customers Say",
+    "subheadline": "Over 1,176 reviews with an average of 4.4 out of 5",
+    "items": [
+      {
+        "name": "Ahmed Al-Mutairi",
+        "rating": 5,
+        "text": "One of the best restaurants in Tabuk. The food is fresh and the service is fast. I highly recommend trying the grills.",
+        "date": "A week ago"
+      },
+      {
+        "name": "Sara Al-Harbi",
+        "rating": 5,
+        "text": "The mandi is excellent and prices are reasonable. The place is clean and the staff are very helpful.",
+        "date": "Two weeks ago"
+      },
+      {
+        "name": "Fahad Al-Anazi",
+        "rating": 4,
+        "text": "Great experience overall. The food is delicious and portions are generous. Ordering online saved us a lot of time.",
+        "date": "A month ago"
+      }
+    ],
+    "cta": "Join Our Satisfied Customers"
+  },
+  "contact": {
+    "sectionLabel": "Contact Us",
+    "headline": "Visit Us or Order Directly",
+    "address": "Al-Olaya District, Tabuk, Saudi Arabia",
+    "phone": "+966 XX XXX XXXX",
+    "whatsapp": "Order via WhatsApp",
+    "workingHours": {
+      "label": "Working Hours",
+      "hours": "Daily: 12:00 PM - 12:00 AM"
+    },
+    "mapPlaceholder": "Our Location on Map"
+  },
+  "footer": {
+    "brand": "Awaar",
+    "tagline": "The Authentic Taste of Tabuk",
+    "copyright": "All rights reserved",
+    "year": "2026",
+    "links": {
+      "menu": "Menu",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "whatsapp": {
+    "floatingLabel": "Order Now",
+    "message": "Hello, I would like to order from Awaar restaurant"
+  }
+}

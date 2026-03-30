@@ -1,0 +1,107 @@
+{
+  "brand": "Glamour Salon & Spa",
+  "archetype": "clean-service",
+  "colors": {
+    "light": {
+      "background": "#FFFFFF",
+      "backgroundAlt": "#FAF8FC",
+      "backgroundCard": "#FFFFFF",
+      "surface": "#F5F0F7",
+      "surfaceHover": "#EDE6F2",
+      "primary": "#8B6CAE",
+      "primaryHover": "#7A5C9E",
+      "primaryLight": "#E8DFF0",
+      "accent": "#C9A87C",
+      "accentHover": "#B8976B",
+      "accentLight": "#F5EDE2",
+      "text": "#2D2D2D",
+      "textSecondary": "#6B6B6B",
+      "textMuted": "#9B9B9B",
+      "textOnPrimary": "#FFFFFF",
+      "textOnAccent": "#FFFFFF",
+      "border": "#E8E0EE",
+      "borderLight": "#F0EBF4",
+      "divider": "#EDE6F2",
+      "shadow": "rgba(139, 108, 174, 0.08)",
+      "shadowStrong": "rgba(139, 108, 174, 0.16)",
+      "overlay": "rgba(45, 45, 45, 0.5)",
+      "success": "#6AAB6E",
+      "offer": "#C9567A"
+    },
+    "dark": {
+      "background": "#1A1520",
+      "backgroundAlt": "#211A2A",
+      "backgroundCard": "#261E30",
+      "surface": "#2E2538",
+      "surfaceHover": "#382E44",
+      "primary": "#B499CE",
+      "primaryHover": "#C4ADDA",
+      "primaryLight": "#2E2538",
+      "accent": "#D4B88E",
+      "accentHover": "#E0C9A4",
+      "accentLight": "#2E2820",
+      "text": "#F0ECF4",
+      "textSecondary": "#B0A8B8",
+      "textMuted": "#7A7082",
+      "textOnPrimary": "#1A1520",
+      "textOnAccent": "#1A1520",
+      "border": "#382E44",
+      "borderLight": "#2E2538",
+      "divider": "#2E2538",
+      "shadow": "rgba(0, 0, 0, 0.3)",
+      "shadowStrong": "rgba(0, 0, 0, 0.5)",
+      "overlay": "rgba(0, 0, 0, 0.7)",
+      "success": "#7BBF7F",
+      "offer": "#E07090"
+    }
+  },
+  "typography": {
+    "fontFamily": "system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif",
+    "fontFamilyArabic": "'Noto Sans Arabic', 'Segoe UI', Tahoma, sans-serif",
+    "scale": {
+      "hero": "clamp(2.5rem, 5vw, 4rem)",
+      "h1": "clamp(2rem, 4vw, 3rem)",
+      "h2": "clamp(1.5rem, 3vw, 2.25rem)",
+      "h3": "clamp(1.25rem, 2vw, 1.5rem)",
+      "body": "1rem",
+      "small": "0.875rem",
+      "caption": "0.75rem"
+    },
+    "weight": {
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    },
+    "lineHeight": {
+      "tight": 1.2,
+      "normal": 1.6,
+      "relaxed": 1.8
+    }
+  },
+  "spacing": {
+    "sectionY": "clamp(4rem, 8vw, 7rem)",
+    "containerX": "clamp(1rem, 4vw, 2rem)",
+    "maxWidth": "1200px",
+    "cardPadding": "1.5rem",
+    "gap": "1.5rem"
+  },
+  "borderRadius": {
+    "small": "0.375rem",
+    "medium": "0.75rem",
+    "large": "1rem",
+    "full": "9999px"
+  },
+  "transitions": {
+    "fast": "150ms ease",
+    "normal": "300ms ease",
+    "slow": "500ms ease",
+    "reveal": "700ms cubic-bezier(0.16, 1, 0.3, 1)"
+  },
+  "shadows": {
+    "card": "0 2px 12px var(--shadow)",
+    "cardHover": "0 8px 30px var(--shadow-strong)",
+    "button": "0 2px 8px var(--shadow)"
+  }
+}

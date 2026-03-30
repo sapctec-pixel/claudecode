@@ -1,0 +1,104 @@
+/* Western Road Steak & Grill - Light Theme */
+/* Apply via: <html data-theme="light"> or prefers-color-scheme: light */
+
+[data-theme="light"],
+.theme-light {
+  /* Backgrounds */
+  --bg-primary: #faf9f7;
+  --bg-secondary: #f5f3f0;
+  --bg-tertiary: #ede8e2;
+  --bg-elevated: #ffffff;
+  --bg-hero-overlay: rgba(250, 249, 247, 0.85);
+
+  /* Surfaces */
+  --surface: #ffffff;
+  --surface-hover: #f5f3f0;
+  --surface-border: #ddd4c8;
+  --surface-border-subtle: #ede8e2;
+
+  /* Text */
+  --text-primary: #1c1917;
+  --text-secondary: #4d3d33;
+  --text-muted: #7d6652;
+  --text-inverse: #faf9f7;
+
+  /* Brand / Accent */
+  --accent: #c4841a;
+  --accent-hover: #a66a14;
+  --accent-muted: #f0d5a8;
+  --accent-subtle: #fdf8f0;
+  --accent-text: #5a340f;
+  --accent-on-accent: #ffffff;
+
+  /* Gold Gradients */
+  --gradient-gold: linear-gradient(135deg, #c4841a 0%, #d4982e 50%, #e6b96e 100%);
+  --gradient-gold-subtle: linear-gradient(135deg, #fdf8f0 0%, #f9ecd6 100%);
+
+  /* Decorative */
+  --ornament: #c4841a;
+  --ornament-muted: #f0d5a8;
+  --divider: #ddd4c8;
+  --divider-subtle: #ede8e2;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px 0 rgba(28, 25, 23, 0.06), 0 1px 2px -1px rgba(28, 25, 23, 0.06);
+  --shadow-md: 0 4px 6px -1px rgba(28, 25, 23, 0.08), 0 2px 4px -2px rgba(28, 25, 23, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(28, 25, 23, 0.08), 0 4px 6px -4px rgba(28, 25, 23, 0.06);
+  --shadow-xl: 0 20px 25px -5px rgba(28, 25, 23, 0.1), 0 8px 10px -6px rgba(28, 25, 23, 0.08);
+  --shadow-glow: 0 0 20px rgba(196, 132, 26, 0.15);
+  --shadow-glow-strong: 0 0 40px rgba(196, 132, 26, 0.25);
+
+  /* Specific Components */
+  --topbar-bg: #1c1917;
+  --topbar-text: #c7b8a5;
+  --nav-bg: rgba(255, 255, 255, 0.9);
+  --nav-bg-scrolled: rgba(255, 255, 255, 0.95);
+  --nav-text: #4d3d33;
+  --nav-border: rgba(221, 212, 200, 0.5);
+
+  --hero-bg: #1c1917;
+  --hero-text: #faf9f7;
+  --hero-subtitle: #c7b8a5;
+
+  --card-bg: #ffffff;
+  --card-border: #ede8e2;
+  --card-hover-border: #c4841a;
+  --card-hover-shadow: 0 10px 25px -5px rgba(196, 132, 26, 0.15);
+
+  --badge-bg: #fdf8f0;
+  --badge-text: #8a5212;
+  --badge-border: #f0d5a8;
+
+  --btn-primary-bg: #c4841a;
+  --btn-primary-text: #ffffff;
+  --btn-primary-hover: #a66a14;
+  --btn-secondary-bg: transparent;
+  --btn-secondary-text: #c4841a;
+  --btn-secondary-border: #c4841a;
+  --btn-secondary-hover-bg: #fdf8f0;
+
+  --input-bg: #ffffff;
+  --input-border: #ddd4c8;
+  --input-focus-border: #c4841a;
+
+  --footer-bg: #1c1917;
+  --footer-text: #c7b8a5;
+  --footer-muted: #7d6652;
+  --footer-border: #292524;
+
+  --cta-section-bg: linear-gradient(135deg, #1c1917 0%, #292524 100%);
+  --cta-section-text: #faf9f7;
+
+  --star-color: #d4982e;
+  --whatsapp-green: #25d366;
+
+  /* Scrollbar */
+  --scrollbar-track: #f5f3f0;
+  --scrollbar-thumb: #c7b8a5;
+  --scrollbar-thumb-hover: #9a8068;
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 500ms cubic-bezier(0.4, 0, 0.2, 1);
+}

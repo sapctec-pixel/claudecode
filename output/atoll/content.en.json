@@ -1,0 +1,139 @@
+{
+  "locale": "en",
+  "direction": "ltr",
+  "meta": {
+    "title": "Atoll | Exceptional Dining in Tabuk",
+    "description": "Atoll is Tabuk's premier fine dining destination. A refined culinary experience where creativity meets tradition in an atmosphere of contemporary luxury."
+  },
+  "nav": {
+    "about": "Our Story",
+    "menu": "The Menu",
+    "experience": "Experience",
+    "testimonials": "Guests",
+    "reservation": "Reserve a Table",
+    "contact": "Contact",
+    "language_toggle": "العربية"
+  },
+  "hero": {
+    "eyebrow": "Tabuk, Saudi Arabia",
+    "headline": "Where Craft Meets Palate",
+    "subheadline": "A singular sensory journey beyond conventional dining, in a space designed to tell the story of every dish",
+    "cta_primary": "Reserve Your Evening",
+    "cta_secondary": "Explore the Menu"
+  },
+  "trust": {
+    "rating": "4.8",
+    "rating_label": "out of 5",
+    "reviews_count": "1,658",
+    "reviews_label": "guest reviews",
+    "badge_text": "Tabuk's premier fine dining destination"
+  },
+  "about": {
+    "eyebrow": "Our Story",
+    "headline": "An Island of Calm Within the City",
+    "paragraph_1": "Just as coral atolls form in the ocean's solitude to become captivating oases of beauty, Atoll was created as a sanctuary for those who seek a dining experience unlike any other.",
+    "paragraph_2": "We believe exceptional cuisine begins with selecting the finest ingredients, passes through skilled hands that honour every element, and arrives at your table carrying a story worth telling.",
+    "paragraph_3": "At Atoll, every detail is intentional: from the soft lighting that embraces the evening, to dishes presented as works of art, to service that anticipates your desires with quiet precision."
+  },
+  "signature_dishes": {
+    "eyebrow": "From Our Kitchen",
+    "headline": "Dishes That Tell a Story",
+    "subtitle": "Selections from our menu, where local flavours meet global culinary techniques",
+    "dishes": [
+      {
+        "name": "Venison with Pomegranate Reduction",
+        "description": "Slow-roasted venison loin served with concentrated pomegranate jus and truffle potato puree",
+        "category": "Main Course"
+      },
+      {
+        "name": "Red Sea Hamour, Atoll Style",
+        "description": "Red Sea grouper in brown butter with toasted almond flakes and aged black lime juice",
+        "category": "From the Sea"
+      },
+      {
+        "name": "Black Truffle Risotto",
+        "description": "Arborio rice slow-cooked in bone broth with generous shavings of black truffle and aged Parmigiano",
+        "category": "Pasta & Rice"
+      },
+      {
+        "name": "Dark Chocolate and Cardamom Tart",
+        "description": "Baked dark chocolate tart with a hint of Arabian cardamom, served with natural vanilla ice cream",
+        "category": "Dessert"
+      }
+    ],
+    "cta": "View Full Menu"
+  },
+  "experience": {
+    "eyebrow": "The Experience",
+    "headline": "More Than a Dinner",
+    "subtitle": "Every visit to Atoll is a complete evening of pleasure and discovery",
+    "features": [
+      {
+        "title": "Considered Atmosphere",
+        "description": "An interior that balances warmth and elegance, with thoughtful lighting and architectural details that reflect the spirit of the space"
+      },
+      {
+        "title": "Curated Ingredients",
+        "description": "We work with the finest local and international purveyors to ensure the purest, most flavourful ingredients reach our kitchen"
+      },
+      {
+        "title": "World-Class Service",
+        "description": "A team trained to the highest standards of hospitality, dedicated to making every moment of your experience seamless and memorable"
+      },
+      {
+        "title": "Seasonally Evolving Menu",
+        "description": "Our executive chef refreshes the menu with each season, drawing inspiration from ingredients at their peak of ripeness and flavour"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Our Guests Speak",
+    "headline": "Unforgettable Experiences",
+    "items": [
+      {
+        "quote": "One of the finest dining experiences I have had in the Kingdom. Every dish was a masterpiece in both taste and presentation. Worth every riyal.",
+        "author": "Fahad Al-Shammari",
+        "context": "Special occasion dinner"
+      },
+      {
+        "quote": "A serene and refined atmosphere with a team that attends to the smallest details. The food is exceptional and the service matches it perfectly. An experience worth repeating.",
+        "author": "Noura Al-Otaibi",
+        "context": "Family dinner"
+      },
+      {
+        "quote": "A remarkable discovery in Tabuk. The level of food and service rivals the best restaurants in Riyadh and Jeddah. I will return on every visit to the region.",
+        "author": "Abdullah Al-Harbi",
+        "context": "Business visit"
+      }
+    ]
+  },
+  "reservation": {
+    "eyebrow": "Reserve Your Experience",
+    "headline": "Your Table Awaits",
+    "subtitle": "We have an exceptional evening waiting for you. Book now via WhatsApp for instant confirmation.",
+    "cta_whatsapp": "Reserve via WhatsApp",
+    "cta_call": "Call to Reserve",
+    "note": "Advance booking is recommended, especially for weekends and special occasions"
+  },
+  "contact": {
+    "eyebrow": "Visit Atoll",
+    "headline": "We Welcome You",
+    "address": "King Abdullah Road, Tabuk",
+    "address_country": "Saudi Arabia",
+    "hours_label": "Opening Hours",
+    "hours_weekday": "Sunday - Thursday: 1:00 PM - 12:00 AM",
+    "hours_weekend": "Friday - Saturday: 1:00 PM - 1:00 AM",
+    "phone_label": "Reservations & Enquiries",
+    "email_label": "Email",
+    "map_cta": "View on Map"
+  },
+  "footer": {
+    "brand": "Atoll",
+    "tagline": "Exceptional dining in Tabuk",
+    "copyright": "All rights reserved",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+/* Een Sukkar - Light Theme */
+/* Warm terracotta, sand, olive green, cream palette */
+
+:root,
+[data-theme="light"] {
+  /* Brand Colors */
+  --color-primary: #C4704B;
+  --color-primary-hover: #A85A38;
+  --color-primary-light: #FDF5F0;
+  --color-primary-100: #FAE8DC;
+  --color-primary-200: #F4CCB3;
+  --color-primary-300: #EDAA83;
+  --color-primary-400: #D98A5E;
+
+  /* Sand */
+  --color-sand: #E8D5B7;
+  --color-sand-light: #FBF6ED;
+  --color-sand-dark: #D4BA8E;
+
+  /* Olive */
+  --color-olive: #6B7F4E;
+  --color-olive-light: #F4F6F0;
+  --color-olive-dark: #56673E;
+
+  /* Cream */
+  --color-cream: #FAF6F0;
+  --color-cream-light: #FFFEFB;
+
+  /* Semantic */
+  --color-bg: #FAF6F0;
+  --color-bg-alt: #FBF6ED;
+  --color-surface: #FFFFFF;
+  --color-surface-elevated: #FFFEFB;
+  --color-surface-warm: #FDF5F0;
+  --color-surface-sand: #FBF6ED;
+
+  --color-text-primary: #1F1C19;
+  --color-text-secondary: #665F57;
+  --color-text-muted: #A39D94;
+  --color-text-inverse: #FAF6F0;
+  --color-text-accent: #A85A38;
+
+  --color-border: #E0DDD8;
+  --color-border-subtle: #F0EEEB;
+  --color-border-warm: #F4CCB3;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(31, 28, 25, 0.06);
+  --shadow-md: 0 4px 12px rgba(31, 28, 25, 0.08);
+  --shadow-lg: 0 8px 24px rgba(31, 28, 25, 0.1);
+  --shadow-warm: 0 4px 20px rgba(196, 112, 75, 0.15);
+  --shadow-card: 0 2px 8px rgba(31, 28, 25, 0.06);
+  --shadow-card-hover: 0 8px 24px rgba(31, 28, 25, 0.12);
+
+  /* Header */
+  --color-header-bg: rgba(250, 246, 240, 0.85);
+  --color-header-border: rgba(224, 221, 216, 0.6);
+
+  /* Gradient */
+  --gradient-hero: linear-gradient(135deg, #FAF6F0 0%, #FBF6ED 50%, #FDF5F0 100%);
+  --gradient-warm: linear-gradient(135deg, #FDF5F0 0%, #FAE8DC 100%);
+  --gradient-card: linear-gradient(180deg, rgba(196, 112, 75, 0.05) 0%, rgba(196, 112, 75, 0.02) 100%);
+
+  /* Footer */
+  --color-footer-bg: #1F1C19;
+  --color-footer-text: #C5C0B9;
+  --color-footer-text-bright: #FAF6F0;
+  --color-footer-border: #35312C;
+
+  /* Transition */
+  --transition-colors: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+
+  /* Rating star */
+  --color-star: #D98A5E;
+
+  /* Tag colors */
+  --color-tag-bg: #F4F6F0;
+  --color-tag-text: #56673E;
+
+  /* Step number */
+  --color-step-bg: #FDF5F0;
+  --color-step-text: #C4704B;
+  --color-step-line: #E0DDD8;
+
+  /* Testimonial */
+  --color-quote: #F4CCB3;
+
+  /* WhatsApp */
+  --color-whatsapp: #25D366;
+  --color-whatsapp-hover: #1EBE57;
+}
