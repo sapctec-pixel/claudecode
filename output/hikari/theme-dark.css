@@ -1,0 +1,89 @@
+/*
+ * Hikari - Dark Theme
+ * Japanese Zen Minimalism: Ink and shadow, lantern glow
+ * Inspired by: Sumi ink, candlelit izakaya, night garden
+ */
+
+:root[data-theme="dark"] {
+  /* Backgrounds */
+  --bg-primary: #0A0A0A;
+  --bg-surface: #141414;
+  --bg-surface-elevated: #1A1A1A;
+  --bg-hero: linear-gradient(180deg, #0A0A0A 0%, #141414 100%);
+  --bg-section-alt: #141414;
+  --bg-card: #1A1A1A;
+  --bg-card-hover: #2D2D2D;
+  --bg-overlay: rgba(0, 0, 0, 0.7);
+  --bg-header: rgba(10, 10, 10, 0.92);
+  --bg-header-scroll: rgba(10, 10, 10, 0.97);
+  --bg-reservation: #141414;
+  --bg-mobile-menu: rgba(10, 10, 10, 0.98);
+
+  /* Text */
+  --text-primary: #FAF7F2;
+  --text-secondary: #D1D5DB;
+  --text-muted: #9CA3AF;
+  --text-inverse: #0A0A0A;
+  --text-on-hero: #FAF7F2;
+  --text-on-reservation: #FAF7F2;
+  --text-accent: #DC2626;
+
+  /* Accent */
+  --accent: #DC2626;
+  --accent-hover: #EF4444;
+  --accent-light: rgba(220, 38, 38, 0.12);
+  --accent-glow: rgba(220, 38, 38, 0.2);
+
+  /* Borders */
+  --border: #2D2D2D;
+  --border-subtle: #1A1A1A;
+  --border-accent: #DC2626;
+  --border-card: #2D2D2D;
+  --border-card-hover: #DC2626;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 40px rgba(220, 38, 38, 0.15);
+
+  /* Specific Components */
+  --star-filled: #DC2626;
+  --star-empty: #374151;
+  --scrollbar-track: #141414;
+  --scrollbar-thumb: #2D2D2D;
+  --tab-active-bg: rgba(220, 38, 38, 0.1);
+  --tab-active-border: #DC2626;
+  --tab-inactive: #9CA3AF;
+  --divider: #2D2D2D;
+  --badge-bg: rgba(220, 38, 38, 0.1);
+  --badge-text: #DC2626;
+
+  /* Transitions */
+  --transition-colors: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Scrollbar styling for dark theme */
+:root[data-theme="dark"] ::-webkit-scrollbar {
+  width: 8px;
+}
+
+:root[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+
+:root[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+}
+
+:root[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: #374151;
+}
+
+/* Selection styling */
+:root[data-theme="dark"] ::selection {
+  background-color: rgba(220, 38, 38, 0.25);
+  color: #FAF7F2;
+}
