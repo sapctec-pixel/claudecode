@@ -1,0 +1,191 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "D SPA | Luxury Wellness Oasis in Tabuk",
+    "description": "Premium spa experience in the heart of Al-Olaya, Tabuk. Relaxation, deep tissue, facial, body care, and couples packages. Book now via WhatsApp."
+  },
+  "header": {
+    "brand": "D SPA",
+    "brand_ar": "دي سبا",
+    "nav": {
+      "packages": "Packages",
+      "experience": "Experience",
+      "membership": "Membership",
+      "testimonials": "Testimonials",
+      "booking": "Book Now",
+      "contact": "Contact"
+    },
+    "language_toggle": "العربية",
+    "theme_toggle_light": "Light Mode",
+    "theme_toggle_dark": "Dark Mode"
+  },
+  "hero": {
+    "tagline": "A Sanctuary of Calm in Tabuk",
+    "headline": "Where Art Meets Relaxation",
+    "description": "At D SPA, we believe that caring for your body is a journey that begins from within. Let us take you on an experience that renews your energy and restores your balance in an atmosphere of serenity and luxury.",
+    "cta_primary": "Book Your Session",
+    "cta_secondary": "Explore Packages"
+  },
+  "packages": {
+    "section_title": "Our Signature Packages",
+    "section_subtitle": "Each package is thoughtfully designed to offer a unique experience tailored to your needs",
+    "items": {
+      "relaxation": {
+        "name": "Relaxation Package",
+        "duration": "60 minutes",
+        "description": "A classic Swedish massage session designed to relieve tension and soothe muscles. Your journey begins with aromatic steaming that prepares your senses for complete relaxation.",
+        "includes": [
+          "Full-body Swedish massage",
+          "Aromatherapy steam session",
+          "Calming herbal beverage"
+        ],
+        "price": "From SAR 350"
+      },
+      "deep_tissue": {
+        "name": "Deep Tissue Package",
+        "duration": "75 minutes",
+        "description": "An advanced therapeutic massage targeting deep muscles and addressing chronic tension points. Ideal for those suffering from work fatigue and back pain.",
+        "includes": [
+          "Specialized deep tissue massage",
+          "Therapeutic hot compresses",
+          "Guided stretching exercises"
+        ],
+        "price": "From SAR 450"
+      },
+      "facial": {
+        "name": "Facial Care Package",
+        "duration": "90 minutes",
+        "description": "A comprehensive facial treatment combining modern techniques with natural ingredients. We use premium products to purify, rejuvenate, and illuminate your skin.",
+        "includes": [
+          "Deep cleansing and exfoliation",
+          "Nourishing collagen mask",
+          "Face and neck massage",
+          "Specialized hydrating serum"
+        ],
+        "price": "From SAR 500"
+      },
+      "body": {
+        "name": "Body Care Package",
+        "duration": "120 minutes",
+        "description": "A complete body care experience including exfoliation, hydration, and massage. A comprehensive renewal journey that gives your skin unparalleled softness and vitality.",
+        "includes": [
+          "Full Dead Sea salt exfoliation",
+          "Moroccan clay body wrap",
+          "Shea butter hydrating massage",
+          "Private steam bath"
+        ],
+        "price": "From SAR 650"
+      },
+      "couples": {
+        "name": "Couples Package",
+        "duration": "120 minutes",
+        "description": "A shared relaxation experience in a private romantic setting. A session designed for couples combining massage and care in a private suite with a serene ambiance.",
+        "includes": [
+          "Synchronized dual massage",
+          "Taif rose bath",
+          "Premium beverages and confections",
+          "Private candlelit suite"
+        ],
+        "price": "From SAR 1,200"
+      }
+    }
+  },
+  "experience": {
+    "section_title": "The D SPA Experience",
+    "section_subtitle": "More Than Just a Spa",
+    "philosophy": "At D SPA, we believe true relaxation begins when all senses harmonize. From the moment you enter, you will feel the difference in every detail: carefully selected fragrances, warm lighting, soothing music, and the studied touch of our specialized team.",
+    "pillars": [
+      {
+        "title": "Expert Therapists",
+        "description": "A team of the most skilled internationally certified therapists with over ten years of experience in the art of massage and body care."
+      },
+      {
+        "title": "Natural Ingredients",
+        "description": "We use only the finest natural and organic products sourced from the best origins around the world."
+      },
+      {
+        "title": "Exceptional Atmosphere",
+        "description": "Every corner of D SPA is designed to be a haven of calm, from nature-inspired decor to coordinated lighting and fragrances."
+      },
+      {
+        "title": "Complete Privacy",
+        "description": "Private, secluded suites ensuring an exclusive experience free from any disturbance, with the highest standards of hygiene."
+      }
+    ]
+  },
+  "membership": {
+    "section_title": "D SPA Membership",
+    "section_subtitle": "Join a World of Exclusive Privileges",
+    "description": "D SPA membership offers you more than just discounts. It is an invitation to belong to a community that values self-care and deserves the best.",
+    "tiers": [
+      {
+        "name": "Silver Membership",
+        "benefits": [
+          "10% discount on all packages",
+          "Complimentary session every five visits",
+          "Priority booking",
+          "Welcome gift"
+        ]
+      },
+      {
+        "name": "Gold Membership",
+        "benefits": [
+          "20% discount on all packages",
+          "Complimentary session every three visits",
+          "Book anytime with no wait",
+          "Exclusive event invitations",
+          "Monthly care product gift"
+        ]
+      }
+    ],
+    "cta": "Inquire About Membership"
+  },
+  "testimonials": {
+    "section_title": "What Our Guests Say",
+    "section_subtitle": "Real experiences from our valued guests",
+    "items": [
+      {
+        "quote": "An exceptional experience by every measure. From reception to the end of the session, everything was perfect. I feel completely renewed.",
+        "author": "Sarah M.",
+        "service": "Facial Care Package"
+      },
+      {
+        "quote": "The best spa I have visited in Tabuk, hands down. The attention to detail and privacy make this experience truly one of a kind.",
+        "author": "Noura A.",
+        "service": "Relaxation Package"
+      },
+      {
+        "quote": "The couples package was a perfect gift for our anniversary. Wonderful atmosphere and elegant service worth every riyal.",
+        "author": "Ahmed & Reem",
+        "service": "Couples Package"
+      }
+    ]
+  },
+  "booking": {
+    "section_title": "Book Your Session Now",
+    "section_subtitle": "Your relaxation journey begins with a single step",
+    "description": "Contact us directly via WhatsApp to book your appointment. Our team is ready to help you choose the perfect package and find the most convenient time for you.",
+    "cta": "Book via WhatsApp",
+    "whatsapp_message": "Hello, I would like to book a session at D SPA. Please help me choose the right package."
+  },
+  "contact": {
+    "section_title": "Contact Us",
+    "phone_label": "Call Us",
+    "phone": "0536647884",
+    "location_label": "Our Location",
+    "location": "Al-Olaya District, Tabuk",
+    "hours_label": "Working Hours",
+    "hours": "Daily from 10 AM to 11 PM"
+  },
+  "footer": {
+    "brand": "D SPA",
+    "brand_ar": "دي سبا",
+    "tagline": "A Sanctuary of Calm in Tabuk",
+    "copyright": "All rights reserved",
+    "year": "2026",
+    "quick_links_title": "Quick Links",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  }
+}
