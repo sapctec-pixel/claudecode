@@ -1,0 +1,274 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Shahad Sweet - Tabuk's Finest Bakery",
+    "description": "Shahad Sweet, the name Tabuk trusts for premium cakes, traditional Arabic sweets, and special occasion orders. Multiple branches across Tabuk.",
+    "keywords": "Tabuk bakery, custom cakes, baklava, kunafa, occasion sweets, Shahad Sweet"
+  },
+  "header": {
+    "brand_name": "Shahad Sweet",
+    "nav": {
+      "home": "Home",
+      "bestsellers": "Bestsellers",
+      "custom_orders": "Custom Orders",
+      "branches": "Our Branches",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "language_toggle": "العربية",
+    "theme_toggle_light": "Light Mode",
+    "theme_toggle_dark": "Dark Mode",
+    "order_now": "Order Now"
+  },
+  "hero": {
+    "headline": "Tabuk's Sweetest Tradition",
+    "subheadline": "From the heart of Tabuk to your table, we craft moments of joy with skilled hands and premium ingredients",
+    "cta_primary": "Explore Our Collection",
+    "cta_secondary": "Order via WhatsApp",
+    "badge": "Tabuk's Most Trusted"
+  },
+  "bestsellers": {
+    "section_title": "Bestsellers",
+    "section_subtitle": "Discover our signature collection loved by Tabuk",
+    "categories": {
+      "all": "All",
+      "cakes": "Cakes",
+      "baklava": "Baklava",
+      "kunafa": "Kunafa",
+      "special_occasion": "Occasions"
+    },
+    "items": [
+      {
+        "id": "cake-chocolate-drip",
+        "name": "Premium Chocolate Cake",
+        "description": "Rich layers of Belgian chocolate with salted caramel drizzle",
+        "category": "cakes",
+        "price_label": "From 150 SAR",
+        "badge": "Best Seller"
+      },
+      {
+        "id": "cake-red-velvet",
+        "name": "Red Velvet Cake",
+        "description": "Velvety red layers with fresh cream cheese frosting and elegant decoration",
+        "category": "cakes",
+        "price_label": "From 140 SAR",
+        "badge": null
+      },
+      {
+        "id": "cake-lotus",
+        "name": "Lotus Biscoff Cake",
+        "description": "Rich Biscoff-flavored cake with caramel layers and crushed lotus biscuit",
+        "category": "cakes",
+        "price_label": "From 145 SAR",
+        "badge": "New"
+      },
+      {
+        "id": "baklava-premium",
+        "name": "Premium Shahad Baklava",
+        "description": "Delicate phyllo layers filled with Aleppo pistachios, soaked in orange blossom syrup",
+        "category": "baklava",
+        "price_label": "From 85 SAR/kg",
+        "badge": "Our Heritage"
+      },
+      {
+        "id": "baklava-cashew",
+        "name": "Cashew Baklava",
+        "description": "Golden baklava filled with carefully roasted cashews and a hint of rose water",
+        "category": "baklava",
+        "price_label": "From 95 SAR/kg",
+        "badge": null
+      },
+      {
+        "id": "kunafa-nabulsi",
+        "name": "Nabulsi Kunafa",
+        "description": "Traditional kunafa with fresh Nabulsi cheese and fragrant sugar syrup",
+        "category": "kunafa",
+        "price_label": "From 60 SAR",
+        "badge": "Classic"
+      },
+      {
+        "id": "kunafa-cream",
+        "name": "Cream Kunafa",
+        "description": "Crispy golden kunafa filled with daily-made fresh cream",
+        "category": "kunafa",
+        "price_label": "From 55 SAR",
+        "badge": null
+      },
+      {
+        "id": "occasion-wedding",
+        "name": "Wedding Collection",
+        "description": "Luxurious sweet platters designed specially for your big day with elegant presentation",
+        "category": "special_occasion",
+        "price_label": "Custom pricing",
+        "badge": "Exclusive"
+      },
+      {
+        "id": "occasion-corporate",
+        "name": "Corporate Hospitality",
+        "description": "Elegant selections for meetings and conferences with professional packaging",
+        "category": "special_occasion",
+        "price_label": "Custom pricing",
+        "badge": null
+      }
+    ],
+    "view_all": "View All Products",
+    "order_item": "Order Now"
+  },
+  "custom_orders": {
+    "section_title": "Custom Orders for Your Occasions",
+    "section_subtitle": "We turn your dreams into sweets. Tell us about your occasion, and we'll handle the rest",
+    "services": [
+      {
+        "title": "Wedding Cakes",
+        "description": "Luxurious multi-tier designs crafted with care to be the centerpiece of your special night. We collaborate with you on every detail from colors to flavors",
+        "features": ["Fully custom design", "Free tasting before ordering", "On-site delivery and setup"]
+      },
+      {
+        "title": "Event Platters",
+        "description": "Diverse selections of Arabic and Western sweets elegantly arranged to add a premium touch to any occasion",
+        "features": ["Themed to match your event", "Flexible quantities", "Luxury packaging"]
+      },
+      {
+        "title": "Corporate Hospitality",
+        "description": "Professional hospitality solutions for meetings, conferences, and formal events presented to match your brand",
+        "features": ["On-time delivery", "Custom branded packaging", "Monthly subscriptions"]
+      }
+    ],
+    "cta": "Request a Custom Order",
+    "whatsapp_message": "Hello, I would like to place a custom order for an occasion"
+  },
+  "branches": {
+    "section_title": "Our Branches in Tabuk",
+    "section_subtitle": "Wherever you are in Tabuk, Shahad is nearby",
+    "locations": [
+      {
+        "name": "Al Olya Branch",
+        "district": "Al Olya District",
+        "type": "Main Branch",
+        "hours": "8 AM - 12 AM"
+      },
+      {
+        "name": "Al Rawda Branch",
+        "district": "Al Rawda District",
+        "type": "Branch",
+        "hours": "8 AM - 12 AM"
+      },
+      {
+        "name": "Al Dakhl Branch",
+        "district": "Al Dakhl District",
+        "type": "Branch",
+        "hours": "8 AM - 12 AM"
+      },
+      {
+        "name": "Al Hamra Branch",
+        "district": "Al Hamra District",
+        "type": "Branch",
+        "hours": "9 AM - 11 PM"
+      },
+      {
+        "name": "Al Murooj Branch",
+        "district": "Al Murooj District",
+        "type": "Branch",
+        "hours": "8 AM - 12 AM"
+      },
+      {
+        "name": "Al Masif Branch",
+        "district": "Al Masif District",
+        "type": "Branch",
+        "hours": "9 AM - 11 PM"
+      },
+      {
+        "name": "Tabuk Al-Jadidah Branch",
+        "district": "Tabuk Al-Jadidah",
+        "type": "Branch",
+        "hours": "8 AM - 12 AM"
+      }
+    ],
+    "delivery_note": "Delivery available via HungerStation across all Tabuk districts",
+    "get_directions": "Get Directions"
+  },
+  "about": {
+    "section_title": "About Shahad Sweet",
+    "headline": "A Sweet Story Born in Tabuk",
+    "paragraphs": [
+      "Shahad Sweet began as a small dream in Tabuk -- a dream to offer our community sweets that blend the authenticity of Arabic flavors with the artistry of international confections. From a single branch, we grew together until we became an inseparable part of every celebration in Tabuk.",
+      "We select our ingredients with utmost care, and every piece is crafted by skilled artisans who believe that sweets are not just food -- they are a language of joy we speak to every home in Tabuk.",
+      "Today, with over seven branches across Tabuk, we continue our commitment to the quality and taste you have known us for since day one."
+    ],
+    "values": [
+      {"title": "Premium Ingredients", "description": "We use only the finest natural and fresh ingredients"},
+      {"title": "Handcrafted", "description": "Every piece passes through the hands of artisans who care about the finest details"},
+      {"title": "Serving Tabuk", "description": "Tabuk is our home, its people our family, and their satisfaction our goal"}
+    ]
+  },
+  "testimonials": {
+    "section_title": "What Our Customers Say",
+    "section_subtitle": "Your trust is our most precious asset",
+    "items": [
+      {
+        "name": "Um Abdullah",
+        "text": "Shahad Sweet is my first choice for all our occasions. My daughter's birthday cake was a work of art and the taste was indescribable",
+        "occasion": "Birthday"
+      },
+      {
+        "name": "Fahad Al-Mutairi",
+        "text": "I ordered baklava platters for our company hospitality and the quality and presentation exceeded expectations. Thank you Shahad for the professionalism",
+        "occasion": "Corporate Event"
+      },
+      {
+        "name": "Noura Al-Shammari",
+        "text": "My wedding cake from Shahad was the highlight of the celebration. Their service is incredibly refined and their attention to detail makes all the difference",
+        "occasion": "Wedding"
+      },
+      {
+        "name": "Khalid Al-Anazi",
+        "text": "I have been a loyal customer at Shahad for years. Their kunafa is unmatched in Tabuk and the service is always excellent",
+        "occasion": "Regular Customer"
+      }
+    ]
+  },
+  "social_media": {
+    "section_title": "Follow Us",
+    "section_subtitle": "Join our daily sweet moments and be the first to know about new offers",
+    "platforms": {
+      "instagram": {"label": "Instagram", "handle": "@shahad.sweet0", "url": "https://instagram.com/shahad.sweet0", "followers": "3,796"},
+      "facebook": {"label": "Facebook", "handle": "Shahad Sweet", "url": "#"},
+      "snapchat": {"label": "Snapchat", "handle": "shahad.sweet", "url": "#"},
+      "tiktok": {"label": "TikTok", "handle": "@shahad.sweet", "url": "#"},
+      "hungerstation": {"label": "HungerStation", "handle": "Shahad Sweet", "url": "#"}
+    },
+    "cta": "Follow Us on Instagram"
+  },
+  "contact": {
+    "section_title": "Contact Us",
+    "section_subtitle": "We are happy to serve you and answer all your inquiries",
+    "whatsapp": {
+      "label": "WhatsApp",
+      "cta": "Message Us on WhatsApp",
+      "message": "Hello, I would like to inquire about"
+    },
+    "phone": {
+      "label": "Call Us",
+      "note": "Available daily from 8 AM to 12 AM"
+    },
+    "form_labels": {
+      "name": "Name",
+      "phone": "Phone Number",
+      "occasion": "Occasion Type",
+      "date": "Occasion Date",
+      "details": "Order Details",
+      "submit": "Submit Order"
+    },
+    "occasion_options": ["Birthday", "Wedding", "Graduation", "Corporate Event", "Family Gathering", "Other"]
+  },
+  "footer": {
+    "brand_name": "Shahad Sweet",
+    "tagline": "Tabuk's Sweetness",
+    "quick_links_title": "Quick Links",
+    "branches_title": "Our Branches",
+    "social_title": "Follow Us",
+    "copyright": "All rights reserved to Shahad Sweet",
+    "powered_by": "Made with love in Tabuk"
+  }
+}
