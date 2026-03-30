@@ -1,0 +1,164 @@
+{
+  "brand": "Hayat Trove Flowers",
+  "archetype": "luxury",
+  "visual_direction": "Soft pastels, botanical elegance, floral luxury",
+  "colors": {
+    "light": {
+      "background": {
+        "primary": "#FDF6F0",
+        "secondary": "#FAF7F2",
+        "tertiary": "#FFF9F5",
+        "accent": "#F2D7D9"
+      },
+      "text": {
+        "primary": "#2D2926",
+        "secondary": "#5C524D",
+        "tertiary": "#8A7F79",
+        "inverse": "#FDF6F0"
+      },
+      "brand": {
+        "rose": "#C4727F",
+        "rose_hover": "#B5636F",
+        "rose_light": "#F2D7D9",
+        "sage": "#8FA98A",
+        "sage_light": "#D4E4D1",
+        "sage_dark": "#6B8A65",
+        "gold": "#B8923E",
+        "gold_light": "#E8D5A8",
+        "blush": "#F2D7D9",
+        "cream": "#FDF6F0",
+        "deep_rose": "#7A3B47"
+      },
+      "border": {
+        "subtle": "#EDE5DF",
+        "default": "#DDD3CB",
+        "strong": "#C4B8AF",
+        "accent": "#E8D5A8"
+      },
+      "surface": {
+        "card": "#FFFFFF",
+        "elevated": "#FAF7F2",
+        "overlay": "rgba(45, 41, 38, 0.4)"
+      }
+    },
+    "dark": {
+      "background": {
+        "primary": "#1A1614",
+        "secondary": "#231F1C",
+        "tertiary": "#2D2824",
+        "accent": "#3D2428"
+      },
+      "text": {
+        "primary": "#F2EBE5",
+        "secondary": "#C4B8AF",
+        "tertiary": "#8A7F79",
+        "inverse": "#1A1614"
+      },
+      "brand": {
+        "rose": "#D4889A",
+        "rose_hover": "#E09AAB",
+        "rose_light": "#3D2428",
+        "sage": "#A3BF9E",
+        "sage_light": "#2A3528",
+        "sage_dark": "#7FA37A",
+        "gold": "#D4AA5A",
+        "gold_light": "#3D3320",
+        "blush": "#3D2428",
+        "cream": "#231F1C",
+        "deep_rose": "#D4889A"
+      },
+      "border": {
+        "subtle": "#2D2824",
+        "default": "#3D3530",
+        "strong": "#524A44",
+        "accent": "#3D3320"
+      },
+      "surface": {
+        "card": "#231F1C",
+        "elevated": "#2D2824",
+        "overlay": "rgba(0, 0, 0, 0.6)"
+      }
+    }
+  },
+  "typography": {
+    "font_family": {
+      "arabic": "'Noto Naskh Arabic', 'Amiri', 'Traditional Arabic', serif",
+      "english_heading": "'Playfair Display', 'Georgia', serif",
+      "english_body": "'Inter', 'system-ui', sans-serif"
+    },
+    "scale": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "3.75rem"
+    },
+    "line_height": {
+      "tight": "1.2",
+      "normal": "1.6",
+      "relaxed": "1.8",
+      "arabic": "2.0"
+    },
+    "weight": {
+      "normal": "400",
+      "medium": "500",
+      "semibold": "600",
+      "bold": "700"
+    }
+  },
+  "spacing": {
+    "section_padding_y": "6rem",
+    "section_padding_x": "1.5rem",
+    "container_max_width": "1200px",
+    "card_padding": "2rem",
+    "gap_sm": "0.5rem",
+    "gap_md": "1rem",
+    "gap_lg": "2rem",
+    "gap_xl": "3rem"
+  },
+  "borders": {
+    "radius": {
+      "sm": "0.375rem",
+      "md": "0.75rem",
+      "lg": "1rem",
+      "xl": "1.5rem",
+      "full": "9999px"
+    },
+    "width": {
+      "thin": "1px",
+      "medium": "2px"
+    }
+  },
+  "shadows": {
+    "sm": "0 1px 3px rgba(45, 41, 38, 0.06)",
+    "md": "0 4px 12px rgba(45, 41, 38, 0.08)",
+    "lg": "0 8px 24px rgba(45, 41, 38, 0.10)",
+    "xl": "0 16px 48px rgba(45, 41, 38, 0.12)",
+    "glow_rose": "0 0 24px rgba(196, 114, 127, 0.2)",
+    "glow_gold": "0 0 24px rgba(184, 146, 62, 0.15)"
+  },
+  "animation": {
+    "duration": {
+      "fast": "150ms",
+      "normal": "300ms",
+      "slow": "500ms",
+      "gentle": "800ms"
+    },
+    "easing": {
+      "default": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "gentle": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+      "botanical": "cubic-bezier(0.34, 1.56, 0.64, 1)"
+    }
+  },
+  "breakpoints": {
+    "sm": "640px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1280px"
+  }
+}
