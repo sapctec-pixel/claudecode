@@ -1,0 +1,249 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Glamour Salon & Spa - Tabuk",
+    "description": "Professional beauty salon in Murooj Al-Amir district, Tabuk. Hair, skin, nails, spa, and bridal packages with transparent pricing.",
+    "keywords": "beauty salon Tabuk, spa Tabuk, Glamour salon, hair care, skin care, nails, spa, bridal"
+  },
+  "header": {
+    "logo": "Glamour Salon & Spa",
+    "nav": {
+      "services": "Services",
+      "offers": "Offers",
+      "about": "About",
+      "team": "Our Team",
+      "testimonials": "Reviews",
+      "contact": "Contact"
+    },
+    "bookNow": "Book Now",
+    "toggleLang": "AR",
+    "toggleTheme": "Toggle theme"
+  },
+  "hero": {
+    "badge": "Your Beauty Destination in Tabuk",
+    "title": "Discover Your True Beauty",
+    "subtitle": "At Glamour Salon & Spa, we deliver an exceptional beauty experience through the hands of expert professionals. From hair care to complete bridal packages, we are here to bring out the best in you.",
+    "ctaPrimary": "Book Your Appointment",
+    "ctaSecondary": "View Services"
+  },
+  "services": {
+    "sectionTitle": "Our Services & Pricing",
+    "sectionSubtitle": "Transparent pricing for all our services. Prices start from the listed amounts and may vary based on hair length or service type.",
+    "currency": "SAR",
+    "bookService": "Book",
+    "categories": {
+      "hair": {
+        "name": "Hair",
+        "icon": "hair",
+        "items": [
+          { "name": "Haircut", "price": 80, "duration": "45 min" },
+          { "name": "Full Hair Color", "price": 250, "duration": "120 min" },
+          { "name": "Highlights / Lowlights", "price": 300, "duration": "150 min" },
+          { "name": "Blowout & Styling", "price": 60, "duration": "30 min" },
+          { "name": "Keratin Treatment", "price": 500, "duration": "180 min" },
+          { "name": "Protein Treatment", "price": 450, "duration": "150 min" },
+          { "name": "Deep Conditioning Oil Bath", "price": 120, "duration": "60 min" },
+          { "name": "Occasion Updo", "price": 200, "duration": "60 min" }
+        ]
+      },
+      "skin": {
+        "name": "Skin",
+        "icon": "skin",
+        "items": [
+          { "name": "Deep Facial Cleansing", "price": 150, "duration": "60 min" },
+          { "name": "HydraFacial", "price": 350, "duration": "45 min" },
+          { "name": "Chemical Peel", "price": 200, "duration": "30 min" },
+          { "name": "Gold Face Mask", "price": 180, "duration": "45 min" },
+          { "name": "Acne Treatment", "price": 250, "duration": "60 min" },
+          { "name": "Skin Tightening & Renewal", "price": 300, "duration": "60 min" }
+        ]
+      },
+      "nails": {
+        "name": "Nails",
+        "icon": "nails",
+        "items": [
+          { "name": "Manicure", "price": 50, "duration": "30 min" },
+          { "name": "Pedicure", "price": 60, "duration": "40 min" },
+          { "name": "Mani-Pedi Combo", "price": 100, "duration": "60 min" },
+          { "name": "Gel Polish", "price": 80, "duration": "45 min" },
+          { "name": "Acrylic Nails", "price": 150, "duration": "75 min" },
+          { "name": "Nail Art", "price": 30, "duration": "Per nail" }
+        ]
+      },
+      "spa": {
+        "name": "Spa",
+        "icon": "spa",
+        "items": [
+          { "name": "Full Body Relaxation Massage", "price": 250, "duration": "60 min" },
+          { "name": "Hot Stone Massage", "price": 300, "duration": "75 min" },
+          { "name": "Moroccan Bath", "price": 200, "duration": "60 min" },
+          { "name": "Body Scrub & Moisturize", "price": 180, "duration": "45 min" },
+          { "name": "Body Wraps", "price": 220, "duration": "60 min" },
+          { "name": "Luxury Spa Package", "price": 500, "duration": "120 min" }
+        ]
+      },
+      "bridal": {
+        "name": "Bridal",
+        "icon": "bridal",
+        "items": [
+          { "name": "Complete Bridal Package", "price": 2500, "duration": "5 hours" },
+          { "name": "Pre-Wedding Trial", "price": 500, "duration": "120 min" },
+          { "name": "Bridal Makeup", "price": 800, "duration": "90 min" },
+          { "name": "Bridal Hair", "price": 600, "duration": "90 min" },
+          { "name": "Pre-Wedding Skin Care", "price": 400, "duration": "75 min" },
+          { "name": "Bridesmaid Package (per person)", "price": 800, "duration": "3 hours" }
+        ]
+      }
+    }
+  },
+  "offers": {
+    "sectionTitle": "Current Offers",
+    "sectionSubtitle": "Take advantage of our limited-time special offers",
+    "claimOffer": "Claim Offer",
+    "items": [
+      {
+        "title": "Spring Refresh Package",
+        "description": "Deep facial cleansing with HydraFacial and gold mask at a special price",
+        "discount": "Save 25%",
+        "originalPrice": 680,
+        "offerPrice": 510,
+        "validUntil": "April 30, 2026"
+      },
+      {
+        "title": "Complete Care Bundle",
+        "description": "Mani-pedi combo with gel polish and blowout",
+        "discount": "Save 20%",
+        "originalPrice": 240,
+        "offerPrice": 190,
+        "validUntil": "April 15, 2026"
+      },
+      {
+        "title": "Bridal Discount",
+        "description": "Special discount on the complete bridal package when booking one month in advance",
+        "discount": "Save 15%",
+        "originalPrice": 2500,
+        "offerPrice": 2125,
+        "validUntil": "Ongoing"
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Glamour",
+    "story": "Glamour Salon & Spa was established in the heart of Murooj Al-Amir district, Tabuk, to be your ideal destination for beauty care. We believe every woman deserves to feel confident and radiant, which is why we offer comprehensive beauty services at the highest professional standards.",
+    "mission": "Our mission is to deliver an exceptional beauty experience that combines quality, comfort, and fair pricing, while maintaining an elegant and welcoming environment for every client.",
+    "highlights": [
+      "Certified beauty experts with over 10 years of experience",
+      "Premium international beauty products",
+      "Clean, sanitized environment with strict hygiene standards",
+      "Transparent pricing with no hidden fees"
+    ]
+  },
+  "team": {
+    "sectionTitle": "Our Expert Team",
+    "sectionSubtitle": "A team of dedicated professionals committed to delivering the best experience for you",
+    "members": [
+      {
+        "name": "Sarah Al-Harbi",
+        "role": "Salon Manager & Styling Expert",
+        "specialty": "Hair styling and advanced coloring"
+      },
+      {
+        "name": "Noura Al-Anzi",
+        "role": "Skin Care Specialist",
+        "specialty": "HydraFacial and advanced peeling"
+      },
+      {
+        "name": "Reem Al-Shammari",
+        "role": "Nail Expert",
+        "specialty": "Nail art and creative designs"
+      },
+      {
+        "name": "Hind Al-Qahtani",
+        "role": "Spa Therapist",
+        "specialty": "Massage and Moroccan bath"
+      }
+    ]
+  },
+  "beforeAfter": {
+    "sectionTitle": "Our Work",
+    "sectionSubtitle": "See real results from our clients",
+    "before": "Before",
+    "after": "After",
+    "items": [
+      { "caption": "Hair Color Transformation - Dark brown to platinum" },
+      { "caption": "Keratin Treatment - Smooth and shiny hair" },
+      { "caption": "Skin Cleansing & Renewal - Remarkable results" }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "What Our Clients Say",
+    "sectionSubtitle": "Real reviews from Glamour clients",
+    "items": [
+      {
+        "quote": "A wonderful experience from start to finish. The team is very professional and the results exceeded my expectations. Glamour has become my go-to salon in Tabuk.",
+        "name": "Munirah A.",
+        "rating": 5,
+        "service": "Color & Blowout"
+      },
+      {
+        "quote": "Best HydraFacial I have ever had. My skin became visibly fresh and glowing. The prices are very reasonable for the quality you get.",
+        "name": "Nouf S.",
+        "rating": 5,
+        "service": "HydraFacial"
+      },
+      {
+        "quote": "I booked the complete bridal package and it was an unforgettable experience. They cared about every detail and I was the most beautiful bride. Thank you, Glamour.",
+        "name": "Reham M.",
+        "rating": 5,
+        "service": "Bridal Package"
+      },
+      {
+        "quote": "The Moroccan bath and massage were incredible. Calm atmosphere and excellent service. I recommend the spa experience here to everyone.",
+        "name": "Lama K.",
+        "rating": 5,
+        "service": "Spa"
+      }
+    ]
+  },
+  "booking": {
+    "sectionTitle": "Book Your Appointment",
+    "sectionSubtitle": "Reach out to us via WhatsApp to book your appointment or ask about our services",
+    "ctaText": "Book via WhatsApp",
+    "phone": "0541080812",
+    "note": "We respond to all messages within one hour during working hours"
+  },
+  "contact": {
+    "sectionTitle": "Contact Us",
+    "address": {
+      "label": "Address",
+      "value": "Murooj Al-Amir District, Tabuk, Saudi Arabia"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "0541080812"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "weekdays": "Saturday - Thursday: 10:00 AM - 10:00 PM",
+      "weekend": "Friday: 2:00 PM - 10:00 PM"
+    },
+    "social": {
+      "label": "Follow Us",
+      "instagram": "glamour.tabuk",
+      "snapchat": "glamour.tabuk"
+    }
+  },
+  "footer": {
+    "brand": "Glamour Salon & Spa",
+    "tagline": "Your Beauty Destination in Tabuk",
+    "copyright": "All rights reserved",
+    "year": 2026,
+    "links": {
+      "services": "Services",
+      "offers": "Offers",
+      "about": "About",
+      "contact": "Contact"
+    }
+  }
+}
