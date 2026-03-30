@@ -1,0 +1,12 @@
+{
+  "shop_name": "8 Cups Cafe",
+  "shop_slug": "8-cups-cafe",
+  "status": "skip_existing",
+  "reason": "Has active professional website at 8cupscafe.com with good digital presence",
+  "website_url": "https://8cupscafe.com/",
+  "social_media": {
+    "instagram": "https://www.instagram.com/08_cups/"
+  },
+  "delivery_platforms": ["HungerStation"],
+  "confidence": "high"
+}

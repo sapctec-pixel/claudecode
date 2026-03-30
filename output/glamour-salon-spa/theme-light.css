@@ -1,0 +1,65 @@
+/* Glamour Salon & Spa - Light Theme */
+/* Clean white, soft lilac/purple, rose gold accents, charcoal text */
+
+:root,
+[data-theme="light"] {
+  --color-background: #FFFFFF;
+  --color-background-alt: #FAF8FC;
+  --color-background-card: #FFFFFF;
+  --color-surface: #F5F0F7;
+  --color-surface-hover: #EDE6F2;
+
+  --color-primary: #8B6CAE;
+  --color-primary-hover: #7A5C9E;
+  --color-primary-light: #E8DFF0;
+  --color-primary-rgb: 139, 108, 174;
+
+  --color-accent: #C9A87C;
+  --color-accent-hover: #B8976B;
+  --color-accent-light: #F5EDE2;
+  --color-accent-rgb: 201, 168, 124;
+
+  --color-text: #2D2D2D;
+  --color-text-secondary: #6B6B6B;
+  --color-text-muted: #9B9B9B;
+  --color-text-on-primary: #FFFFFF;
+  --color-text-on-accent: #FFFFFF;
+
+  --color-border: #E8E0EE;
+  --color-border-light: #F0EBF4;
+  --color-divider: #EDE6F2;
+
+  --color-shadow: rgba(139, 108, 174, 0.08);
+  --color-shadow-strong: rgba(139, 108, 174, 0.16);
+  --color-overlay: rgba(45, 45, 45, 0.5);
+
+  --color-success: #6AAB6E;
+  --color-offer: #C9567A;
+  --color-offer-bg: #FDF0F4;
+
+  --color-hero-gradient-start: rgba(139, 108, 174, 0.05);
+  --color-hero-gradient-end: rgba(201, 168, 124, 0.08);
+
+  --shadow-card: 0 2px 12px rgba(139, 108, 174, 0.08);
+  --shadow-card-hover: 0 8px 30px rgba(139, 108, 174, 0.16);
+  --shadow-button: 0 2px 8px rgba(139, 108, 174, 0.12);
+  --shadow-nav: 0 1px 3px rgba(0, 0, 0, 0.06);
+
+  --font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-family-ar: 'Noto Sans Arabic', 'Segoe UI', Tahoma, sans-serif;
+
+  --radius-sm: 0.375rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-full: 9999px;
+
+  --transition-fast: 150ms ease;
+  --transition-normal: 300ms ease;
+  --transition-slow: 500ms ease;
+  --transition-reveal: 700ms cubic-bezier(0.16, 1, 0.3, 1);
+
+  --max-width: 1200px;
+  --section-padding-y: clamp(4rem, 8vw, 7rem);
+  --container-padding-x: clamp(1rem, 4vw, 2rem);
+}

@@ -1,0 +1,36 @@
+{
+  "shopName": "Nola",
+  "city": "Tabuk",
+  "district": "Murooj Al-Amir",
+  "category": "Independent Restaurant",
+  "cuisine": "Italian",
+  "rating": 4.3,
+  "totalReviews": 718,
+  "status": "Open",
+  "businessQuality": "High",
+  "designArchetype": "luxury",
+  "visualStyle": "Classic Italian - clean, warm, Mediterranean-inspired",
+  "approach": "Premium single-page landing with bilingual support, emphasizing Italian culinary heritage, fresh ingredients, and warm trattoria ambiance. Warm olive, tomato red, cream, and forest green palette reflecting Mediterranean elegance.",
+  "sections": [
+    "Header with navigation",
+    "Hero with warm Italian atmosphere",
+    "La Cucina (Our Kitchen) story",
+    "Signature Pastas & Pizzas showcase",
+    "Fresh Ingredients philosophy",
+    "Wine & drinks section",
+    "Ambiance showcase",
+    "Testimonials",
+    "Reservation via WhatsApp",
+    "Contact information",
+    "Footer"
+  ],
+  "keyDifferentiators": [
+    "Authentic Italian cuisine in Tabuk",
+    "Fresh ingredient philosophy",
+    "Mediterranean-inspired interior design",
+    "Handwriting-style typographic accents",
+    "Rustic-modern visual identity"
+  ],
+  "targetAudience": "Discerning diners in Tabuk seeking authentic Italian dining experiences",
+  "createdAt": "2026-03-30"
+}

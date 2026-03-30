@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "language": "en",
+    "direction": "ltr",
+    "title": "Al-Qaryah Al-Turathiyah | Heritage Village Restaurant | Tabuk",
+    "description": "Al-Qaryah Al-Turathiyah in Tabuk — authentic Saudi heritage dining with traditional floor seating, group platters, and event hosting in a grand traditional space"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Our Story",
+    "menu": "Menu",
+    "space": "The Space",
+    "groups": "Groups & Bookings",
+    "reviews": "Reviews",
+    "location": "Location",
+    "contact": "Contact",
+    "language_toggle": "العربية"
+  },
+  "hero": {
+    "headline": "Al-Qaryah Al-Turathiyah",
+    "subheadline": "Where Heritage Meets Hospitality",
+    "tagline": "A heritage restaurant in the heart of Tabuk offering the authentic taste of Saudi tradition in an atmosphere of warmth and welcome",
+    "cta_primary": "Book for Your Group",
+    "cta_secondary": "Browse the Menu"
+  },
+  "hospitality": {
+    "section_title": "Welcome",
+    "section_subtitle": "Hospitality from the Heart",
+    "paragraph_1": "At Al-Qaryah Al-Turathiyah, we offer more than meals — we offer an authentic Saudi hospitality experience that reflects the heritage of our ancestors and the values of their generosity. From the moment you enter, you will feel the warmth of welcome that the people of the Arabian Peninsula have been known for across the ages.",
+    "paragraph_2": "Our expansive space has been designed to evoke the traditional Saudi village, with comfortable floor seating and an intimate atmosphere that brings family and friends together around a shared table.",
+    "features": [
+      {
+        "title": "Authentic Heritage",
+        "description": "An atmosphere inspired by traditional Saudi architecture and the rich heritage of the region"
+      },
+      {
+        "title": "Unforgettable Flavors",
+        "description": "Dishes prepared with care following traditional recipes passed down through generations"
+      },
+      {
+        "title": "Generous Hospitality",
+        "description": "Service rooted in the authentic values of Arabian generosity and warm reception"
+      }
+    ]
+  },
+  "menu": {
+    "section_title": "The Menu",
+    "section_subtitle": "From Our Heritage Kitchen",
+    "categories": [
+      {
+        "name": "Main Dishes",
+        "description": "Traditional dishes slow-cooked to perfection",
+        "items": [
+          {
+            "name": "Lamb Kabsa",
+            "description": "Basmati rice cooked with tender lamb seasoned with aromatic Arabian spices"
+          },
+          {
+            "name": "Chicken Mandi",
+            "description": "Wood-smoked chicken served with signature Mandi rice"
+          },
+          {
+            "name": "Madhbi",
+            "description": "Meat grilled on stone in the traditional method"
+          },
+          {
+            "name": "Harees",
+            "description": "Ground wheat blended with slow-cooked meat and traditional ghee"
+          },
+          {
+            "name": "Jareesh",
+            "description": "Crushed wheat cooked with meat, onions, and tomatoes"
+          }
+        ]
+      },
+      {
+        "name": "Group Platters",
+        "description": "Large-format dishes perfect for gatherings and celebrations",
+        "items": [
+          {
+            "name": "Whole Lamb with Rice",
+            "description": "A whole lamb prepared in the traditional style, serving 15-20 guests"
+          },
+          {
+            "name": "Village Feast Table",
+            "description": "An assorted spread of heritage dishes serving 10 guests"
+          },
+          {
+            "name": "Celebration Banquet",
+            "description": "A custom menu for large events with full service"
+          }
+        ]
+      },
+      {
+        "name": "Starters & Sides",
+        "description": "Touches that complete the table",
+        "items": [
+          {
+            "name": "Arabic Salad",
+            "description": "Fresh vegetables with a lemon and olive oil dressing"
+          },
+          {
+            "name": "Mutabbal & Hummus",
+            "description": "Traditional dips served with freshly baked Arabic bread"
+          },
+          {
+            "name": "Habb Soup",
+            "description": "Traditional wheat and meat soup with warming spices"
+          }
+        ]
+      },
+      {
+        "name": "Beverages & Desserts",
+        "description": "A fitting conclusion to the feast",
+        "items": [
+          {
+            "name": "Arabic Coffee with Dates",
+            "description": "Freshly roasted coffee served with Madinah dates"
+          },
+          {
+            "name": "Mint Tea",
+            "description": "Hot tea infused with fresh mint leaves"
+          },
+          {
+            "name": "Luqaimat with Date Syrup",
+            "description": "Golden fried dough balls drizzled with date molasses"
+          }
+        ]
+      }
+    ]
+  },
+  "space": {
+    "section_title": "The Space",
+    "section_subtitle": "An Entire Village Awaits You",
+    "description": "A grand space carefully designed to offer a complete heritage experience. From comfortable floor seating to private family sections, every corner of Al-Qaryah Al-Turathiyah tells a story of Saudi hospitality.",
+    "features": [
+      {
+        "title": "Floor Seating",
+        "description": "Traditional seating with carpets and cushions in authentic Saudi style"
+      },
+      {
+        "title": "Private Sections",
+        "description": "Separate spaces for families and private groups"
+      },
+      {
+        "title": "Event Halls",
+        "description": "Spacious halls accommodating large events and celebrations"
+      },
+      {
+        "title": "Heritage Atmosphere",
+        "description": "Decor inspired by traditional Saudi architecture with handcrafted details"
+      }
+    ]
+  },
+  "groups": {
+    "section_title": "Group Bookings & Tourism",
+    "section_subtitle": "We Welcome Groups of Every Size",
+    "description": "We provide complete service for tourist groups and events. Contact us in advance to arrange your feast and ensure an exceptional experience for your guests.",
+    "features": [
+      {
+        "title": "Advance Group Booking",
+        "description": "Organize your order ahead of time to ensure everything is ready upon arrival"
+      },
+      {
+        "title": "Custom Menus",
+        "description": "We design a menu tailored to your group's taste and budget"
+      },
+      {
+        "title": "Event Hosting",
+        "description": "From private dinners to grand celebrations, we handle every detail"
+      },
+      {
+        "title": "Tour Operator Coordination",
+        "description": "We work with tourism companies to deliver the best experience for Tabuk visitors"
+      }
+    ],
+    "cta": "Contact us on WhatsApp to book for your group"
+  },
+  "testimonials": {
+    "section_title": "Guest Reviews",
+    "section_subtitle": "What Our Visitors Say",
+    "rating_label": "Rating",
+    "reviews_label": "reviews on Google Maps",
+    "items": [
+      {
+        "text": "A wonderful place that truly reflects authentic Saudi heritage. The floor seating is very comfortable and the food is delicious. An unforgettable experience, especially for visitors from outside the region.",
+        "author": "Abu Mohammed",
+        "context": "Family dinner"
+      },
+      {
+        "text": "We organized dinner for a tourist group of 30 people and the coordination was excellent. The food was ready on time and the service was outstanding.",
+        "author": "Khalid Al-Otaibi",
+        "context": "Tourist group booking"
+      },
+      {
+        "text": "The space is huge and perfect for events. The Kabsa and Mandi are among the best I have tasted in Tabuk. I recommend it to everyone.",
+        "author": "Sarah",
+        "context": "Private event"
+      }
+    ]
+  },
+  "location": {
+    "section_title": "Our Location",
+    "section_subtitle": "In the Heart of Tabuk",
+    "address": "Al-Faisaliyah Al-Shamaliyah District, Tabuk",
+    "city": "Tabuk, Saudi Arabia",
+    "directions_note": "Easily accessible from all parts of Tabuk. Centrally located in Al-Faisaliyah Al-Shamaliyah district.",
+    "get_directions": "Get Directions"
+  },
+  "cta": {
+    "whatsapp_label": "Chat on WhatsApp",
+    "whatsapp_message": "Hello, I would like to inquire about booking at Al-Qaryah Al-Turathiyah",
+    "phone_label": "Call Us",
+    "booking_prompt": "Planning a group visit or special occasion? Contact us to arrange an unforgettable experience"
+  },
+  "footer": {
+    "copyright": "Al-Qaryah Al-Turathiyah. All rights reserved",
+    "tagline": "Authentic Saudi hospitality in the heart of Tabuk",
+    "hours_label": "Opening Hours",
+    "hours": "Daily from 12:00 PM to 12:00 AM",
+    "phone_label": "Phone",
+    "address_label": "Address"
+  }
+}

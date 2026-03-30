@@ -1,0 +1,170 @@
+{
+  "brand": "Hikari",
+  "archetype": "luxury",
+  "aesthetic": "japanese-zen-minimalism",
+  "colors": {
+    "primary": {
+      "black": "#0A0A0A",
+      "charcoal": "#1A1A1A",
+      "dark-graphite": "#2D2D2D",
+      "ink": "#141414"
+    },
+    "accent": {
+      "torii-red": "#B91C1C",
+      "torii-red-light": "#DC2626",
+      "torii-red-deep": "#991B1B",
+      "torii-red-muted": "#7F1D1D"
+    },
+    "neutral": {
+      "rice-white": "#FAF7F2",
+      "warm-cream": "#F5F0E8",
+      "parchment": "#EDE8DD",
+      "stone-gray": "#9CA3AF",
+      "ash": "#6B7280",
+      "slate": "#374151"
+    },
+    "subtle": {
+      "bamboo-green": "#4A5D23",
+      "bamboo-light": "#6B7F3A",
+      "bamboo-muted": "#3D4F1C",
+      "moss": "#2D3B16"
+    },
+    "semantic": {
+      "success": "#4A5D23",
+      "warning": "#D97706",
+      "error": "#B91C1C",
+      "info": "#374151"
+    }
+  },
+  "colorSchemes": {
+    "light": {
+      "background": "#FAF7F2",
+      "surface": "#FFFFFF",
+      "surface-elevated": "#F5F0E8",
+      "text-primary": "#0A0A0A",
+      "text-secondary": "#374151",
+      "text-muted": "#6B7280",
+      "border": "#EDE8DD",
+      "border-subtle": "#F5F0E8",
+      "accent": "#B91C1C",
+      "accent-hover": "#991B1B",
+      "header-bg": "rgba(250, 247, 242, 0.9)",
+      "overlay": "rgba(10, 10, 10, 0.5)"
+    },
+    "dark": {
+      "background": "#0A0A0A",
+      "surface": "#1A1A1A",
+      "surface-elevated": "#2D2D2D",
+      "text-primary": "#FAF7F2",
+      "text-secondary": "#D1D5DB",
+      "text-muted": "#9CA3AF",
+      "border": "#2D2D2D",
+      "border-subtle": "#1A1A1A",
+      "accent": "#DC2626",
+      "accent-hover": "#B91C1C",
+      "header-bg": "rgba(10, 10, 10, 0.9)",
+      "overlay": "rgba(0, 0, 0, 0.7)"
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "heading": "'Inter', 'Noto Sans Arabic', sans-serif",
+      "body": "'Inter', 'Noto Sans Arabic', sans-serif",
+      "accent": "'Noto Serif JP', serif",
+      "arabic": "'Noto Sans Arabic', 'Inter', sans-serif"
+    },
+    "fontSize": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "3.75rem",
+      "7xl": "4.5rem",
+      "display": "clamp(3rem, 8vw, 7rem)"
+    },
+    "fontWeight": {
+      "light": 300,
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    },
+    "letterSpacing": {
+      "tight": "-0.025em",
+      "normal": "0em",
+      "wide": "0.05em",
+      "wider": "0.1em",
+      "widest": "0.2em"
+    },
+    "lineHeight": {
+      "tight": 1.1,
+      "snug": 1.25,
+      "normal": 1.5,
+      "relaxed": 1.75
+    }
+  },
+  "spacing": {
+    "unit": "0.25rem",
+    "scale": {
+      "xs": "0.5rem",
+      "sm": "1rem",
+      "md": "1.5rem",
+      "lg": "2rem",
+      "xl": "3rem",
+      "2xl": "4rem",
+      "3xl": "6rem",
+      "4xl": "8rem",
+      "5xl": "12rem",
+      "section": "clamp(4rem, 10vw, 8rem)"
+    }
+  },
+  "borderRadius": {
+    "none": "0",
+    "sm": "0.25rem",
+    "md": "0.5rem",
+    "lg": "0.75rem",
+    "xl": "1rem",
+    "full": "9999px"
+  },
+  "shadows": {
+    "subtle": "0 1px 2px rgba(0, 0, 0, 0.05)",
+    "card": "0 4px 16px rgba(0, 0, 0, 0.08)",
+    "elevated": "0 8px 32px rgba(0, 0, 0, 0.12)",
+    "dramatic": "0 16px 64px rgba(0, 0, 0, 0.2)",
+    "glow-red": "0 0 40px rgba(185, 28, 28, 0.15)"
+  },
+  "animation": {
+    "duration": {
+      "fast": "200ms",
+      "normal": "400ms",
+      "slow": "700ms",
+      "reveal": "1000ms"
+    },
+    "easing": {
+      "default": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "in": "cubic-bezier(0.4, 0, 1, 1)",
+      "out": "cubic-bezier(0, 0, 0.2, 1)",
+      "spring": "cubic-bezier(0.34, 1.56, 0.64, 1)",
+      "zen": "cubic-bezier(0.25, 0.1, 0.25, 1)"
+    }
+  },
+  "breakpoints": {
+    "sm": "640px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1280px",
+    "2xl": "1536px"
+  },
+  "zIndex": {
+    "base": 0,
+    "content": 10,
+    "header": 100,
+    "overlay": 200,
+    "modal": 300
+  }
+}

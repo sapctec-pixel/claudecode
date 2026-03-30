@@ -1,0 +1,162 @@
+{
+  "brand": "Shahad Sweet",
+  "description": "Warm honey gold bakery theme - sweet, inviting, premium yet approachable",
+  "colors": {
+    "primary": {
+      "50": "#FFF8E1",
+      "100": "#FFECB3",
+      "200": "#FFE082",
+      "300": "#FFD54F",
+      "400": "#FFCA28",
+      "500": "#D4A847",
+      "600": "#C49A3C",
+      "700": "#A67C2E",
+      "800": "#8B6914",
+      "900": "#6D5010",
+      "DEFAULT": "#D4A847"
+    },
+    "secondary": {
+      "50": "#FDF2F3",
+      "100": "#F9E0E3",
+      "200": "#F3C1C7",
+      "300": "#E8B4B8",
+      "400": "#D4929A",
+      "500": "#C0707A",
+      "600": "#A85662",
+      "700": "#8E3F4C",
+      "800": "#6B2D38",
+      "900": "#4A1E27",
+      "DEFAULT": "#E8B4B8"
+    },
+    "cream": {
+      "50": "#FFFDF7",
+      "100": "#FFF8E7",
+      "200": "#FFF3D6",
+      "300": "#FFEDC2",
+      "400": "#FFE4A8",
+      "500": "#F5D68B",
+      "DEFAULT": "#FFF8E7"
+    },
+    "chocolate": {
+      "50": "#EFEBE9",
+      "100": "#D7CCC8",
+      "200": "#BCAAA4",
+      "300": "#A1887F",
+      "400": "#8D6E63",
+      "500": "#6D4C41",
+      "600": "#5D4037",
+      "700": "#4E342E",
+      "800": "#3E2723",
+      "900": "#2C1A14",
+      "DEFAULT": "#3E2723"
+    },
+    "vanilla": {
+      "DEFAULT": "#FFFDF7",
+      "warm": "#FFF8E7"
+    },
+    "semantic": {
+      "success": "#66BB6A",
+      "warning": "#FFA726",
+      "error": "#EF5350",
+      "info": "#42A5F5"
+    }
+  },
+  "theme": {
+    "light": {
+      "background": "#FFFDF7",
+      "background_alt": "#FFF8E7",
+      "surface": "#FFFFFF",
+      "surface_elevated": "#FFFFFF",
+      "text_primary": "#3E2723",
+      "text_secondary": "#5D4037",
+      "text_muted": "#8D6E63",
+      "border": "#FFE082",
+      "border_subtle": "#FFF3D6",
+      "accent": "#D4A847",
+      "accent_hover": "#C49A3C",
+      "card_bg": "#FFFFFF",
+      "card_border": "#FFF3D6",
+      "hero_gradient_start": "#FFF8E7",
+      "hero_gradient_end": "#FDF2F3"
+    },
+    "dark": {
+      "background": "#1A1209",
+      "background_alt": "#231A0E",
+      "surface": "#2C2013",
+      "surface_elevated": "#362818",
+      "text_primary": "#FFF8E7",
+      "text_secondary": "#FFE082",
+      "text_muted": "#BCAAA4",
+      "border": "#5D4037",
+      "border_subtle": "#3E2723",
+      "accent": "#FFD54F",
+      "accent_hover": "#FFCA28",
+      "card_bg": "#2C2013",
+      "card_border": "#4E342E",
+      "hero_gradient_start": "#231A0E",
+      "hero_gradient_end": "#2A1518"
+    }
+  },
+  "typography": {
+    "font_family_ar": "'Tajawal', 'Noto Sans Arabic', sans-serif",
+    "font_family_en": "'Inter', 'Poppins', sans-serif",
+    "scale": {
+      "hero_headline": "clamp(2.25rem, 5vw, 4rem)",
+      "section_title": "clamp(1.75rem, 3.5vw, 2.75rem)",
+      "card_title": "clamp(1.125rem, 2vw, 1.5rem)",
+      "body": "1rem",
+      "small": "0.875rem",
+      "caption": "0.75rem"
+    },
+    "line_height": {
+      "tight": 1.2,
+      "normal": 1.6,
+      "relaxed": 1.8
+    },
+    "font_weight": {
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800
+    }
+  },
+  "spacing": {
+    "section_y": "clamp(4rem, 8vw, 7rem)",
+    "container_x": "clamp(1rem, 4vw, 2rem)",
+    "card_padding": "clamp(1.25rem, 3vw, 2rem)",
+    "grid_gap": "clamp(1rem, 2.5vw, 2rem)"
+  },
+  "borders": {
+    "radius": {
+      "sm": "0.5rem",
+      "md": "0.75rem",
+      "lg": "1rem",
+      "xl": "1.5rem",
+      "full": "9999px"
+    },
+    "width": {
+      "thin": "1px",
+      "medium": "2px"
+    }
+  },
+  "shadows": {
+    "card": "0 2px 12px rgba(62, 39, 35, 0.08)",
+    "card_hover": "0 8px 30px rgba(62, 39, 35, 0.15)",
+    "elevated": "0 12px 40px rgba(62, 39, 35, 0.12)",
+    "glow": "0 0 30px rgba(212, 168, 71, 0.2)"
+  },
+  "animation": {
+    "duration": {
+      "fast": "150ms",
+      "normal": "300ms",
+      "slow": "500ms",
+      "enter": "600ms"
+    },
+    "easing": {
+      "default": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "bounce": "cubic-bezier(0.34, 1.56, 0.64, 1)",
+      "gentle": "cubic-bezier(0.25, 0.1, 0.25, 1)"
+    }
+  }
+}

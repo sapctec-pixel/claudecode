@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "lang": "en",
+    "dir": "ltr",
+    "title": "Fakhama Tabuk - Luxury Majlis and Furniture Craftsmanship",
+    "description": "Bespoke Arab council (majlis) design and luxury furniture craftsmanship in Tabuk. Exceptional artistry and world-class materials for distinguished villas."
+  },
+  "header": {
+    "brand": "Fakhama Tabuk",
+    "nav": {
+      "portfolio": "Portfolio",
+      "craftsmanship": "Craftsmanship",
+      "materials": "Materials",
+      "process": "Our Process",
+      "testimonials": "Testimonials",
+      "contact": "Contact"
+    },
+    "cta": "Book Consultation"
+  },
+  "hero": {
+    "overtitle": "Luxury Majlis and Furniture Craftsmanship in Tabuk",
+    "title": "A Majlis Worthy of Your Prestige",
+    "subtitle": "We transform your vision into extraordinary reality with world-class materials and authentic Saudi craftsmanship. Every piece is custom-made to reflect your taste and captivate your guests.",
+    "cta_primary": "Book a Free Consultation",
+    "cta_secondary": "View Our Portfolio"
+  },
+  "portfolio": {
+    "section_title": "Our Portfolio",
+    "section_subtitle": "A selection of projects we proudly delivered for our distinguished clients in Tabuk and the region",
+    "categories": {
+      "all": "All",
+      "majlis": "Majlis",
+      "reception": "Reception Halls",
+      "dining": "Dining Rooms",
+      "bedroom": "Bedrooms"
+    },
+    "items": [
+      {
+        "id": "p1",
+        "category": "majlis",
+        "title": "Al Yasmin Villa Majlis",
+        "description": "Classic floor-level majlis with American walnut woodwork and royal velvet upholstery"
+      },
+      {
+        "id": "p2",
+        "category": "majlis",
+        "title": "Al Narjis Men's Majlis",
+        "description": "Contemporary design blending Arabic heritage with modern comfort"
+      },
+      {
+        "id": "p3",
+        "category": "reception",
+        "title": "Al Wurood Villa Reception",
+        "description": "Luxurious reception hall with gold detailing and curated lighting"
+      },
+      {
+        "id": "p4",
+        "category": "reception",
+        "title": "Al Nukhba Corporate VIP Lounge",
+        "description": "Design reflecting institutional prestige and refined sophistication"
+      },
+      {
+        "id": "p5",
+        "category": "dining",
+        "title": "Al Tilal Villa Dining Room",
+        "description": "European oak dining table seating twelve guests in grand style"
+      },
+      {
+        "id": "p6",
+        "category": "bedroom",
+        "title": "Al Umara Villa Master Suite",
+        "description": "Royal bed with upholstered headboard and built-in wardrobes with premium finishes"
+      }
+    ]
+  },
+  "craftsmanship": {
+    "section_title": "Unrivaled Craftsmanship",
+    "section_subtitle": "Every piece of furniture we create is a work of art that marries Arabic heritage with international standards",
+    "points": [
+      {
+        "title": "Made to Order",
+        "description": "We never produce duplicates. Every project begins from scratch to suit your unique space and taste."
+      },
+      {
+        "title": "Master Artisans",
+        "description": "Our team of expert carpenters and upholsterers brings over twenty years of experience in luxury furniture making."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "We uphold the highest quality standards at every stage of manufacturing with a comprehensive warranty on all products."
+      }
+    ]
+  },
+  "materials": {
+    "section_title": "Curated World-Class Materials",
+    "section_subtitle": "We source the finest materials from around the globe to ensure furniture that endures and grows more beautiful with time",
+    "items": [
+      {
+        "title": "Natural Hardwoods",
+        "description": "American walnut, European oak, and carefully treated beechwood",
+        "detail": "Kiln-dried and treated for local climate resilience"
+      },
+      {
+        "title": "Premium Fabrics",
+        "description": "Italian velvet, Turkish chenille, and stain-resistant textiles with colorfast dyes",
+        "detail": "UV and fade resistant for lasting beauty"
+      },
+      {
+        "title": "Metals and Finishes",
+        "description": "Brushed gold, antique brass, and stainless steel with hand-applied finishes",
+        "detail": "Multi-layer coating ensures lasting brilliance"
+      },
+      {
+        "title": "Cushioning and Support",
+        "description": "High-density foam with engineered dimensions for optimal comfort that lasts years",
+        "detail": "Resistant to sagging with daily use"
+      }
+    ]
+  },
+  "process": {
+    "section_title": "Our Process",
+    "section_subtitle": "A thoughtful journey from concept to completion ensuring an exceptional experience at every step",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Consultation",
+        "description": "We visit your site to understand the space, listen to your vision, and present our initial recommendations"
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "description": "We prepare 3D renderings with material and color selections until we achieve the result you desire"
+      },
+      {
+        "number": "03",
+        "title": "Manufacturing",
+        "description": "Our team executes the project in our fully equipped workshop under direct quality supervision"
+      },
+      {
+        "number": "04",
+        "title": "Installation",
+        "description": "We handle professional delivery and installation at your site, verifying every detail before handover"
+      }
+    ]
+  },
+  "testimonials": {
+    "section_title": "What Our Clients Say",
+    "section_subtitle": "Our clients' trust is our most valuable asset, and their testimonials speak to the quality of our work",
+    "items": [
+      {
+        "quote": "I worked with several furniture shops before Fakhama Tabuk, but the difference is clear in the quality of execution and attention to the finest details. The majlis has become the talk of every visitor.",
+        "author": "Abu Abdullah",
+        "role": "Villa Owner - Al Yasmin District"
+      },
+      {
+        "quote": "From the first consultation to final delivery, the experience was outstanding. They met the deadline and budget, and the result exceeded my expectations.",
+        "author": "Eng. Fahad Al-Sulami",
+        "role": "Villa Owner - Al Narjis District"
+      },
+      {
+        "quote": "They furnished our reception hall and men's majlis to a hotel-grade standard. Highly professional with exquisite taste.",
+        "author": "Abu Nawaf",
+        "role": "Businessman - Tabuk"
+      }
+    ]
+  },
+  "consultation_cta": {
+    "title": "Ready to Transform Your Space into a Masterpiece?",
+    "subtitle": "Book your free consultation today and let our experts help you design the majlis or furniture worthy of your distinction",
+    "button": "Contact via WhatsApp",
+    "phone": "+966XXXXXXXXX",
+    "note": "First consultation is free - we come to you"
+  },
+  "contact": {
+    "section_title": "Contact Us",
+    "address": {
+      "label": "Location",
+      "value": "Tabuk, Kingdom of Saudi Arabia"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+966XXXXXXXXX"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "value": "Saturday - Thursday: 9 AM - 10 PM"
+    },
+    "social": {
+      "tiktok": {
+        "label": "TikTok",
+        "handle": "@fakhama.tabuk"
+      }
+    }
+  },
+  "footer": {
+    "brand": "Fakhama Tabuk",
+    "tagline": "Luxury Crafted by Saudi Hands",
+    "copyright": "All Rights Reserved",
+    "year": "2026"
+  }
+}

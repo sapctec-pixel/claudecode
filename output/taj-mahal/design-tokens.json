@@ -1,0 +1,178 @@
+{
+  "brand": "Taj Mahal Restaurant",
+  "archetype": "local-friendly-grand-indian",
+  "colors": {
+    "primary": {
+      "50": "#F5EBF5",
+      "100": "#E8D1E8",
+      "200": "#D4A3D4",
+      "300": "#B876B8",
+      "400": "#8E4A8E",
+      "500": "#6B2D6B",
+      "600": "#5A2458",
+      "700": "#4A1942",
+      "800": "#3A0F33",
+      "900": "#2A0825",
+      "950": "#1A0418"
+    },
+    "secondary": {
+      "50": "#FEF9EE",
+      "100": "#FCF0D4",
+      "200": "#F8E0A8",
+      "300": "#F0C75E",
+      "400": "#E8B035",
+      "500": "#D4A843",
+      "600": "#B8892A",
+      "700": "#9A6F1E",
+      "800": "#7D5815",
+      "900": "#60430F",
+      "950": "#3D2A08"
+    },
+    "accent": {
+      "50": "#FDF2F4",
+      "100": "#FCE4E8",
+      "200": "#F9C5CE",
+      "300": "#F29BAA",
+      "400": "#E06B7E",
+      "500": "#C0392B",
+      "600": "#9B1B30",
+      "700": "#831528",
+      "800": "#6D1022",
+      "900": "#5A0D1C",
+      "950": "#3D0613"
+    },
+    "neutral": {
+      "50": "#FFFDF9",
+      "100": "#FFF8F0",
+      "200": "#F5E6D3",
+      "300": "#E8D5BE",
+      "400": "#D4BFA5",
+      "500": "#B8A48A",
+      "600": "#8C7A66",
+      "700": "#6B5D4E",
+      "800": "#4A3F35",
+      "900": "#2D2520",
+      "950": "#1A1612"
+    },
+    "semantic": {
+      "success": "#2E7D32",
+      "warning": "#EF6C00",
+      "error": "#C62828",
+      "info": "#1565C0",
+      "spice_mild": "#4CAF50",
+      "spice_medium": "#F0A030",
+      "spice_hot": "#D32F2F"
+    },
+    "dark_mode": {
+      "background": "#1A1A2E",
+      "surface": "#2D2D44",
+      "surface_elevated": "#3A3A55",
+      "text_primary": "#FFF8F0",
+      "text_secondary": "#D4BFA5",
+      "border": "#4A4A66"
+    },
+    "light_mode": {
+      "background": "#FFFDF9",
+      "surface": "#FFFFFF",
+      "surface_elevated": "#FFF8F0",
+      "text_primary": "#2A0825",
+      "text_secondary": "#6B5D4E",
+      "border": "#E8D5BE"
+    }
+  },
+  "typography": {
+    "font_family": {
+      "heading": "'Georgia', 'Noto Serif Arabic', serif",
+      "body": "'Inter', 'Noto Sans Arabic', system-ui, sans-serif",
+      "accent": "'Georgia', 'Noto Serif Arabic', serif"
+    },
+    "font_size": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "3.75rem",
+      "7xl": "4.5rem"
+    },
+    "font_weight": {
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800
+    },
+    "line_height": {
+      "tight": 1.2,
+      "snug": 1.35,
+      "normal": 1.5,
+      "relaxed": 1.65,
+      "loose": 1.8
+    },
+    "letter_spacing": {
+      "tight": "-0.02em",
+      "normal": "0",
+      "wide": "0.02em",
+      "wider": "0.05em",
+      "widest": "0.1em"
+    }
+  },
+  "spacing": {
+    "section_padding_y": "6rem",
+    "section_padding_x": "1.5rem",
+    "container_max_width": "1280px",
+    "card_padding": "2rem",
+    "card_gap": "2rem",
+    "element_gap": "1rem"
+  },
+  "borders": {
+    "radius": {
+      "sm": "0.375rem",
+      "md": "0.75rem",
+      "lg": "1rem",
+      "xl": "1.5rem",
+      "full": "9999px"
+    },
+    "ornamental": {
+      "style": "double",
+      "width": "4px",
+      "color": "secondary.400",
+      "pattern": "Indian-inspired geometric corners and dividers"
+    }
+  },
+  "shadows": {
+    "card": "0 4px 24px rgba(74, 25, 66, 0.08)",
+    "card_hover": "0 8px 40px rgba(74, 25, 66, 0.14)",
+    "elevated": "0 12px 48px rgba(74, 25, 66, 0.12)",
+    "glow": "0 0 30px rgba(212, 168, 67, 0.25)",
+    "inner": "inset 0 2px 8px rgba(74, 25, 66, 0.06)"
+  },
+  "animations": {
+    "fade_in_up": {
+      "duration": "0.7s",
+      "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+      "transform": "translateY(24px) -> translateY(0)"
+    },
+    "scale_hover": {
+      "duration": "0.35s",
+      "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+      "transform": "scale(1) -> scale(1.03)"
+    },
+    "glow_pulse": {
+      "duration": "2.5s",
+      "easing": "ease-in-out",
+      "iteration": "infinite"
+    }
+  },
+  "breakpoints": {
+    "sm": "640px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1280px",
+    "2xl": "1536px"
+  }
+}

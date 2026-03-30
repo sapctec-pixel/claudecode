@@ -1,0 +1,106 @@
+/* Hayat Trove Flowers -- Dark Theme */
+/* Botanical luxury: deep warm tones, muted pastels, nighttime garden elegance */
+
+:root[data-theme="dark"] {
+  /* Background */
+  --bg-primary: #1A1614;
+  --bg-secondary: #231F1C;
+  --bg-tertiary: #2D2824;
+  --bg-accent: #3D2428;
+
+  /* Text */
+  --text-primary: #F2EBE5;
+  --text-secondary: #C4B8AF;
+  --text-tertiary: #8A7F79;
+  --text-inverse: #1A1614;
+
+  /* Brand */
+  --rose: #D4889A;
+  --rose-hover: #E09AAB;
+  --rose-light: #3D2428;
+  --sage: #A3BF9E;
+  --sage-light: #2A3528;
+  --sage-dark: #7FA37A;
+  --gold: #D4AA5A;
+  --gold-light: #3D3320;
+  --blush: #3D2428;
+  --cream: #231F1C;
+  --deep-rose: #D4889A;
+
+  /* Border */
+  --border-subtle: #2D2824;
+  --border-default: #3D3530;
+  --border-strong: #524A44;
+  --border-accent: #3D3320;
+
+  /* Surface */
+  --surface-card: #231F1C;
+  --surface-elevated: #2D2824;
+  --surface-overlay: rgba(0, 0, 0, 0.6);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.25);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.3);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.35);
+  --shadow-glow-rose: 0 0 24px rgba(212, 136, 154, 0.15);
+  --shadow-glow-gold: 0 0 24px rgba(212, 170, 90, 0.12);
+
+  /* Gradients */
+  --gradient-hero: linear-gradient(180deg, #1A1614 0%, #231F1C 40%, #3D2428 100%);
+  --gradient-rose: linear-gradient(135deg, #3D2428 0%, #231F1C 100%);
+  --gradient-sage: linear-gradient(135deg, #2A3528 0%, #231F1C 100%);
+  --gradient-gold: linear-gradient(135deg, #3D3320 0%, #231F1C 100%);
+  --gradient-card-wedding: linear-gradient(160deg, #3D2428 0%, #231F1C 100%);
+  --gradient-card-occasions: linear-gradient(160deg, #3D3320 0%, #231F1C 100%);
+  --gradient-card-daily: linear-gradient(160deg, #2A3528 0%, #231F1C 100%);
+  --gradient-card-condolence: linear-gradient(160deg, #332830 0%, #231F1C 100%);
+  --gradient-footer: linear-gradient(180deg, #231F1C 0%, #1A1614 100%);
+
+  /* Testimonials */
+  --testimonial-bg: linear-gradient(135deg, #231F1C 0%, #3D2428 50%, #231F1C 100%);
+
+  /* Scrollbar */
+  --scrollbar-track: #1A1614;
+  --scrollbar-thumb: #3D3530;
+  --scrollbar-thumb-hover: #524A44;
+}
+
+/* Smooth transition for theme switching */
+:root[data-theme="dark"] * {
+  transition:
+    background-color 300ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 300ms cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 300ms cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Scrollbar styling */
+:root[data-theme="dark"] ::-webkit-scrollbar {
+  width: 8px;
+}
+
+:root[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+
+:root[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+}
+
+:root[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover);
+}
+
+/* Selection styling */
+:root[data-theme="dark"] ::selection {
+  background-color: rgba(212, 136, 154, 0.25);
+  color: #F2EBE5;
+}
+
+/* Focus ring styling */
+:root[data-theme="dark"] :focus-visible {
+  outline: 2px solid var(--rose);
+  outline-offset: 2px;
+}

@@ -1,0 +1,175 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Biryani House - Tabuk | Authentic Biryani, Unforgettable Flavor",
+    "description": "Biryani House in Al-Salam District, Tabuk. Authentic Indian biryani made with fresh spices and traditional cooking methods. Order now for pickup or delivery."
+  },
+  "header": {
+    "brand": "Biryani House",
+    "nav": {
+      "specialties": "Our Dishes",
+      "order": "Order Now",
+      "story": "Our Story",
+      "favorites": "Popular Items",
+      "contact": "Contact Us"
+    },
+    "language_toggle": "العربية",
+    "theme_toggle_light": "Light Mode",
+    "theme_toggle_dark": "Dark Mode"
+  },
+  "hero": {
+    "welcome": "Welcome",
+    "headline": "Authentic Biryani, Made in Tabuk",
+    "subheadline": "Fresh spices, premium basmati rice, and a touch of love in every plate. Serving Al-Salam District daily.",
+    "cta_primary": "Order Now",
+    "cta_secondary": "Browse Menu",
+    "badge": "Open Now"
+  },
+  "specialties": {
+    "section_title": "Biryani Specialties",
+    "section_subtitle": "Every dish is prepared fresh with hand-ground spices and long-grain basmati rice",
+    "spice_levels": {
+      "mild": "Mild",
+      "medium": "Medium",
+      "hot": "Hot",
+      "extra_hot": "Extra Hot"
+    },
+    "items": [
+      {
+        "name": "Chicken Biryani",
+        "description": "Saffron-marinated chicken cooked slowly with aromatic rice until perfectly tender",
+        "spice_level": "medium",
+        "popular": true
+      },
+      {
+        "name": "Mutton Biryani",
+        "description": "Tender lamb with basmati rice and a blend of Indo-Arabian spices, slow-cooked for rich flavor",
+        "spice_level": "medium",
+        "popular": true
+      },
+      {
+        "name": "Shrimp Biryani",
+        "description": "Fresh shrimp with fragrant rice seasoned with cardamom, cinnamon, and bay leaves",
+        "spice_level": "mild",
+        "popular": false
+      },
+      {
+        "name": "Vegetable Biryani",
+        "description": "Seasonal mixed vegetables with basmati rice and fresh mint chutney",
+        "spice_level": "mild",
+        "popular": false
+      },
+      {
+        "name": "Hyderabadi Biryani",
+        "description": "The original Hyderabad recipe. Layered rice and meat with saffron and crispy fried onions",
+        "spice_level": "hot",
+        "popular": true
+      },
+      {
+        "name": "Special Biryani",
+        "description": "Our signature dish: a combination of chicken and lamb with egg and our house spice blend",
+        "spice_level": "medium",
+        "popular": true
+      }
+    ]
+  },
+  "quick_order": {
+    "section_title": "Quick Order",
+    "section_subtitle": "Skip the phone wait. Place your order directly and it will be ready when you arrive.",
+    "phone": {
+      "label": "Call Us",
+      "number": "+966-XX-XXX-XXXX",
+      "note": "Available from 11 AM to 12 Midnight"
+    },
+    "whatsapp": {
+      "label": "Order via WhatsApp",
+      "note": "Send your order in writing and avoid phone order mistakes"
+    },
+    "pickup": {
+      "label": "Pickup from Branch",
+      "note": "Order and pick up in 20-30 minutes"
+    }
+  },
+  "about": {
+    "section_title": "Our Story",
+    "paragraphs": [
+      "We started Biryani House with a simple dream: to bring the authentic taste of traditional Indian biryani right here to Tabuk.",
+      "Every day we grind our spices fresh, select the finest basmati rice, and cook every dish with care. We never rush, because real biryani takes its time.",
+      "Today, we are proud to be part of the Tabuk community. We see families coming back to us every week, and that is the greatest recognition we could ask for."
+    ]
+  },
+  "customer_favorites": {
+    "section_title": "Customer Favorites",
+    "section_subtitle": "The dishes our customers come back for again and again",
+    "items": [
+      {
+        "name": "Family Chicken Biryani Meal",
+        "description": "Serves 4-5 people with salad, raita, and naan bread",
+        "tag": "Best Seller"
+      },
+      {
+        "name": "Hyderabadi Biryani with Tandoori",
+        "description": "Mutton Hyderabadi biryani with two pieces of tandoori chicken",
+        "tag": "Customer Choice"
+      },
+      {
+        "name": "Quick Lunch Meal",
+        "description": "Individual biryani with a drink and salad",
+        "tag": "Great Value"
+      }
+    ]
+  },
+  "testimonials": {
+    "section_title": "What Our Customers Say",
+    "section_subtitle": "Over 2,500 reviews with an average rating of 4.2 out of 5",
+    "items": [
+      {
+        "text": "The best biryani in Tabuk, hands down. The flavor is consistent every single time and the meat is always tender.",
+        "author": "Abu Mohammed",
+        "rating": 5
+      },
+      {
+        "text": "We order from them every week for the family. The portions are generous and the taste never changes.",
+        "author": "Um Sarah",
+        "rating": 5
+      },
+      {
+        "text": "I tried their shrimp biryani and it became an instant favorite. The spices are perfectly balanced and the rice is wonderful.",
+        "author": "Khalid",
+        "rating": 4
+      }
+    ]
+  },
+  "contact": {
+    "section_title": "Visit Us",
+    "address": {
+      "label": "Address",
+      "value": "Al-Salam District, Tabuk, Saudi Arabia"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "value": "Daily from 11:00 AM to 12:00 Midnight"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+966-XX-XXX-XXXX"
+    },
+    "delivery": {
+      "label": "Delivery",
+      "value": "Available within Tabuk",
+      "note": "Delivery in 30-45 minutes"
+    }
+  },
+  "footer": {
+    "brand": "Biryani House",
+    "tagline": "Authentic biryani in the heart of Tabuk",
+    "copyright": "All rights reserved",
+    "links": {
+      "menu": "Menu",
+      "order": "Order Now",
+      "contact": "Contact Us",
+      "location": "Our Location"
+    }
+  }
+}

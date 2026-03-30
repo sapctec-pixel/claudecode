@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "language": "en",
+    "direction": "ltr",
+    "restaurant": "Taj Mahal Restaurant",
+    "city": "Tabuk"
+  },
+  "header": {
+    "restaurant_name": "Taj Mahal",
+    "tagline": "The Heritage of Indian Cuisine",
+    "nav": {
+      "menu": "Menu",
+      "spice_guide": "Spice Guide",
+      "tradition": "Our Tradition",
+      "group_dining": "Group Dining",
+      "testimonials": "Reviews",
+      "contact": "Contact"
+    },
+    "language_toggle": "العربية",
+    "theme_toggle_light": "Light Mode",
+    "theme_toggle_dark": "Dark Mode"
+  },
+  "hero": {
+    "headline": "From the Heart of India to Your Table in Tabuk",
+    "subheadline": "The largest Indian restaurant in Tabuk, serving authentic dishes crafted with the finest spices and freshest ingredients",
+    "cta_primary": "Order via WhatsApp",
+    "cta_secondary": "Browse Our Menu",
+    "rating_text": "Rated 4.0 out of 5",
+    "review_count": "Based on 2,957 guest reviews"
+  },
+  "menu_categories": {
+    "section_title": "Our Menu",
+    "section_subtitle": "Discover our rich selection of authentic Indian dishes",
+    "categories": {
+      "tandoori": {
+        "name": "Tandoori",
+        "description": "Fresh grills from the traditional clay oven, marinated in signature spice blends and cooked over gentle flames",
+        "dishes": [
+          {
+            "name": "Tandoori Chicken",
+            "description": "Chicken marinated in yogurt and red spices, roasted in the clay oven to perfection",
+            "spice_level": "medium"
+          },
+          {
+            "name": "Chicken Tikka",
+            "description": "Boneless chicken pieces marinated with coriander and cumin, chargrilled to order",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Seekh Kebab",
+            "description": "Minced lamb blended with onions and aromatic spices, shaped on skewers and grilled",
+            "spice_level": "medium"
+          },
+          {
+            "name": "Paneer Tikka",
+            "description": "Indian cottage cheese cubes marinated with bell peppers and herbs, roasted in the tandoor",
+            "spice_level": "mild"
+          }
+        ]
+      },
+      "biryani": {
+        "name": "Biryani",
+        "description": "Premium basmati rice slow-cooked with meats and aromatic spices in the traditional dum style",
+        "dishes": [
+          {
+            "name": "Hyderabadi Chicken Biryani",
+            "description": "Long-grain basmati with chicken, infused with saffron, cardamom, and cinnamon",
+            "spice_level": "medium"
+          },
+          {
+            "name": "Lamb Biryani",
+            "description": "Basmati rice with tender lamb cuts, slow-cooked with whole spices until perfectly fragrant",
+            "spice_level": "medium"
+          },
+          {
+            "name": "Shrimp Biryani",
+            "description": "Aromatic basmati rice with fresh shrimp, seasoned with turmeric and pepper",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Vegetable Biryani",
+            "description": "Basmati rice with seasonal vegetables and a medley of Indian spices",
+            "spice_level": "mild"
+          }
+        ]
+      },
+      "curry": {
+        "name": "Curry",
+        "description": "Rich and diverse gravies reflecting the culinary traditions of India, from north to south",
+        "dishes": [
+          {
+            "name": "Butter Chicken",
+            "description": "Chicken in a creamy tomato-butter sauce with cashews, one of India's most beloved dishes",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Lamb Rogan Josh",
+            "description": "Lamb slow-cooked in a rich sauce of onions, ginger, and Kashmiri spices",
+            "spice_level": "medium"
+          },
+          {
+            "name": "Chicken Vindaloo",
+            "description": "Chicken in a bold, fiery sauce of vinegar, garlic, and red chilies, for spice lovers",
+            "spice_level": "hot"
+          },
+          {
+            "name": "Palak Paneer",
+            "description": "Fresh Indian cottage cheese in a creamy spinach sauce with garlic and cumin",
+            "spice_level": "mild"
+          }
+        ]
+      },
+      "bread": {
+        "name": "Indian Breads",
+        "description": "Freshly handmade breads baked in the tandoor oven or on the traditional griddle",
+        "dishes": [
+          {
+            "name": "Butter Naan",
+            "description": "Soft Indian bread baked in the clay oven and brushed with fresh butter",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Garlic Naan",
+            "description": "Naan bread topped with chopped garlic and fresh coriander",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Stuffed Parantha",
+            "description": "Pan-fried bread stuffed with seasoned potatoes or cauliflower",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Tandoori Roti",
+            "description": "Whole wheat bread baked in the traditional tandoor oven",
+            "spice_level": "mild"
+          }
+        ]
+      },
+      "desserts": {
+        "name": "Desserts",
+        "description": "Traditional Indian sweets prepared with milk, ghee, and premium nuts",
+        "dishes": [
+          {
+            "name": "Gulab Jamun",
+            "description": "Milk solid dumplings deep-fried and soaked in cardamom and rose water syrup",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Ras Malai",
+            "description": "Soft cheese balls in thickened saffron milk with pistachios and cardamom",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Kheer",
+            "description": "Indian rice pudding with saffron, mixed nuts, and golden raisins",
+            "spice_level": "mild"
+          },
+          {
+            "name": "Gajar Ka Halwa",
+            "description": "Grated carrot pudding cooked in milk and ghee, topped with nuts",
+            "spice_level": "mild"
+          }
+        ]
+      }
+    }
+  },
+  "spice_guide": {
+    "section_title": "Spice Guide",
+    "section_subtitle": "We help you choose the right heat level for your palate",
+    "levels": {
+      "mild": {
+        "label": "Mild",
+        "description": "Rich, balanced flavors without noticeable heat. Perfect for those new to Indian cuisine."
+      },
+      "medium": {
+        "label": "Medium",
+        "description": "A gentle warmth that enhances the flavors. The most popular choice among our guests."
+      },
+      "hot": {
+        "label": "Hot",
+        "description": "Bold, fiery heat for spice enthusiasts. An authentic experience for the adventurous."
+      }
+    },
+    "note": "You may request any dish to be adjusted to your preferred spice level."
+  },
+  "about_tradition": {
+    "section_title": "Our Culinary Tradition",
+    "section_subtitle": "A journey through centuries of mastery and heritage",
+    "paragraphs": [
+      "At Taj Mahal Restaurant, we carry a proud legacy of Indian culinary arts. Every dish we serve is the result of traditions passed down through generations, where carefully selected spices meet the freshest ingredients to create an extraordinary taste experience.",
+      "Our tandoor oven is the beating heart of our kitchen. At its intense heat, meats and breads are roasted to perfection, developing a unique smoky flavor that cannot be replicated. Our curries are slow-cooked with patience until every flavor harmonizes in perfect balance.",
+      "The name Taj Mahal is not merely a name -- it is a promise of excellence and mastery. Just as the Taj Mahal represents the pinnacle of architecture and beauty, we strive for every dish to be a culinary masterpiece worthy of our honored guests in Tabuk."
+    ],
+    "highlights": [
+      {
+        "title": "Imported Spices",
+        "description": "We source our spices directly from India to ensure the highest quality and authentic flavor"
+      },
+      {
+        "title": "Expert Chefs",
+        "description": "An experienced Indian culinary team with years of expertise in professional kitchens"
+      },
+      {
+        "title": "Authentic Recipes",
+        "description": "Our recipes draw from the diverse regions of India, from Kashmir to Kerala"
+      }
+    ]
+  },
+  "group_dining": {
+    "section_title": "Group Dining and Events",
+    "section_subtitle": "A spacious venue for your finest gatherings and celebrations",
+    "packages": [
+      {
+        "name": "Family Gathering",
+        "capacity": "10 - 20 guests",
+        "description": "Enjoy a diverse selection of Indian dishes in a warm family atmosphere with attentive service",
+        "includes": ["Shared appetizer platter", "Assorted main courses", "Unlimited fresh bread", "Desserts and Indian tea"]
+      },
+      {
+        "name": "Special Occasion",
+        "capacity": "20 - 50 guests",
+        "description": "Celebrate your special moments with a customized menu and exclusive arrangements",
+        "includes": ["Customized menu", "Private seating area", "Dedicated service team", "Venue setup and arrangement"]
+      },
+      {
+        "name": "Corporate Event",
+        "capacity": "30 - 80 guests",
+        "description": "The ideal choice for business meetings and corporate dinners with professional service",
+        "includes": ["Full open buffet", "Private hall", "Continuous tea and coffee service", "Basic AV equipment"]
+      }
+    ],
+    "cta": "Book Your Event via WhatsApp"
+  },
+  "testimonials": {
+    "section_title": "Guest Reviews",
+    "section_subtitle": "Over 2,957 reviews reflecting the trust of our guests",
+    "reviews": [
+      {
+        "text": "One of the best Indian restaurants in Tabuk, hands down. The biryani is excellent and the tandoori is irresistible. The place is spacious and comfortable for families.",
+        "author": "Abu Fahad",
+        "rating": 5
+      },
+      {
+        "text": "Visited with work colleagues and it was a wonderful experience. Quick service and the dishes are fresh and delicious. The butter chicken here is among the best.",
+        "author": "Khalid Al-Anazi",
+        "rating": 4
+      },
+      {
+        "text": "My first time trying Indian food and the staff were incredibly helpful explaining the dishes and spice levels. Excellent experience and I will definitely return.",
+        "author": "Sarah Al-Mutairi",
+        "rating": 5
+      },
+      {
+        "text": "We hosted a family dinner for forty people and the organization was superb. Generous, delicious food and a comfortable, spacious setting.",
+        "author": "Eng. Abdullah",
+        "rating": 4
+      }
+    ]
+  },
+  "contact": {
+    "section_title": "Contact Us",
+    "section_subtitle": "We welcome your visit in Murooj Al-Amir district",
+    "address_label": "Address",
+    "address": "Murooj Al-Amir District, Tabuk, Kingdom of Saudi Arabia",
+    "phone_label": "Phone",
+    "whatsapp_label": "WhatsApp",
+    "hours_label": "Hours",
+    "hours": "Daily from 12:00 PM to 12:00 AM",
+    "cta": "Send Your Order via WhatsApp"
+  },
+  "footer": {
+    "brand": "Taj Mahal Restaurant",
+    "tagline": "The Heritage of Indian Cuisine in the Heart of Tabuk",
+    "copyright": "All Rights Reserved",
+    "links": {
+      "menu": "Menu",
+      "about": "About Us",
+      "contact": "Contact",
+      "privacy": "Privacy Policy"
+    }
+  }
+}

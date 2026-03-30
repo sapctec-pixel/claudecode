@@ -1,0 +1,168 @@
+{
+  "name": "Western Road Steak & Grill",
+  "archetype": "luxury",
+  "colors": {
+    "primary": {
+      "50": "#fdf8f0",
+      "100": "#f9ecd6",
+      "200": "#f0d5a8",
+      "300": "#e6b96e",
+      "400": "#d4982e",
+      "500": "#c4841a",
+      "600": "#a66a14",
+      "700": "#8a5212",
+      "800": "#6e3f10",
+      "900": "#5a340f",
+      "DEFAULT": "#c4841a"
+    },
+    "secondary": {
+      "50": "#f7f5f3",
+      "100": "#ede8e2",
+      "200": "#ddd4c8",
+      "300": "#c7b8a5",
+      "400": "#b09a82",
+      "500": "#9a8068",
+      "600": "#7d6652",
+      "700": "#655041",
+      "800": "#4d3d33",
+      "900": "#3d3129",
+      "DEFAULT": "#9a8068"
+    },
+    "accent": {
+      "DEFAULT": "#d4982e",
+      "hover": "#e6b96e",
+      "muted": "#f0d5a8"
+    },
+    "background": {
+      "primary": "#0c0a09",
+      "secondary": "#1c1917",
+      "tertiary": "#292524",
+      "elevated": "#1c1917",
+      "light": {
+        "primary": "#faf9f7",
+        "secondary": "#f5f3f0",
+        "tertiary": "#ede8e2",
+        "elevated": "#ffffff"
+      }
+    },
+    "surface": {
+      "DEFAULT": "#1c1917",
+      "hover": "#292524",
+      "border": "#3d3129",
+      "light": {
+        "DEFAULT": "#ffffff",
+        "hover": "#f5f3f0",
+        "border": "#ddd4c8"
+      }
+    },
+    "text": {
+      "primary": "#faf9f7",
+      "secondary": "#c7b8a5",
+      "muted": "#9a8068",
+      "inverse": "#0c0a09",
+      "light": {
+        "primary": "#1c1917",
+        "secondary": "#4d3d33",
+        "muted": "#7d6652"
+      }
+    },
+    "muted": {
+      "DEFAULT": "#292524",
+      "foreground": "#9a8068",
+      "light": {
+        "DEFAULT": "#ede8e2",
+        "foreground": "#7d6652"
+      }
+    },
+    "success": "#4ade80",
+    "warning": "#fbbf24",
+    "error": "#ef4444"
+  },
+  "typography": {
+    "fonts": {
+      "heading": {
+        "en": "'Playfair Display', Georgia, 'Times New Roman', serif",
+        "ar": "'Noto Naskh Arabic', 'Traditional Arabic', serif"
+      },
+      "body": {
+        "en": "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+        "ar": "'IBM Plex Sans Arabic', 'Segoe UI', Tahoma, sans-serif"
+      },
+      "accent": {
+        "en": "'Cormorant Garamond', Georgia, serif",
+        "ar": "'Amiri', 'Traditional Arabic', serif"
+      }
+    },
+    "sizes": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "3.75rem",
+      "7xl": "4.5rem",
+      "display": "5.5rem"
+    },
+    "line_heights": {
+      "tight": "1.1",
+      "snug": "1.25",
+      "normal": "1.5",
+      "relaxed": "1.625",
+      "loose": "2"
+    },
+    "letter_spacing": {
+      "tighter": "-0.05em",
+      "tight": "-0.025em",
+      "normal": "0",
+      "wide": "0.05em",
+      "wider": "0.1em",
+      "widest": "0.2em"
+    }
+  },
+  "spacing": {
+    "0": "0",
+    "1": "0.25rem",
+    "2": "0.5rem",
+    "3": "0.75rem",
+    "4": "1rem",
+    "5": "1.25rem",
+    "6": "1.5rem",
+    "8": "2rem",
+    "10": "2.5rem",
+    "12": "3rem",
+    "16": "4rem",
+    "20": "5rem",
+    "24": "6rem",
+    "32": "8rem",
+    "section": "7rem",
+    "section_mobile": "4rem"
+  },
+  "border_radius": {
+    "none": "0",
+    "sm": "0.25rem",
+    "DEFAULT": "0.5rem",
+    "md": "0.75rem",
+    "lg": "1rem",
+    "xl": "1.5rem",
+    "full": "9999px"
+  },
+  "shadows": {
+    "sm": "0 1px 3px 0 rgba(0, 0, 0, 0.3), 0 1px 2px -1px rgba(0, 0, 0, 0.3)",
+    "DEFAULT": "0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -2px rgba(0, 0, 0, 0.3)",
+    "md": "0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -4px rgba(0, 0, 0, 0.3)",
+    "lg": "0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.4)",
+    "xl": "0 25px 50px -12px rgba(0, 0, 0, 0.6)",
+    "glow": "0 0 20px rgba(196, 132, 26, 0.3)",
+    "glow_strong": "0 0 40px rgba(196, 132, 26, 0.5)"
+  },
+  "transitions": {
+    "fast": "150ms cubic-bezier(0.4, 0, 0.2, 1)",
+    "DEFAULT": "300ms cubic-bezier(0.4, 0, 0.2, 1)",
+    "slow": "500ms cubic-bezier(0.4, 0, 0.2, 1)",
+    "slower": "700ms cubic-bezier(0.4, 0, 0.2, 1)"
+  }
+}

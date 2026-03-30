@@ -1,0 +1,83 @@
+/*
+ * Atoll Restaurant - Dark Theme
+ * Luxury dining - deep navy, soft gold, midnight atmosphere
+ */
+
+:root[data-theme="dark"],
+[data-theme="dark"] {
+  /* Background layers */
+  --color-bg: #0a1628;
+  --color-surface: #101d35;
+  --color-surface-elevated: #162544;
+  --color-surface-overlay: rgba(10, 22, 40, 0.92);
+
+  /* Text */
+  --color-text-primary: #f5f0e8;
+  --color-text-secondary: #9a9388;
+  --color-text-tertiary: #6b6560;
+  --color-text-inverse: #1a1815;
+
+  /* Accent */
+  --color-accent: #c9a84c;
+  --color-accent-hover: #d4b96a;
+  --color-accent-light: rgba(201, 168, 76, 0.1);
+  --color-accent-text: #c9a84c;
+
+  /* Borders */
+  --color-border: rgba(201, 168, 76, 0.15);
+  --color-border-subtle: rgba(255, 255, 255, 0.06);
+  --color-border-accent: rgba(201, 168, 76, 0.35);
+
+  /* Decorative */
+  --color-star: #c9a84c;
+  --color-quote-mark: rgba(201, 168, 76, 0.2);
+  --color-divider: rgba(201, 168, 76, 0.15);
+
+  /* Shadows */
+  --shadow-subtle: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --shadow-medium: 0 4px 24px rgba(0, 0, 0, 0.3);
+  --shadow-elevated: 0 8px 40px rgba(0, 0, 0, 0.4);
+
+  /* Hero specific */
+  --hero-bg: linear-gradient(135deg, #060e1c 0%, #0a1628 50%, #0d1a30 100%);
+  --hero-overlay: linear-gradient(to bottom, rgba(6, 14, 28, 0.2) 0%, rgba(6, 14, 28, 0.6) 100%);
+  --hero-text: #f5f0e8;
+  --hero-text-secondary: rgba(245, 240, 232, 0.7);
+
+  /* Reservation section */
+  --reservation-bg: #101d35;
+
+  /* Navigation */
+  --nav-bg: rgba(10, 22, 40, 0.6);
+  --nav-bg-scrolled: rgba(10, 22, 40, 0.92);
+  --nav-text: #f5f0e8;
+  --nav-border: rgba(201, 168, 76, 0.1);
+
+  /* Cards */
+  --card-bg: #101d35;
+  --card-border: rgba(201, 168, 76, 0.1);
+  --card-hover-border: rgba(201, 168, 76, 0.25);
+
+  /* Image placeholders */
+  --placeholder-bg: #162544;
+  --placeholder-accent: rgba(201, 168, 76, 0.08);
+
+  /* Buttons */
+  --btn-primary-bg: #c9a84c;
+  --btn-primary-text: #0a1628;
+  --btn-primary-hover: #d4b96a;
+  --btn-secondary-bg: transparent;
+  --btn-secondary-text: #c9a84c;
+  --btn-secondary-border: #c9a84c;
+  --btn-secondary-hover-bg: rgba(201, 168, 76, 0.1);
+
+  /* Scrollbar */
+  --scrollbar-track: #0a1628;
+  --scrollbar-thumb: rgba(201, 168, 76, 0.3);
+
+  /* Footer */
+  --footer-bg: #060e1c;
+  --footer-text: #6b6560;
+  --footer-text-bright: #9a9388;
+  --footer-border: rgba(201, 168, 76, 0.1);
+}

@@ -1,0 +1,13 @@
+{
+  "shop_name": "Kottouf Sweets",
+  "shop_slug": "kottouf-sweets",
+  "status": "skip_existing",
+  "reason": "Has professional e-commerce website at kottoufsweets.com with full ordering capability",
+  "website_url": "https://kottoufsweets.com/",
+  "tabuk_page": "https://kottoufsweets.com/home/tabuk/",
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/kottouf"
+  },
+  "delivery_platforms": ["HungerStation", "Ninja"],
+  "confidence": "high"
+}

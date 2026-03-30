@@ -1,0 +1,21 @@
+{
+  "shop_name": "BEAUTIQUE SALON",
+  "shop_name_ar": "صالون بيوتيك",
+  "shop_slug": "beautique-salon",
+  "status": "build_new",
+  "reason": "Domain exists but not live. Uses Fresha and Instagram but needs proper web presence",
+  "confidence": "high",
+  "category": "salon",
+  "district": "King Khalid Road",
+  "district_ar": "طريق الملك خالد",
+  "city": "Tabuk",
+  "city_ar": "تبوك",
+  "phone": "0535455949",
+  "existing_presence": {
+    "instagram": "@beautique.tabuk",
+    "booking": "Fresha",
+    "linktree": true
+  },
+  "design_archetype": "clean_service",
+  "visual_direction": "modern_chic_monochrome_accent"
+}

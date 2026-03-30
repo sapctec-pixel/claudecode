@@ -1,0 +1,70 @@
+/* Al-Qaryah Al-Turathiyah — Dark Theme */
+/* Heritage palette adapted for dark mode: warm darks, luminous accents */
+
+:root[data-theme="dark"],
+[data-theme="dark"] {
+  --color-primary: #D4A832;
+  --color-primary-light: #E0BE5A;
+  --color-primary-dark: #B8941F;
+  --color-secondary: #4CAF7A;
+  --color-secondary-light: #6BC494;
+  --color-secondary-dark: #2D7A50;
+  --color-accent: #E8A33E;
+  --color-accent-light: #F0B960;
+  --color-accent-dark: #C17817;
+
+  --color-bg: #1A1410;
+  --color-bg-alt: #241E18;
+  --color-surface: #2C2318;
+  --color-surface-warm: #352A1E;
+  --color-surface-elevated: #3A2F22;
+
+  --color-text: #F0E6D2;
+  --color-text-secondary: #C8B89A;
+  --color-text-muted: #8B7B63;
+  --color-text-inverse: #1A1410;
+
+  --color-border: #4A3D2E;
+  --color-border-light: #3A3028;
+  --color-border-decorative: #D4A832;
+
+  --color-hero-overlay: rgba(26, 20, 16, 0.70);
+  --color-hero-overlay-strong: rgba(26, 20, 16, 0.85);
+
+  --color-pattern: rgba(212, 168, 50, 0.05);
+  --color-pattern-strong: rgba(212, 168, 50, 0.10);
+  --color-pattern-border: rgba(212, 168, 50, 0.18);
+
+  --color-whatsapp: #4CAF7A;
+  --color-whatsapp-hover: #6BC494;
+
+  --color-star: #E8A33E;
+  --color-star-empty: #4A3D2E;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 30px rgba(0, 0, 0, 0.35);
+  --shadow-xl: 0 16px 50px rgba(0, 0, 0, 0.45);
+
+  --gradient-hero: linear-gradient(
+    160deg,
+    #3A2F22 0%,
+    #2C1810 25%,
+    #1A1410 50%,
+    #241E18 75%,
+    #352A1E 100%
+  );
+
+  --gradient-warm: linear-gradient(
+    135deg,
+    #241E18 0%,
+    #2C2318 50%,
+    #352A1E 100%
+  );
+
+  --gradient-cta: linear-gradient(
+    135deg,
+    #2D7A50 0%,
+    #1B5E3B 100%
+  );
+}

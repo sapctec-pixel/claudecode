@@ -1,0 +1,89 @@
+/* Nola Restaurant - Light Theme (Mediterranean Warmth) */
+/* Tailwind CSS v4 compatible custom theme */
+
+@theme {
+  /* Color Palette - Warm Italian */
+  --color-cream: #FFF8F0;
+  --color-cream-dark: #F5EDE3;
+  --color-warm-white: #FEFCF9;
+  --color-parchment: #F0E6D6;
+  --color-charcoal: #2C2C2C;
+  --color-dark-brown: #3D2B1F;
+  --color-warm-gray: #6B6560;
+  --color-light-gray: #D4CFC8;
+
+  --color-olive: #6B7B3A;
+  --color-olive-muted: #8A9A5B;
+  --color-olive-light: #A8B87C;
+
+  --color-tomato: #C4362A;
+  --color-tomato-muted: #D4564A;
+  --color-tomato-light: #E8847B;
+
+  --color-forest: #2D4A3E;
+  --color-forest-light: #3D6454;
+
+  --color-gold: #B8935A;
+  --color-gold-light: #D4B07A;
+
+  --color-burgundy: #6B2D3E;
+  --color-terracotta: #C47A5A;
+
+  /* Semantic Colors - Light Mode */
+  --color-nola-bg: #FFF8F0;
+  --color-nola-bg-alt: #F5EDE3;
+  --color-nola-surface: #FEFCF9;
+  --color-nola-surface-elevated: #FFFFFF;
+  --color-nola-border: #E8DFD4;
+  --color-nola-border-subtle: #F0E6D6;
+  --color-nola-text: #2C2C2C;
+  --color-nola-text-secondary: #6B6560;
+  --color-nola-text-muted: #9A938C;
+  --color-nola-primary: #C4362A;
+  --color-nola-primary-hover: #A82E23;
+  --color-nola-accent: #6B7B3A;
+  --color-nola-accent-soft: rgba(107, 123, 58, 0.1);
+  --color-nola-highlight: #B8935A;
+  --color-nola-section-dark: #2D4A3E;
+  --color-nola-section-dark-text: #F0E6D6;
+  --color-nola-cta-bg: #C4362A;
+  --color-nola-cta-text: #FFFFFF;
+  --color-nola-card-shadow: rgba(44, 44, 44, 0.08);
+  --color-nola-warm-shadow: rgba(196, 54, 42, 0.06);
+
+  /* Typography */
+  --font-heading: 'Playfair Display', 'Noto Serif Arabic', Georgia, serif;
+  --font-body: 'Inter', 'Noto Sans Arabic', system-ui, sans-serif;
+
+  /* Font sizes */
+  --text-hero: clamp(2.5rem, 6vw, 5rem);
+  --text-h1: clamp(2rem, 4vw, 3.5rem);
+  --text-h2: clamp(1.75rem, 3vw, 2.75rem);
+  --text-h3: clamp(1.25rem, 2vw, 1.75rem);
+
+  /* Shadows */
+  --shadow-subtle: 0 2px 8px rgba(44, 44, 44, 0.06);
+  --shadow-card: 0 4px 24px rgba(44, 44, 44, 0.08);
+  --shadow-elevated: 0 8px 40px rgba(44, 44, 44, 0.12);
+  --shadow-warm: 0 4px 24px rgba(196, 54, 42, 0.08);
+
+  /* Animation */
+  --ease-elegant: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --ease-entrance: cubic-bezier(0, 0, 0.2, 1);
+  --duration-normal: 400ms;
+  --duration-slow: 700ms;
+
+  /* Spacing */
+  --section-padding: clamp(4rem, 8vw, 8rem);
+}
+
+/* Base styles for light theme */
+.theme-light {
+  background-color: var(--color-nola-bg);
+  color: var(--color-nola-text);
+}
+
+.theme-light ::selection {
+  background-color: rgba(196, 54, 42, 0.15);
+  color: #2C2C2C;
+}

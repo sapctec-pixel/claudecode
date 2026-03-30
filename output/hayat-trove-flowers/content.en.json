@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "lang": "en",
+    "dir": "ltr",
+    "title": "Hayat Trove | Premium Floral Arrangements in Tabuk",
+    "description": "Hayat Trove -- a treasure of living beauty. Premium floral arrangements for weddings, occasions, and everyday elegance. Al-Wurood District, Tabuk."
+  },
+  "header": {
+    "brand_name": "Hayat Trove",
+    "nav": {
+      "collections": "Collections",
+      "custom_orders": "Custom Orders",
+      "delivery": "Delivery",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "language_toggle": "العربية",
+    "order_now": "Order Now"
+  },
+  "hero": {
+    "subtitle": "Premium Floral Arrangements in Tabuk",
+    "headline": "A Treasure of Living Beauty",
+    "description": "We transform every bloom into a work of art that carries your emotions and tells your story. From the finest natural flowers, we craft your precious moments with unparalleled care.",
+    "cta_primary": "Explore Collections",
+    "cta_secondary": "Order via WhatsApp"
+  },
+  "collections": {
+    "section_label": "Our Collections",
+    "headline": "Arrangements for Every Occasion",
+    "description": "Discover our thoughtfully curated collections, where nature meets artistry in every bouquet.",
+    "items": [
+      {
+        "id": "wedding",
+        "title": "Wedding Flowers",
+        "description": "Extraordinary arrangements for your most important day. From bridal bouquets to venue decoration, we transform your wedding dream into a garden of wonder.",
+        "features": ["Bridal Bouquets", "Venue Decoration", "Wedding Stage", "Guest Gifts"],
+        "cta": "Free Wedding Consultation"
+      },
+      {
+        "id": "occasions",
+        "title": "Occasion Bouquets",
+        "description": "Express your joy with the most beautiful flowers. Bouquets designed for birthdays, graduations, congratulations, and every moment worth celebrating.",
+        "features": ["Birthdays", "Graduations", "Congratulations", "Anniversaries"],
+        "cta": "Browse Occasion Bouquets"
+      },
+      {
+        "id": "daily",
+        "title": "Daily Arrangements",
+        "description": "Add a touch of natural beauty to your day. Contemporary arrangements from seasonal blooms that bring life to your home or office.",
+        "features": ["Office Flowers", "Home Arrangements", "Weekly Subscriptions", "Spontaneous Gifts"],
+        "cta": "Choose Your Daily Arrangement"
+      },
+      {
+        "id": "condolence",
+        "title": "Condolence Flowers",
+        "description": "In moments of loss, we offer our condolences through arrangements that express sympathy and respect with the dignity the occasion deserves.",
+        "features": ["Sympathy Wreaths", "Condolence Bouquets", "Majlis Arrangements", "Condolence Cards"],
+        "cta": "Order Condolence Arrangement"
+      }
+    ]
+  },
+  "custom_orders": {
+    "section_label": "Custom Orders",
+    "headline": "Design Your Own Arrangement",
+    "description": "Every occasion is unique, which is why we offer a bespoke design service to create an arrangement that perfectly reflects your taste and vision.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Share Your Vision",
+        "description": "Reach out via WhatsApp and tell us about the occasion, your preferred colors and style. Share inspiration images if you have them."
+      },
+      {
+        "step": 2,
+        "title": "We Design for You",
+        "description": "Our team creates a custom proposal selecting the finest seasonal flowers available, and sends it to you for approval."
+      },
+      {
+        "step": 3,
+        "title": "We Deliver with Care",
+        "description": "We craft your order with expert hands and deliver it at your scheduled time, preserving the freshness and beauty of every detail."
+      }
+    ],
+    "cta": "Start Your Custom Order via WhatsApp"
+  },
+  "delivery": {
+    "section_label": "Delivery",
+    "headline": "We Deliver Beauty to Your Door",
+    "description": "Reliable delivery service across all of Tabuk, because your flowers deserve to arrive in their full freshness and beauty.",
+    "features": [
+      {
+        "title": "Same-Day Delivery",
+        "description": "Order before 2 PM and receive your arrangement the same day anywhere in Tabuk."
+      },
+      {
+        "title": "Premium Packaging",
+        "description": "Every bouquet arrives in elegant packaging that preserves the flowers and adds a luxurious touch to your gift."
+      },
+      {
+        "title": "Full Coverage",
+        "description": "We cover all Tabuk districts including Al-Wurood, Al-Nakhil, Al-Muruj, Al-Rawdah, Al-Qadisiyyah, and more."
+      },
+      {
+        "title": "Flexible Scheduling",
+        "description": "Choose a delivery time that suits you, and we commit to punctual arrival to ensure your gift reaches at the perfect moment."
+      }
+    ]
+  },
+  "about": {
+    "section_label": "About Us",
+    "headline": "The Story of Hayat Trove",
+    "paragraphs": [
+      "Hayat Trove was born from a genuine passion for flowers and a belief that every arrangement is a work of art deserving of care and mastery. In the heart of Al-Wurood District in Tabuk, we select each bloom with an expert eye and craft it into a masterpiece that pulses with life.",
+      "We believe flowers are more than a gift -- they are a sincere message that conveys emotions words cannot express. From joy to solace, from celebration to gratitude, we shape nature into the most honest expression of feeling.",
+      "Our team of professional arrangers combines refined taste with deep expertise, delivering arrangements that exceed your expectations every time."
+    ],
+    "values": [
+      { "title": "Uncompromising Quality", "description": "We select only the finest natural flowers from the best sources." },
+      { "title": "Renewed Creativity", "description": "Every arrangement is unique, inspired by the latest global floral art trends." },
+      { "title": "Personal Attention", "description": "We treat every order with personal care as if it were our own occasion." }
+    ]
+  },
+  "testimonials": {
+    "section_label": "Testimonials",
+    "headline": "Words from the Heart",
+    "items": [
+      {
+        "quote": "Hayat Trove's arrangements transformed my wedding into a fairy-tale garden. Every corner was an artistic canvas of flowers. Thank you for this remarkable artistry.",
+        "author": "Noura Al-Anazi",
+        "occasion": "Wedding Ceremony"
+      },
+      {
+        "quote": "I order from them weekly for my office. The flowers are always fresh and the arrangements are elegant and innovative. The best flower shop in Tabuk without question.",
+        "author": "Fahad Al-Shammari",
+        "occasion": "Weekly Subscription"
+      },
+      {
+        "quote": "I ordered a custom bouquet for my mother's birthday and it was more beautiful than I imagined. The attention to the finest details is evident in every bloom.",
+        "author": "Reem Al-Balawi",
+        "occasion": "Birthday"
+      }
+    ]
+  },
+  "contact": {
+    "section_label": "Contact Us",
+    "headline": "We Are Delighted to Serve You",
+    "description": "Reach out for any inquiry or to request a custom arrangement. Our team is ready to help you choose the finest for your occasion.",
+    "phone_label": "Call Us",
+    "phone": "0548498465",
+    "whatsapp_label": "WhatsApp",
+    "whatsapp_message": "Hello, I would like to inquire about floral arrangements",
+    "location_label": "Our Location",
+    "location": "Al-Wurood District, Tabuk, Saudi Arabia",
+    "hours_label": "Working Hours",
+    "hours": "Daily from 8 AM to 11 PM",
+    "cta": "Message Us on WhatsApp"
+  },
+  "footer": {
+    "brand_name": "Hayat Trove",
+    "tagline": "A Treasure of Living Beauty",
+    "copyright": "All rights reserved",
+    "links": {
+      "collections": "Collections",
+      "custom_orders": "Custom Orders",
+      "delivery": "Delivery",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "social_note": "Follow us on social media"
+  }
+}

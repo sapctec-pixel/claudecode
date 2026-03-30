@@ -1,0 +1,188 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "BEAUTIQUE SALON | Tabuk",
+    "description": "BEAUTIQUE SALON -- your destination for beauty and elegance in Tabuk. Nails, hair, spa, and fitness.",
+    "keywords": "salon Tabuk, women salon, nails, hair, spa, fitness, beautique"
+  },
+  "header": {
+    "logo_text": "BEAUTIQUE",
+    "logo_sub": "SALON",
+    "nav": {
+      "services": "Services",
+      "pricing": "Pricing",
+      "space": "Our Space",
+      "about": "About",
+      "contact": "Contact",
+      "book": "Book Now"
+    }
+  },
+  "hero": {
+    "tagline": "Where Elegance Begins",
+    "subtitle": "BEAUTIQUE SALON -- a refined beauty experience in the heart of Tabuk",
+    "cta_primary": "Book Your Appointment",
+    "cta_secondary": "Explore Our Services"
+  },
+  "services": {
+    "section_label": "Our Services",
+    "headline": "Four Worlds Under One Roof",
+    "items": [
+      {
+        "id": "nail",
+        "title": "Nail Care",
+        "description": "From classic manicures to the latest nail art designs, we craft nails that reflect your personality with precision and artistry.",
+        "icon": "nail"
+      },
+      {
+        "id": "hair",
+        "title": "Hair Styling",
+        "description": "Cuts, color, treatments, and occasion styling. Our experts bring your vision to life with contemporary techniques.",
+        "icon": "hair"
+      },
+      {
+        "id": "spa",
+        "title": "Spa & Relaxation",
+        "description": "Massage and skincare sessions that grant you moments of calm and renewal. Surrender to tranquility.",
+        "icon": "spa"
+      },
+      {
+        "id": "gym",
+        "title": "Fitness",
+        "description": "A fully equipped fitness space so your self-care journey is complete -- inside and out.",
+        "icon": "gym"
+      }
+    ]
+  },
+  "pricing": {
+    "section_label": "Pricing",
+    "headline": "Full Transparency",
+    "subtitle": "Starting from",
+    "categories": [
+      {
+        "category": "Nails",
+        "items": [
+          { "service": "Classic Manicure", "price": "80 SAR" },
+          { "service": "Classic Pedicure", "price": "90 SAR" },
+          { "service": "Gel Nails", "price": "120 SAR" },
+          { "service": "Nail Art", "price": "150 SAR" }
+        ]
+      },
+      {
+        "category": "Hair",
+        "items": [
+          { "service": "Haircut", "price": "100 SAR" },
+          { "service": "Full Color", "price": "250 SAR" },
+          { "service": "Protein Treatment", "price": "400 SAR" },
+          { "service": "Occasion Styling", "price": "200 SAR" }
+        ]
+      },
+      {
+        "category": "Spa",
+        "items": [
+          { "service": "Relaxation Massage", "price": "200 SAR" },
+          { "service": "Facial Cleanse", "price": "150 SAR" },
+          { "service": "Moroccan Bath", "price": "250 SAR" }
+        ]
+      }
+    ],
+    "note": "Prices shown are indicative. View the full menu and book through Fresha.",
+    "cta": "View Full Menu"
+  },
+  "our_space": {
+    "section_label": "Our Space",
+    "headline": "Designed for You to Feel the Difference",
+    "description": "A modern interior that balances simplicity and luxury. Every corner of BEAUTIQUE is designed to give you an unforgettable experience from the moment you walk in."
+  },
+  "about": {
+    "section_label": "About",
+    "headline": "More Than Just a Salon",
+    "paragraphs": [
+      "BEAUTIQUE is not a conventional beauty salon. It is a complete destination for beauty, wellness, and fitness, founded with a clear vision: everything you need, under one roof.",
+      "We believe beauty starts with confidence, and confidence starts with care. Our team of experts works passionately to deliver services that meet your highest expectations."
+    ]
+  },
+  "team": {
+    "section_label": "Our Team",
+    "headline": "Expertise That Makes the Difference",
+    "members": [
+      {
+        "name": "Nail Team",
+        "role": "Nail Art & Care Specialists",
+        "description": "Skilled hands that transform nails into works of art using the latest techniques."
+      },
+      {
+        "name": "Hair Team",
+        "role": "Professional Hair Stylists",
+        "description": "Expertise in the latest trends in cutting, coloring, and advanced treatments."
+      },
+      {
+        "name": "Spa Team",
+        "role": "Wellness & Relaxation Therapists",
+        "description": "Specialists in massage and skincare using world-class methods."
+      },
+      {
+        "name": "Fitness Team",
+        "role": "Personal Fitness Trainers",
+        "description": "Customized training programs to help you achieve your health goals."
+      }
+    ]
+  },
+  "testimonials": {
+    "section_label": "Testimonials",
+    "headline": "Their Words Speak",
+    "items": [
+      {
+        "quote": "An exceptional experience from start to finish. The space is elegant and the team is incredibly professional. BEAUTIQUE is now my go-to.",
+        "author": "Noura M.",
+        "service": "Hair & Spa"
+      },
+      {
+        "quote": "The best nail art in Tabuk, hands down. The precision and attention to detail is on another level entirely.",
+        "author": "Reem A.",
+        "service": "Nails"
+      },
+      {
+        "quote": "It is wonderful to be able to take care of yourself in every way at one place. The gym, spa, and hair services are all excellent.",
+        "author": "Sara K.",
+        "service": "Fitness & Spa"
+      }
+    ]
+  },
+  "booking": {
+    "section_label": "Booking",
+    "headline": "Your Next Appointment Starts Here",
+    "subtitle": "Choose the way that suits you best",
+    "whatsapp_label": "Book via WhatsApp",
+    "fresha_label": "Book via Fresha",
+    "whatsapp_message": "Hello, I would like to book an appointment at BEAUTIQUE SALON"
+  },
+  "hours": {
+    "section_label": "Working Hours",
+    "headline": "Our Schedule",
+    "schedule": [
+      { "day": "Monday - Saturday", "time": "12:00 PM - 9:00 PM" },
+      { "day": "Sunday", "time": "Closed" }
+    ]
+  },
+  "contact": {
+    "section_label": "Contact Us",
+    "headline": "We Look Forward to Your Visit",
+    "phone_label": "Call Us",
+    "phone": "0535455949",
+    "location_label": "Location",
+    "location": "King Khalid Road, Tabuk",
+    "instagram_label": "Follow Us on Instagram",
+    "instagram": "@beautique.tabuk"
+  },
+  "footer": {
+    "copyright": "All Rights Reserved",
+    "brand": "BEAUTIQUE SALON",
+    "tagline": "Where Elegance Begins",
+    "links": {
+      "instagram": "Instagram",
+      "fresha": "Fresha",
+      "whatsapp": "WhatsApp"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+/*
+ * Hikari - Light Theme
+ * Japanese Zen Minimalism: Rice paper warmth, natural light
+ * Inspired by: Washi paper, morning light through shoji screens
+ */
+
+:root[data-theme="light"] {
+  /* Backgrounds */
+  --bg-primary: #FAF7F2;
+  --bg-surface: #FFFFFF;
+  --bg-surface-elevated: #F5F0E8;
+  --bg-hero: linear-gradient(180deg, #1A1A1A 0%, #2D2D2D 100%);
+  --bg-section-alt: #F5F0E8;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #FAF7F2;
+  --bg-overlay: rgba(10, 10, 10, 0.5);
+  --bg-header: rgba(250, 247, 242, 0.92);
+  --bg-header-scroll: rgba(250, 247, 242, 0.97);
+  --bg-reservation: #1A1A1A;
+  --bg-mobile-menu: rgba(250, 247, 242, 0.98);
+
+  /* Text */
+  --text-primary: #0A0A0A;
+  --text-secondary: #374151;
+  --text-muted: #6B7280;
+  --text-inverse: #FAF7F2;
+  --text-on-hero: #FAF7F2;
+  --text-on-reservation: #FAF7F2;
+  --text-accent: #B91C1C;
+
+  /* Accent */
+  --accent: #B91C1C;
+  --accent-hover: #991B1B;
+  --accent-light: rgba(185, 28, 28, 0.1);
+  --accent-glow: rgba(185, 28, 28, 0.15);
+
+  /* Borders */
+  --border: #EDE8DD;
+  --border-subtle: #F5F0E8;
+  --border-accent: #B91C1C;
+  --border-card: #EDE8DD;
+  --border-card-hover: #B91C1C;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.08);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.1);
+  --shadow-glow: 0 0 40px rgba(185, 28, 28, 0.1);
+
+  /* Specific Components */
+  --star-filled: #B91C1C;
+  --star-empty: #D1D5DB;
+  --scrollbar-track: #F5F0E8;
+  --scrollbar-thumb: #D1D5DB;
+  --tab-active-bg: rgba(185, 28, 28, 0.08);
+  --tab-active-border: #B91C1C;
+  --tab-inactive: #6B7280;
+  --divider: #EDE8DD;
+  --badge-bg: rgba(185, 28, 28, 0.08);
+  --badge-text: #B91C1C;
+
+  /* Transitions */
+  --transition-colors: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Scrollbar styling for light theme */
+:root[data-theme="light"] ::-webkit-scrollbar {
+  width: 8px;
+}
+
+:root[data-theme="light"] ::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+
+:root[data-theme="light"] ::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+}
+
+:root[data-theme="light"] ::-webkit-scrollbar-thumb:hover {
+  background: #9CA3AF;
+}
+
+/* Selection styling */
+:root[data-theme="light"] ::selection {
+  background-color: rgba(185, 28, 28, 0.15);
+  color: #0A0A0A;
+}

@@ -1,0 +1,127 @@
+/* Awaar Restaurant - Dark Theme */
+/* Modern Retail Design System */
+
+[data-theme="dark"] {
+  /* Brand Colors - adjusted for dark backgrounds */
+  --color-primary: #C4652A;
+  --color-primary-hover: #D4803F;
+  --color-primary-light: #C4652A20;
+  --color-primary-dark: #A85420;
+
+  /* Accent */
+  --color-accent: #9B2D42;
+  --color-accent-hover: #B03A52;
+  --color-accent-light: #9B2D4220;
+
+  /* Backgrounds */
+  --color-bg: #1A1A1A;
+  --color-bg-alt: #111111;
+  --color-surface: #2D2D2D;
+  --color-surface-alt: #353535;
+  --color-surface-elevated: #383838;
+
+  /* Text */
+  --color-text: #FAF5EF;
+  --color-text-secondary: #A3A3A3;
+  --color-text-muted: #6B6B6B;
+  --color-text-inverse: #1A1A1A;
+
+  /* Borders */
+  --color-border: #404040;
+  --color-border-light: #353535;
+
+  /* Semantic */
+  --color-success: #4ADE80;
+  --color-warning: #D4803F;
+  --color-error: #F87171;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.3);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.35);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.2), 0 1px 2px rgba(0, 0, 0, 0.15);
+  --shadow-card-hover: 0 10px 20px rgba(0, 0, 0, 0.3);
+
+  /* Header */
+  --header-bg: rgba(26, 26, 26, 0.85);
+  --header-border: #404040;
+
+  /* WhatsApp */
+  --whatsapp-bg: #25D366;
+  --whatsapp-hover: #20BD5A;
+  --whatsapp-text: #FFFFFF;
+
+  /* Rating Stars */
+  --star-filled: #F59E0B;
+  --star-empty: #404040;
+
+  /* Overlay */
+  --overlay: rgba(0, 0, 0, 0.7);
+
+  /* Gradients */
+  --gradient-hero: linear-gradient(135deg, #C4652A 0%, #7A1B2D 100%);
+  --gradient-surface: linear-gradient(180deg, #2D2D2D 0%, #1A1A1A 100%);
+
+  /* Scrollbar */
+  --scrollbar-track: #2D2D2D;
+  --scrollbar-thumb: #404040;
+  --scrollbar-thumb-hover: #6B6B6B;
+}
+
+/* Dark theme specific overrides */
+[data-theme="dark"] .hero-visual-placeholder {
+  background: linear-gradient(135deg, #2D2D2D 0%, #404040 50%, #353535 100%);
+}
+
+[data-theme="dark"] .menu-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+}
+
+[data-theme="dark"] .menu-card:hover {
+  border-color: var(--color-primary-light);
+  box-shadow: var(--shadow-card-hover);
+}
+
+[data-theme="dark"] .step-connector {
+  background: var(--color-border);
+}
+
+[data-theme="dark"] .review-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+}
+
+[data-theme="dark"] .stats-bar {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+}
+
+[data-theme="dark"] .contact-map-placeholder {
+  background: linear-gradient(135deg, #353535 0%, #2D2D2D 100%);
+}
+
+/* Scrollbar styling */
+[data-theme="dark"] ::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 3px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover);
+}
+
+/* Dark mode image adjustments */
+[data-theme="dark"] img {
+  opacity: 0.9;
+}

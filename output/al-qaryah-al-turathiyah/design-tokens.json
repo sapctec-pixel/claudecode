@@ -1,0 +1,132 @@
+{
+  "brand": "Al-Qaryah Al-Turathiyah",
+  "archetype": "local-friendly-heritage",
+  "colors": {
+    "light": {
+      "primary": "#8B6914",
+      "primary-light": "#B8941F",
+      "primary-dark": "#6B4F0E",
+      "secondary": "#1B5E3B",
+      "secondary-light": "#2D7A50",
+      "secondary-dark": "#0F3D25",
+      "accent": "#C17817",
+      "accent-light": "#D4943A",
+      "accent-dark": "#9A5F12",
+      "background": "#FAF5EB",
+      "background-alt": "#F0E6D2",
+      "surface": "#FFFFFF",
+      "surface-warm": "#F7EDD8",
+      "text-primary": "#2C1810",
+      "text-secondary": "#5C4033",
+      "text-muted": "#8B7355",
+      "border": "#D4C4A8",
+      "border-light": "#E8DCC8",
+      "hero-overlay": "rgba(44, 24, 16, 0.65)",
+      "pattern-color": "rgba(139, 105, 20, 0.08)",
+      "pattern-color-strong": "rgba(139, 105, 20, 0.15)"
+    },
+    "dark": {
+      "primary": "#D4A832",
+      "primary-light": "#E0BE5A",
+      "primary-dark": "#B8941F",
+      "secondary": "#4CAF7A",
+      "secondary-light": "#6BC494",
+      "secondary-dark": "#2D7A50",
+      "accent": "#E8A33E",
+      "accent-light": "#F0B960",
+      "accent-dark": "#C17817",
+      "background": "#1A1410",
+      "background-alt": "#241E18",
+      "surface": "#2C2318",
+      "surface-warm": "#352A1E",
+      "text-primary": "#F0E6D2",
+      "text-secondary": "#C8B89A",
+      "text-muted": "#8B7B63",
+      "border": "#4A3D2E",
+      "border-light": "#3A3028",
+      "hero-overlay": "rgba(26, 20, 16, 0.75)",
+      "pattern-color": "rgba(212, 168, 50, 0.06)",
+      "pattern-color-strong": "rgba(212, 168, 50, 0.12)"
+    }
+  },
+  "typography": {
+    "font-family-ar": "'IBM Plex Sans Arabic', 'Noto Sans Arabic', 'Tahoma', sans-serif",
+    "font-family-en": "'IBM Plex Serif', 'Georgia', serif",
+    "font-family-display": "'IBM Plex Sans Arabic', sans-serif",
+    "scale": {
+      "hero-title": "clamp(2.5rem, 6vw, 4.5rem)",
+      "hero-subtitle": "clamp(1.125rem, 2.5vw, 1.75rem)",
+      "section-title": "clamp(1.75rem, 4vw, 3rem)",
+      "section-subtitle": "clamp(1rem, 2vw, 1.25rem)",
+      "card-title": "clamp(1.125rem, 1.5vw, 1.375rem)",
+      "body": "1rem",
+      "body-large": "1.125rem",
+      "small": "0.875rem",
+      "xs": "0.75rem"
+    },
+    "line-height": {
+      "tight": 1.2,
+      "normal": 1.6,
+      "relaxed": 1.8
+    },
+    "font-weight": {
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    }
+  },
+  "spacing": {
+    "section-y": "clamp(4rem, 8vw, 7rem)",
+    "section-x": "clamp(1rem, 4vw, 2rem)",
+    "container-max": "1200px",
+    "container-wide": "1400px",
+    "gap-sm": "0.75rem",
+    "gap-md": "1.5rem",
+    "gap-lg": "2.5rem",
+    "gap-xl": "4rem"
+  },
+  "borders": {
+    "radius-sm": "0.375rem",
+    "radius-md": "0.75rem",
+    "radius-lg": "1rem",
+    "radius-xl": "1.5rem",
+    "width": "1px",
+    "width-decorative": "2px"
+  },
+  "shadows": {
+    "light": {
+      "sm": "0 1px 3px rgba(44, 24, 16, 0.06)",
+      "md": "0 4px 12px rgba(44, 24, 16, 0.08)",
+      "lg": "0 8px 30px rgba(44, 24, 16, 0.12)",
+      "xl": "0 16px 50px rgba(44, 24, 16, 0.16)"
+    },
+    "dark": {
+      "sm": "0 1px 3px rgba(0, 0, 0, 0.2)",
+      "md": "0 4px 12px rgba(0, 0, 0, 0.3)",
+      "lg": "0 8px 30px rgba(0, 0, 0, 0.4)",
+      "xl": "0 16px 50px rgba(0, 0, 0, 0.5)"
+    }
+  },
+  "animation": {
+    "duration-fast": "200ms",
+    "duration-normal": "400ms",
+    "duration-slow": "700ms",
+    "easing-default": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "easing-bounce": "cubic-bezier(0.34, 1.56, 0.64, 1)"
+  },
+  "patterns": {
+    "mashrabiya": {
+      "description": "CSS-generated geometric pattern inspired by traditional Saudi mashrabiya screens",
+      "technique": "repeating-conic-gradient and linear-gradient overlays"
+    },
+    "geometric-border": {
+      "description": "Stepped geometric border pattern for section dividers",
+      "technique": "CSS border-image or pseudo-element patterns"
+    },
+    "najdi-frame": {
+      "description": "Decorative frame corners inspired by Najdi architectural door frames",
+      "technique": "CSS pseudo-elements with border and clip-path"
+    }
+  }
+}

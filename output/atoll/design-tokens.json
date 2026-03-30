@@ -1,0 +1,131 @@
+{
+  "brand": "Atoll",
+  "archetype": "luxury",
+  "colors": {
+    "primary": {
+      "midnight": "#0a1628",
+      "navy": "#101d35",
+      "deep_blue": "#162544",
+      "steel_blue": "#1e3155"
+    },
+    "accent": {
+      "gold": "#c9a84c",
+      "gold_light": "#d4b96a",
+      "gold_muted": "#b89a45",
+      "gold_dim": "#8a7435",
+      "champagne": "#e8d5a3"
+    },
+    "neutral": {
+      "white": "#fafaf8",
+      "cream": "#f5f0e8",
+      "warm_gray": "#e0d8cc",
+      "medium_gray": "#9a9388",
+      "charcoal": "#3d3a36",
+      "near_black": "#1a1815"
+    },
+    "semantic": {
+      "success": "#4a7c59",
+      "error": "#a34444",
+      "star": "#c9a84c"
+    }
+  },
+  "themes": {
+    "dark": {
+      "background": "#0a1628",
+      "surface": "#101d35",
+      "surface_elevated": "#162544",
+      "text_primary": "#f5f0e8",
+      "text_secondary": "#9a9388",
+      "text_accent": "#c9a84c",
+      "border": "rgba(201, 168, 76, 0.15)",
+      "border_subtle": "rgba(255, 255, 255, 0.06)",
+      "overlay": "rgba(10, 22, 40, 0.85)"
+    },
+    "light": {
+      "background": "#fafaf8",
+      "surface": "#f5f0e8",
+      "surface_elevated": "#ffffff",
+      "text_primary": "#1a1815",
+      "text_secondary": "#6b6560",
+      "text_accent": "#8a7435",
+      "border": "rgba(138, 116, 53, 0.2)",
+      "border_subtle": "rgba(0, 0, 0, 0.06)",
+      "overlay": "rgba(250, 250, 248, 0.85)"
+    }
+  },
+  "typography": {
+    "heading": {
+      "family": "'Playfair Display', 'Noto Naskh Arabic', Georgia, serif",
+      "weight": {
+        "regular": 400,
+        "medium": 500,
+        "bold": 700
+      },
+      "letter_spacing": "-0.02em",
+      "sizes": {
+        "hero": "clamp(2.75rem, 6vw, 5.5rem)",
+        "h1": "clamp(2.25rem, 4vw, 4rem)",
+        "h2": "clamp(1.75rem, 3vw, 3rem)",
+        "h3": "clamp(1.25rem, 2vw, 1.75rem)",
+        "eyebrow": "0.75rem"
+      }
+    },
+    "body": {
+      "family": "'Inter', 'Noto Sans Arabic', -apple-system, BlinkMacSystemFont, sans-serif",
+      "weight": {
+        "regular": 400,
+        "medium": 500
+      },
+      "sizes": {
+        "large": "1.125rem",
+        "base": "1rem",
+        "small": "0.875rem",
+        "caption": "0.75rem"
+      },
+      "line_height": {
+        "tight": 1.3,
+        "base": 1.6,
+        "relaxed": 1.8
+      }
+    }
+  },
+  "spacing": {
+    "section_y": "clamp(5rem, 12vh, 10rem)",
+    "section_x": "clamp(1.5rem, 5vw, 4rem)",
+    "content_max_width": "1280px",
+    "narrow_max_width": "720px"
+  },
+  "borders": {
+    "radius": {
+      "none": "0",
+      "small": "2px",
+      "medium": "4px",
+      "large": "8px"
+    },
+    "width": {
+      "thin": "1px",
+      "accent": "2px"
+    }
+  },
+  "animation": {
+    "duration": {
+      "fast": "200ms",
+      "base": "400ms",
+      "slow": "800ms",
+      "reveal": "1000ms"
+    },
+    "easing": {
+      "default": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+      "entrance": "cubic-bezier(0, 0, 0.2, 1)",
+      "exit": "cubic-bezier(0.4, 0, 1, 1)",
+      "luxury": "cubic-bezier(0.16, 1, 0.3, 1)"
+    }
+  },
+  "effects": {
+    "shadow": {
+      "subtle": "0 2px 8px rgba(0, 0, 0, 0.06)",
+      "medium": "0 4px 24px rgba(0, 0, 0, 0.1)",
+      "elevated": "0 8px 40px rgba(0, 0, 0, 0.15)"
+    }
+  }
+}

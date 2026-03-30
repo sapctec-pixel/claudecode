@@ -1,0 +1,78 @@
+/* Top Grill Restaurant and Lounge - Light Theme */
+/* Modern Retail Archetype: Bold, warm, energetic */
+
+[data-theme="light"] {
+  /* Backgrounds */
+  --bg-primary: #FFFBF0;
+  --bg-surface: #FFFFFF;
+  --bg-elevated: #FFF8E7;
+  --bg-hover: #FEF3CD;
+  --bg-hero: linear-gradient(135deg, #FFFBF0 0%, #FFF0D4 50%, #FFE8C0 100%);
+  --bg-lounge: linear-gradient(180deg, #1A1A1A 0%, #2A1F10 100%);
+
+  /* Text */
+  --text-primary: #1A1A1A;
+  --text-secondary: #4A4A4A;
+  --text-muted: #7A7A7A;
+  --text-inverse: #FFF8E7;
+  --text-on-accent: #FFFFFF;
+
+  /* Accent - Orange/Amber (fire, energy) */
+  --accent: #EA580C;
+  --accent-hover: #DC2626;
+  --accent-intense: #B45309;
+  --accent-gradient: linear-gradient(135deg, #EA580C 0%, #F59E0B 100%);
+  --accent-glow: rgba(234, 88, 12, 0.15);
+  --accent-subtle-bg: rgba(234, 88, 12, 0.08);
+
+  /* Borders */
+  --border: #E5DFD0;
+  --border-subtle: #F0EBE0;
+  --border-accent: rgba(234, 88, 12, 0.3);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.12);
+  --shadow-accent: 0 4px 20px rgba(234, 88, 12, 0.2);
+
+  /* Overlay */
+  --overlay: rgba(255, 251, 240, 0.85);
+  --overlay-dark: rgba(0, 0, 0, 0.5);
+
+  /* Badge */
+  --badge-bg: rgba(234, 88, 12, 0.1);
+  --badge-text: #EA580C;
+  --badge-popular-bg: #EA580C;
+  --badge-popular-text: #FFFFFF;
+
+  /* Header */
+  --header-bg: rgba(255, 251, 240, 0.95);
+  --header-bg-scrolled: rgba(255, 251, 240, 0.98);
+  --header-border: rgba(229, 223, 208, 0.5);
+  --header-blur: 12px;
+
+  /* Cards */
+  --card-bg: #FFFFFF;
+  --card-border: #E5DFD0;
+  --card-hover-border: rgba(234, 88, 12, 0.4);
+  --card-hover-shadow: 0 8px 32px rgba(234, 88, 12, 0.12);
+
+  /* Menu Tab */
+  --tab-inactive: #7A7A7A;
+  --tab-active: #EA580C;
+  --tab-indicator: #EA580C;
+
+  /* Star Rating */
+  --star-filled: #F59E0B;
+  --star-empty: #E5DFD0;
+
+  /* WhatsApp */
+  --whatsapp-bg: #25D366;
+  --whatsapp-text: #FFFFFF;
+
+  /* Scrollbar */
+  --scrollbar-track: #F0EBE0;
+  --scrollbar-thumb: #D4CFC0;
+  --scrollbar-thumb-hover: #B8B3A4;
+}

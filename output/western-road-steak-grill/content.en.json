@@ -1,0 +1,183 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "meta": {
+    "title": "Western Road Steak & Grill | Tabuk",
+    "description": "Tabuk's premier steakhouse. Premium cuts, charcoal-grilled to perfection in an elegant dining atmosphere."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "menu": "Menu",
+    "why_us": "Why Us",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "reserve": "Reserve a Table",
+    "language_toggle": "العربية"
+  },
+  "topbar": {
+    "hours": "Daily 1:00 PM - 12:00 AM",
+    "location": "King Abdullah Road, Tabuk"
+  },
+  "hero": {
+    "title": "Where the Art of Grilling Meets True Hospitality",
+    "subtitle": "Hand-selected premium cuts, charcoal-grilled by master chefs, served in an atmosphere worthy of your finest evenings",
+    "cta": "Reserve Your Table",
+    "cta_secondary": "Explore Our Menu"
+  },
+  "trust": {
+    "rating": "4.5",
+    "rating_label": "Overall Rating",
+    "reviews": "5,700+",
+    "reviews_label": "Guest Reviews",
+    "experience_years": "Years of Excellence",
+    "quality_label": "Imported Premium Cuts"
+  },
+  "about": {
+    "title": "A Passion for the Perfect Steak",
+    "description": "At Western Road Steak & Grill, we believe an extraordinary steak begins with extraordinary ingredients. We source our beef from the world's finest farms, age it with meticulous care, and entrust it to our expert grill masters who cook each cut to its ideal temperature. Every plate that reaches your table is the culmination of years of expertise and an unwavering passion for the craft of grilling.",
+    "features": [
+      {
+        "title": "Hand-Selected Premium Cuts",
+        "description": "We source only the finest beef from trusted global suppliers, ensuring every cut meets our exacting quality standards"
+      },
+      {
+        "title": "Natural Charcoal Grilling",
+        "description": "Our signature charcoal-grilling technique imparts a rich, smoky depth of flavor that simply cannot be replicated"
+      },
+      {
+        "title": "Refined Atmosphere",
+        "description": "Every detail of our space has been crafted to deliver an elevated dining experience in a warm, intimate setting"
+      },
+      {
+        "title": "Exceptional Service",
+        "description": "Our highly trained team delivers authentic Saudi hospitality refined to international fine-dining standards"
+      }
+    ]
+  },
+  "menu_highlights": {
+    "title": "From Our Kitchen",
+    "subtitle": "A curated selection that reflects our commitment to excellence",
+    "items": [
+      {
+        "name": "Ribeye Steak",
+        "description": "Premium charcoal-grilled ribeye served with wild mushroom sauce and seasonal vegetables",
+        "price_range": "SAR 185 - 250",
+        "badge": "Most Popular"
+      },
+      {
+        "name": "T-Bone Steak",
+        "description": "A generous T-bone combining tenderloin and strip loin, seared to perfection over high heat",
+        "price_range": "SAR 220 - 290",
+        "badge": "Chef's Pick"
+      },
+      {
+        "name": "Filet Mignon",
+        "description": "The most tender and refined cut, wrapped in bacon and served with truffle potatoes",
+        "price_range": "SAR 240 - 320",
+        "badge": "Premium"
+      },
+      {
+        "name": "Tomahawk Steak",
+        "description": "A show-stopping full-kilo tomahawk, slow-grilled over charcoal for an unforgettable flavor",
+        "price_range": "SAR 350 - 450",
+        "badge": "For Sharing"
+      },
+      {
+        "name": "Western Road Burger",
+        "description": "Fresh ground beef burger with aged cheddar and our signature house sauce",
+        "price_range": "SAR 75 - 110",
+        "badge": ""
+      },
+      {
+        "name": "Premium Mixed Grill",
+        "description": "A luxurious assortment of our finest grilled cuts for two, served with appetizers and rice",
+        "price_range": "SAR 280 - 380",
+        "badge": "For Sharing"
+      }
+    ]
+  },
+  "why_choose_us": {
+    "title": "Why Western Road",
+    "subtitle": "What sets us apart",
+    "reasons": [
+      {
+        "title": "Uncompromising Quality",
+        "description": "We work exclusively with the world's best suppliers to guarantee you receive the finest cuts with every visit"
+      },
+      {
+        "title": "World-Class Chefs",
+        "description": "Our culinary team brings years of experience from premier restaurants, mastering the art of steak with surgical precision"
+      },
+      {
+        "title": "A Complete Experience",
+        "description": "From the moment you walk in to the moment you leave, every touchpoint is designed to be exceptional"
+      },
+      {
+        "title": "Trusted by Thousands",
+        "description": "Over 5,700 reviews with a 4.5 out of 5 rating stand as testament to our unwavering commitment to excellence"
+      },
+      {
+        "title": "Prime Location",
+        "description": "Centrally located on King Abdullah Road in Tabuk, with easy access and ample parking"
+      },
+      {
+        "title": "Privacy & Comfort",
+        "description": "Private family sections and majlis-style lounges designed for the utmost privacy and comfort"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Guests Say",
+    "subtitle": "Real reviews from our valued guests",
+    "items": [
+      {
+        "name": "Abdullah Al-Mutairi",
+        "text": "The best steak I have ever had in Tabuk, hands down. The quality of the meat, the grilling, and the presentation are all world-class. Worth every riyal.",
+        "rating": 5
+      },
+      {
+        "name": "Fahad Al-Anazi",
+        "text": "Visited with my family and it was a wonderful experience in every way. The ambiance is upscale, the service excellent, and the food is beyond description. We will definitely return.",
+        "rating": 5
+      },
+      {
+        "name": "Sultan Al-Rashidi",
+        "text": "The Tomahawk steak here is out of this world. Incredibly tender with a distinctive smoky flavor. I recommend it to everyone. One of Tabuk's finest restaurants.",
+        "rating": 5
+      },
+      {
+        "name": "Mohammed Al-Shammari",
+        "text": "A place that combines luxury with great taste. The ribeye steak is outstanding and the service is fast and professional. A perfect 10 out of 10 from me.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Visit Us",
+    "subtitle": "We look forward to welcoming you",
+    "address": "King Abdullah Road, Tabuk, Saudi Arabia",
+    "phone_placeholder": "+966 XX XXX XXXX",
+    "hours": {
+      "daily": "Daily: 1:00 PM - 12:00 AM"
+    },
+    "map_note": "Located on King Abdullah Road - easily accessible from all parts of Tabuk"
+  },
+  "cta_section": {
+    "title": "Ready for an Extraordinary Steak Experience?",
+    "subtitle": "Reserve your table now via WhatsApp and enjoy the finest cuts in Tabuk",
+    "button_text": "Reserve via WhatsApp"
+  },
+  "footer": {
+    "brand_description": "Tabuk's destination for premium steak lovers. We serve the finest charcoal-grilled cuts in an elegant atmosphere worthy of your most distinguished evenings.",
+    "quick_links_title": "Quick Links",
+    "contact_title": "Contact Us",
+    "hours_title": "Opening Hours",
+    "copyright": "All rights reserved. Western Road Steak & Grill",
+    "year": "2026"
+  },
+  "whatsapp": {
+    "tooltip": "Reserve via WhatsApp",
+    "message": "Hello, I would like to reserve a table at Western Road Steak & Grill"
+  }
+}

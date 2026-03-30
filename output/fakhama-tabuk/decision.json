@@ -1,0 +1,14 @@
+{
+  "shop_name": "Fakhama Tabuk",
+  "shop_name_ar": "فخامة تبوك",
+  "shop_slug": "fakhama-tabuk",
+  "status": "build_new",
+  "reason": "No website. Luxury furniture maker targeting villa owners needs professional portfolio",
+  "confidence": "high",
+  "category": "Furniture - Arab Councils / Majlis Detailing",
+  "city": "Tabuk",
+  "existing_presence": ["TikTok"],
+  "target_audience": "High-net-worth villa clients in Tabuk region",
+  "design_archetype": "luxury_interior_design",
+  "primary_need": "Digital portfolio gallery to increase customer trust and showcase past work"
+}
