@@ -1,0 +1,18 @@
+
+# Deployment is paused.
+# - The `ignore` command always exits 0, which tells Netlify to skip every
+#   build triggered by a git push, so no new deploys will go out.
+# - The `build.command` and `publish` directory are pointed at a tiny static
+#   folder that serves a "site paused" page, so if a deploy is ever triggered
+#   manually, the live site is replaced by the maintenance page instead of
+#   the Next.js app.
+
+[build]
+  command = "echo 'Deployment paused — skipping Next.js build.'"
+  publish = "paused-site"
+  ignore = "exit 0"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
