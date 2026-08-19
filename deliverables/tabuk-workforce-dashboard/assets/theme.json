@@ -1,0 +1,144 @@
+{
+  "name": "Tabuk Health Cluster — تجمع تبوك الصحي",
+  "dataColors": [
+    "#3B7FB6",
+    "#4FA0C2",
+    "#234C6E",
+    "#C9972B",
+    "#7CC4D9",
+    "#2E8B57",
+    "#52697A",
+    "#8AC024"
+  ],
+  "background": "#FFFFFF",
+  "backgroundLight": "#F5F8FA",
+  "backgroundNeutral": "#D9E2EC",
+  "foreground": "#1B2A38",
+  "foregroundNeutralSecondary": "#52697A",
+  "foregroundNeutralTertiary": "#8FA3B0",
+  "tableAccent": "#3B7FB6",
+  "good": "#2E8B57",
+  "neutral": "#C9972B",
+  "bad": "#B42318",
+  "maximum": "#234C6E",
+  "center": "#4FA0C2",
+  "minimum": "#D9E2EC",
+  "null": "#8FA3B0",
+  "textClasses": {
+    "title": {
+      "fontFace": "Janna LT Bold",
+      "fontSize": 14,
+      "color": "#1B2A38"
+    },
+    "header": {
+      "fontFace": "Janna LT Bold",
+      "fontSize": 12,
+      "color": "#1B2A38"
+    },
+    "label": {
+      "fontFace": "Janna LT",
+      "fontSize": 10,
+      "color": "#1B2A38"
+    },
+    "callout": {
+      "fontFace": "Janna LT Bold",
+      "fontSize": 28,
+      "color": "#3B7FB6"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E4E9EF" } }, "radius": 8 }],
+        "dropShadow": [{ "show": true, "shadowColor": { "solid": { "color": "#1B2A38" } }, "position": "Outer", "shadowTransparency": 92, "angle": 90, "distance": 1, "blur": 6 }],
+        "visualHeader": [{ "show": false }],
+        "title": [{
+          "show": true,
+          "fontColor": { "solid": { "color": "#1B2A38" } },
+          "fontFamily": "Janna LT Bold",
+          "fontSize": 13,
+          "alignment": "right",
+          "titleWrap": true
+        }],
+        "outspacePane": [{ "backgroundColor": { "solid": { "color": "#F5F8FA" } } }]
+      },
+      "card": [{
+        "labels": [{ "color": { "solid": { "color": "#3B7FB6" } }, "fontFamily": "Janna LT Bold", "fontSize": 28 }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#52697A" } }, "fontFamily": "Janna LT", "fontSize": 11 }]
+      }],
+      "multiRowCard": [{
+        "card": [{ "outlineColor": { "solid": { "color": "#E4E9EF" } }, "outlineWeight": 1, "barShow": true, "barColor": { "solid": { "color": "#3B7FB6" } } }]
+      }],
+      "tableEx": [{
+        "grid": [{ "gridVertical": false, "gridHorizontalColor": { "solid": { "color": "#E4E9EF" } }, "rowPadding": 6 }],
+        "columnHeaders": [{
+          "fontColor": { "solid": { "color": "#FFFFFF" } },
+          "backColor": { "solid": { "color": "#234C6E" } },
+          "fontFamily": "Janna LT Bold",
+          "fontSize": 10,
+          "alignment": "right"
+        }],
+        "values": [{
+          "fontFamily": "Janna LT",
+          "fontSize": 10,
+          "fontColorPrimary": { "solid": { "color": "#1B2A38" } },
+          "backColorPrimary": { "solid": { "color": "#FFFFFF" } },
+          "backColorSecondary": { "solid": { "color": "#F5F8FA" } },
+          "alignment": "right"
+        }],
+        "total": [{ "fontFamily": "Janna LT Bold", "fontColor": { "solid": { "color": "#1B2A38" } }, "backColor": { "solid": { "color": "#EDF2F6" } } }]
+      }],
+      "slicer": [{
+        "header": [{ "show": true, "fontColor": { "solid": { "color": "#1B2A38" } }, "background": { "solid": { "color": "#F5F8FA" } }, "fontFamily": "Janna LT Bold", "fontSize": 10 }],
+        "items": [{ "fontColor": { "solid": { "color": "#1B2A38" } }, "background": { "solid": { "color": "#FFFFFF" } }, "fontFamily": "Janna LT", "fontSize": 10 }],
+        "selection": [{ "selectAllCheckboxEnabled": true, "singleSelect": false }],
+        "generalSettings": [{ "outlineColor": { "solid": { "color": "#E4E9EF" } }, "outlineWeight": 1 }]
+      }],
+      "barChart": [{
+        "categoryAxis": [{ "fontFamily": "Janna LT", "fontSize": 10, "color": { "solid": { "color": "#1B2A38" } } }],
+        "valueAxis": [{ "fontFamily": "Janna LT", "fontSize": 9, "gridlineColor": { "solid": { "color": "#D9E2EC" } }, "gridlineStyle": "dotted" }],
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#3B7FB6" } } }],
+        "labels": [{ "fontFamily": "Janna LT", "fontSize": 9, "color": { "solid": { "color": "#1B2A38" } } }]
+      }],
+      "clusteredBarChart": [{
+        "categoryAxis": [{ "fontFamily": "Janna LT", "fontSize": 10, "color": { "solid": { "color": "#1B2A38" } } }],
+        "valueAxis": [{ "fontFamily": "Janna LT", "fontSize": 9, "gridlineColor": { "solid": { "color": "#D9E2EC" } }, "gridlineStyle": "dotted" }],
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#3B7FB6" } } }],
+        "labels": [{ "fontFamily": "Janna LT", "fontSize": 9, "color": { "solid": { "color": "#1B2A38" } } }]
+      }],
+      "columnChart": [{
+        "categoryAxis": [{ "fontFamily": "Janna LT", "fontSize": 10, "color": { "solid": { "color": "#1B2A38" } } }],
+        "valueAxis": [{ "fontFamily": "Janna LT", "fontSize": 9, "gridlineColor": { "solid": { "color": "#D9E2EC" } }, "gridlineStyle": "dotted" }],
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#3B7FB6" } } }]
+      }],
+      "clusteredColumnChart": [{
+        "categoryAxis": [{ "fontFamily": "Janna LT", "fontSize": 10, "color": { "solid": { "color": "#1B2A38" } } }],
+        "valueAxis": [{ "fontFamily": "Janna LT", "fontSize": 9, "gridlineColor": { "solid": { "color": "#D9E2EC" } }, "gridlineStyle": "dotted" }],
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#3B7FB6" } } }]
+      }],
+      "pieChart": [{
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#3B7FB6" } } }],
+        "legend": [{ "fontFamily": "Janna LT", "fontSize": 9, "position": "Left" }],
+        "labels": [{ "fontFamily": "Janna LT", "fontSize": 9 }]
+      }],
+      "donutChart": [{
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#3B7FB6" } } }],
+        "legend": [{ "fontFamily": "Janna LT", "fontSize": 9, "position": "Left" }],
+        "labels": [{ "fontFamily": "Janna LT", "fontSize": 9 }]
+      }],
+      "gauge": [{
+        "dataPoint": [{ "fillColor": { "solid": { "color": "#3B7FB6" } }, "targetColor": { "solid": { "color": "#B42318" } } }],
+        "calloutValue": [{ "fontFamily": "Janna LT Bold", "fontSize": 20, "color": { "solid": { "color": "#3B7FB6" } } }]
+      }],
+      "textbox": [{
+        "general": [{ "verticalAlignment": "middle" }]
+      }],
+      "shape": [{
+        "fill": [{ "show": true }]
+      }],
+      "image": [{}],
+      "actionButton": [{}]
+    }
+  }
+}

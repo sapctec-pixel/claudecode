@@ -1,0 +1,334 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "name": "cb24c7ff89ac4cc4f5d9",
+  "position": {
+    "x": 40,
+    "y": 262,
+    "z": 4000,
+    "height": 445,
+    "width": 1200,
+    "tabOrder": 4000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "الرقم_الوظيفي"
+                }
+              },
+              "queryRef": "Workforce.الرقم_الوظيفي",
+              "nativeQueryRef": "الرقم_الوظيفي"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "اسم_الموظف"
+                }
+              },
+              "queryRef": "Workforce.اسم_الموظف",
+              "nativeQueryRef": "اسم_الموظف"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "المنشأة"
+                }
+              },
+              "queryRef": "Workforce.المنشأة",
+              "nativeQueryRef": "المنشأة"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "الفئة_الوظيفية"
+                }
+              },
+              "queryRef": "Workforce.الفئة_الوظيفية",
+              "nativeQueryRef": "الفئة_الوظيفية"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "المسمى_الوظيفي"
+                }
+              },
+              "queryRef": "Workforce.المسمى_الوظيفي",
+              "nativeQueryRef": "المسمى_الوظيفي"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "الحالة_الوظيفية"
+                }
+              },
+              "queryRef": "Workforce.الحالة_الوظيفية",
+              "nativeQueryRef": "الحالة_الوظيفية"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "الجنسية"
+                }
+              },
+              "queryRef": "Workforce.الجنسية",
+              "nativeQueryRef": "الجنسية"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "الراتب_الأساسي"
+                }
+              },
+              "queryRef": "Workforce.الراتب_الأساسي",
+              "nativeQueryRef": "الراتب_الأساسي"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "تقييم_الأداء_2025"
+                }
+              },
+              "queryRef": "Workforce.تقييم_الأداء_2025",
+              "nativeQueryRef": "تقييم_الأداء_2025"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "حالة_التصنيف"
+                }
+              },
+              "queryRef": "Workforce.حالة_التصنيف",
+              "nativeQueryRef": "حالة_التصنيف"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Workforce"
+                    }
+                  },
+                  "Property": "تعارض_الدور"
+                }
+              },
+              "queryRef": "Workforce.تعارض_الدور",
+              "nativeQueryRef": "تعارض_الدور"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "columnHeaders": [
+        {
+          "properties": {
+            "columnAdjustment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'growToFit'"
+                }
+              }
+            },
+            "autoSizeColumnWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "alignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'right'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "alignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'right'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'سجل الموظفين المنظف'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "13D"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#1B2A38'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#E4E9EF'"
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "6D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
