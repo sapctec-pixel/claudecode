@@ -1,0 +1,49 @@
+{
+  "brand": "تجمع تبوك الصحي — Tabuk Health Cluster",
+  "source": "مستخرجة برمجيًا من ملف الشعار الرسمي (assets/tabuk-logo.png) بدون أي تعديل على الشعار نفسه",
+  "extractionMethod": "أخذ عينات بكسل مهيمنة من الشعار (Pillow + numpy) بعد استبعاد الخلفية الشفافة/البيضاء",
+  "core": {
+    "primaryBlue": { "hex": "#3B7FB6", "role": "اللون الأساسي — من النجمة/الاسم التجاري للشعار", "source": "أكثر لون مهيمن في الشعار (12800 عينة)" },
+    "primaryBlueDark": { "hex": "#234C6E", "role": "درجة غامقة من الأزرق الأساسي — للعناوين الكبيرة وخلفيات الرأس", "source": "مشتق (Shade) من primaryBlue" },
+    "accentTeal": { "hex": "#4FA0C2", "role": "اللون الثانوي — من بتلات النجمة الفاتحة", "source": "ثاني لون مهيمن في الشعار (5915 عينة)" },
+    "accentTealDeep": { "hex": "#245E86", "role": "أزرق عميق للتباين والعمق في الرسوم", "source": "مشتق (Shade) من primaryBlue" },
+    "accentSky": { "hex": "#7CC4D9", "role": "سماوي فاتح — لتدرجات إضافية في المخططات", "source": "مشتق (Tint) من accentTeal" },
+    "accentGreen": { "hex": "#2E8B57", "role": "أخضر — من تدرج أيقونة الخريطة الصغيرة داخل الشعار، ويُستخدم كذلك كلون النجاح الدلالي", "source": "عينة من تدرج الأيقونة المركزية (#30965A~#369060)" },
+    "accentLime": { "hex": "#8AC024", "role": "أخضر ليموني — أعلى تدرج أيقونة الخريطة، استخدام محدود جدًا كنقطة إبراز فقط", "source": "عينة من تدرج الأيقونة المركزية" },
+    "accentGold": { "hex": "#C9972B", "role": "ذهبي دافئ — تباين مع الأزرق في المخططات متعددة الفئات", "source": "متوافق مع اللوحة الاحتياطية HTML الحالية" }
+  },
+  "neutrals": {
+    "ink": "#1B2A38",
+    "inkMuted": "#52697A",
+    "border": "#E4E9EF",
+    "gridline": "#D9E2EC",
+    "surfaceAlt": "#F5F8FA",
+    "surface": "#FFFFFF"
+  },
+  "semantic": {
+    "success": "#2E8B57",
+    "warning": "#D97706",
+    "danger": "#B42318",
+    "info": "#3B7FB6",
+    "urgentBg": "#FDECEA",
+    "highBg": "#FFF6DD",
+    "highBorder": "#F1D58A"
+  },
+  "dataColorsOrder": [
+    "#3B7FB6",
+    "#4FA0C2",
+    "#234C6E",
+    "#C9972B",
+    "#7CC4D9",
+    "#2E8B57",
+    "#52697A",
+    "#8AC024"
+  ],
+  "typography": {
+    "headingFont": "Janna LT Bold",
+    "bodyFont": "Janna LT",
+    "fallbackStack": "Janna LT Bold, Janna LT, Segoe UI, Tahoma, Arial, sans-serif",
+    "note": "يجب تثبيت الخطين Janna-LT-Bold.ttf و Janna-LT-Regular.ttf على نظام تشغيل Windows قبل فتح Power BI Desktop حتى تُعرض الخطوط بشكل صحيح — Power BI لا يضمّن الخطوط داخل الملف."
+  },
+  "layoutDirection": "rtl"
+}

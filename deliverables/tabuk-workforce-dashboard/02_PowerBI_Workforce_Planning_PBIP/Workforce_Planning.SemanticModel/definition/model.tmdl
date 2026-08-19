@@ -1,0 +1,7 @@
+model Model
+	culture: ar-SA
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: ar-SA
+
+ref table Workforce
+ref table Issues
