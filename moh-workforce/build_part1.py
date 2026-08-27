@@ -73,13 +73,17 @@ def build_standard_sheet(wb, title, subtitle, rows, tiers, published=None, note_
     h2(ws, subtitle, ncols)
 
     hdr = 4
-    heads = ["م", "الفئة", "المسمى الوظيفي"] + [f"{t} سرير" for t in tiers] + \
+    # ملاحظة: قيم الشرائح تُكتب كأرقام (لا كنص) لأن صيغة الاستيفاء تستخدمها في MATCH
+    # وفي عمليات حسابية؛ التنسيق الرقمي وحده هو ما يعرضها بصيغة «50 سرير».
+    heads = ["م", "الفئة", "المسمى الوظيفي"] + list(tiers) + \
             ["الاحتياج للسعة المدخلة", "الموجود فعلياً", "الفجوة (+فائض / -عجز)",
              "نسبة التغطية", "الحالة", "القيمة قبل التقريب", "ملاحظات"]
     for j, t in enumerate(heads, start=1):
         c = ws.cell(row=hdr, column=j, value=t)
         c.font = HDR_FONT; c.fill = HDR_FILL; c.border = BOX
         c.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+        if c_t0 <= j <= c_t1:
+            c.number_format = '0" سرير"' 
     ws.row_dimensions[hdr].height = 42
 
     # معاملات الاستيفاء (تُحسب مرة واحدة لكل ورقة بدل تكرارها في كل صف)
