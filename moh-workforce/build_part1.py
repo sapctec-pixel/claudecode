@@ -82,6 +82,19 @@ def build_standard_sheet(wb, title, subtitle, rows, tiers, published=None, note_
         c.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
     ws.row_dimensions[hdr].height = 42
 
+    # معاملات الاستيفاء (تُحسب مرة واحدة لكل ورقة بدل تكرارها في كل صف)
+    ws.cell(row=3, column=3, value="معاملا الاستيفاء ◄").font = Font(
+        name=FONT, size=8, color="A6A6A6")
+    ws.cell(row=3, column=3).alignment = Alignment(horizontal="left")
+    ci = ws.cell(row=3, column=4,
+                 value=f"=IFERROR(MATCH(CAP,${L_t0}${hdr}:${L_t1}${hdr},1),1)")
+    ci.font = Font(name=FONT, size=8, color="A6A6A6"); ci.number_format = "0"
+    cwt = ws.cell(row=3, column=5, value=(
+        f"=IF(OR(CAP<=${L_t0}${hdr},CAP>=${L_t1}${hdr}),0,"
+        f"(CAP-INDEX(${L_t0}${hdr}:${L_t1}${hdr},$D$3))"
+        f"/(INDEX(${L_t0}${hdr}:${L_t1}${hdr},$D$3+1)-INDEX(${L_t0}${hdr}:${L_t1}${hdr},$D$3)))"))
+    cwt.font = Font(name=FONT, size=8, color="A6A6A6"); cwt.number_format = "0.000"
+
     r0 = hdr + 1
     for i, (cat, name, vals, pub_total, note) in enumerate(rows):
         r = r0 + i
@@ -96,15 +109,12 @@ def build_standard_sheet(wb, title, subtitle, rows, tiers, published=None, note_
             cc.fill = TIER_FILL
             cc.number_format = "#,##0"
             cc.alignment = Alignment(horizontal="center")
-        # الاستيفاء الخطي بين الشرائح
-        m = f"MATCH(CAP,${L_t0}${hdr}:${L_t1}${hdr},1)"
+        # الاستيفاء الخطي بين الشرائح (يعتمد على معاملَي الاستيفاء المحسوبين في الصف 3)
         raw = (
             f"=IF(CAP<=${L_t0}${hdr},{L_t0}{r}*CAP/${L_t0}${hdr},"
             f"IF(CAP>=${L_t1}${hdr},{L_t1}{r}*CAP/${L_t1}${hdr},"
-            f"INDEX(${L_t0}{r}:${L_t1}{r},{m})"
-            f"+(CAP-INDEX(${L_t0}${hdr}:${L_t1}${hdr},{m}))"
-            f"*(INDEX(${L_t0}{r}:${L_t1}{r},{m}+1)-INDEX(${L_t0}{r}:${L_t1}{r},{m}))"
-            f"/(INDEX(${L_t0}${hdr}:${L_t1}${hdr},{m}+1)-INDEX(${L_t0}${hdr}:${L_t1}${hdr},{m})))))"
+            f"INDEX(${L_t0}{r}:${L_t1}{r},$D$3)"
+            f"+$E$3*(INDEX(${L_t0}{r}:${L_t1}{r},$D$3+1)-INDEX(${L_t0}{r}:${L_t1}{r},$D$3))))"
         )
         L_raw = get_column_letter(c_raw)
         L_need = get_column_letter(c_need)
