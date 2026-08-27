@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# artefacts محلية لنموذج معايير القوى العاملة
+moh-workforce/_meta.pkl
+moh-workforce/__pycache__/
