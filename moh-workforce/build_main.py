@@ -764,6 +764,9 @@ order = ["دليل الاستخدام", "لوحة التحكم",
          "التحقق من المطابقة", "مصفوفة الحساب"]
 wb._sheets = [wb[s] for s in order]
 wb.active = 1
+# لا تُخزَّن قيم محسوبة داخل الملف (openpyxl لا يكتبها)، لذا يُطلب من Excel
+# إعادة حساب الملف بالكامل عند كل فتح.
+wb.calculation.fullCalcOnLoad = True
 wb.save(OUT)
 print("saved:", OUT)
 print("sheets:", len(wb.sheetnames))
